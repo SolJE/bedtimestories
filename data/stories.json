@@ -1,0 +1,18 @@
+[
+  {
+    "id": "story-001",
+    "title": "The Brave Little Rabbit",
+    "titleZh": "勇敢的小兔子",
+    "publishDate": "2026-04-07",
+    "coverEmoji": "🐰",
+    "summary": "Max the rabbit learns that courage means doing something even when you are scared."
+  },
+  {
+    "id": "story-002",
+    "title": "The Clever Fox and the Magic Apple",
+    "titleZh": "聪明的狐狸和魔法苹果",
+    "publishDate": "2026-04-14",
+    "coverEmoji": "🦊",
+    "summary": "A clever fox discovers that sharing makes the magic apple even more powerful."
+  }
+]

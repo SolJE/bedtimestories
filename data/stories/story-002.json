@@ -1,0 +1,79 @@
+{
+  "id": "story-002",
+  "title": "The Clever Fox and the Magic Apple",
+  "titleZh": "聪明的狐狸和魔法苹果",
+  "publishDate": "2026-04-14",
+  "coverEmoji": "🦊",
+  "moral": "Sharing with others makes every gift more magical.",
+  "moralZh": "与他人分享，会让每一份礼物都变得更加神奇。",
+  "vocabulary": [
+    { "word": "clever", "phonetic": "/ˈklevər/", "meaning": "聪明的" },
+    { "word": "magic", "phonetic": "/ˈmædʒɪk/", "meaning": "魔法，神奇的" },
+    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现" },
+    { "word": "share", "phonetic": "/ʃer/", "meaning": "分享" },
+    { "word": "glow", "phonetic": "/ɡloʊ/", "meaning": "发光" },
+    { "word": "grateful", "phonetic": "/ˈɡreɪtfəl/", "meaning": "感激的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Deep in the golden forest, a clever fox named Lily found something wonderful — a shiny red apple that glowed in the sunlight."
+    },
+    {
+      "id": "p2",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Oh my!\" said Lily. \"This must be a magic apple! I will keep it all for myself!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But just then, she heard a small voice. It was her friend Bear, sitting alone under a tree."
+    },
+    {
+      "id": "p4",
+      "speaker": "Bear",
+      "speakerZh": "小熊",
+      "text": "\"I'm so hungry,\" Bear said sadly. \"I haven't eaten anything all day.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily looked at her apple. Then she looked at Bear. She thought for a moment."
+    },
+    {
+      "id": "p6",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Here, Bear,\" said Lily. \"Let's share this apple together.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The moment she broke the apple in two, something amazing happened. The apple began to glow even brighter, and it smelled like flowers and honey."
+    },
+    {
+      "id": "p8",
+      "speaker": "Bear",
+      "speakerZh": "小熊",
+      "text": "\"Wow!\" Bear gasped. \"It really is magic! Thank you, Lily. You are the best friend ever!\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "Lily smiled. \"I think the magic only works when you share it,\" she said. \"I feel so happy right now!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And they were right. The apple tasted sweeter than anything they had ever eaten before. Together, they watched the golden forest glow all around them."
+    }
+  ]
+}

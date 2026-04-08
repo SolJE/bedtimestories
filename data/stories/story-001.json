@@ -1,0 +1,85 @@
+{
+  "id": "story-001",
+  "title": "The Brave Little Rabbit",
+  "titleZh": "勇敢的小兔子",
+  "publishDate": "2026-04-07",
+  "coverEmoji": "🐰",
+  "moral": "Courage means doing something even when you are scared.",
+  "moralZh": "勇气，就是即使害怕，也要勇敢地迈出那一步。",
+  "vocabulary": [
+    { "word": "brave", "phonetic": "/breɪv/", "meaning": "勇敢的" },
+    { "word": "forest", "phonetic": "/ˈfɒrɪst/", "meaning": "森林" },
+    { "word": "scared", "phonetic": "/skerd/", "meaning": "害怕的" },
+    { "word": "shadow", "phonetic": "/ˈʃædoʊ/", "meaning": "影子，阴影" },
+    { "word": "courage", "phonetic": "/ˈkɜːrɪdʒ/", "meaning": "勇气" },
+    { "word": "proud", "phonetic": "/praʊd/", "meaning": "骄傲的，自豪的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Once upon a time, in a big green forest, there lived a little rabbit named Max. Max had soft white fur and the longest ears you had ever seen."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Every night, Max was scared of the dark. He would hide under his blanket and shake like a leaf."
+    },
+    {
+      "id": "p3",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"I don't want to go outside,\" said Max. \"The forest is too dark and too scary at night.\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Mama Rabbit",
+      "speakerZh": "兔妈妈",
+      "text": "\"Oh, Max,\" said Mama Rabbit softly. \"The dark is just the sky taking a rest. There is nothing to be afraid of.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"But what about those big shadows?\" Max asked, his ears flat against his head."
+    },
+    {
+      "id": "p6",
+      "speaker": "Mama Rabbit",
+      "speakerZh": "兔妈妈",
+      "text": "\"Those are just the trees dancing in the wind,\" Mama said with a smile. \"Come, I will walk with you.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Max took a deep breath. He held Mama's paw tightly and stepped outside. The night air was cool and fresh."
+    },
+    {
+      "id": "p8",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"Wow!\" Max whispered. \"The stars are so beautiful! I never knew the night looked like this!\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Mama Rabbit",
+      "speakerZh": "兔妈妈",
+      "text": "\"You see?\" Mama said proudly. \"My brave little rabbit. You did it!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "Max smiled the biggest smile. \"I was scared,\" he said, \"but I did it anyway. That means I have courage!\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that night on, Max loved looking at the stars. And he was never afraid of the dark again."
+    }
+  ]
+}
