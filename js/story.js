@@ -33,7 +33,7 @@ function renderStory(story, container) {
     const badgeClass = isNarrator ? 'speaker-narrator' : 'speaker-character';
     const speakerLabel = p.speakerZh ? `${p.speaker} · ${p.speakerZh}` : p.speaker;
     return `
-      <div class="paragraph" id="${escAttr(p.id)}" data-text="${escAttr(p.text)}" data-pid="${escAttr(p.id)}" tabindex="0" role="button" aria-label="Click to read aloud">
+      <div class="paragraph" id="${escAttr(p.id)}" data-text="${escAttr(p.text)}" data-pid="${escAttr(p.id)}" data-speaker="${escAttr(p.speaker)}" tabindex="0" role="button" aria-label="Click to read aloud">
         <span class="speaker-badge ${badgeClass}">${escHtml(speakerLabel)}</span>
         <div class="para-text">${escHtml(p.text)}</div>
       </div>
@@ -88,7 +88,8 @@ function renderStory(story, container) {
     el.addEventListener('click', () => {
       const text = el.dataset.text;
       const pid = el.dataset.pid;
-      speakText(text, pid);
+      const speaker = el.dataset.speaker;
+      speakText(text, pid, speaker);
     });
     el.addEventListener('keydown', e => {
       if (e.key === 'Enter' || e.key === ' ') {
