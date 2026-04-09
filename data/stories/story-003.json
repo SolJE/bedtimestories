@@ -1,0 +1,117 @@
+{
+  "id": "story-003",
+  "title": "The Boy Who Told the Truth",
+  "titleZh": "说真话的男孩",
+  "publishDate": "2026-04-09",
+  "coverEmoji": "⭐",
+  "moral": "Telling the truth takes courage, and it is always the right choice, even when it is hard.",
+  "moralZh": "说真话需要勇气，即使不容易，它也永远是正确的选择。",
+  "vocabulary": [
+    { "word": "honest", "phonetic": "/ˈɒnɪst/", "meaning": "诚实的" },
+    { "word": "broken", "phonetic": "/ˈbroʊkən/", "meaning": "破碎的" },
+    { "word": "nervous", "phonetic": "/ˈnɜːrvəs/", "meaning": "紧张的" },
+    { "word": "apologize", "phonetic": "/əˈpɒlədʒaɪz/", "meaning": "道歉" },
+    { "word": "forgive", "phonetic": "/fərˈɡɪv/", "meaning": "原谅" },
+    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现" },
+    { "word": "disappointed", "phonetic": "/ˌdɪsəˈpɔɪntɪd/", "meaning": "失望的" },
+    { "word": "treasure", "phonetic": "/ˈtreʒər/", "meaning": "珍贵的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Tom was a cheerful boy who lived in a cozy little village at the foot of a green hill. One sunny afternoon, he was playing ball in the living room, even though his mother had told him not to."
+    },
+    {
+      "id": "p2",
+      "speaker": "Tom",
+      "speakerZh": "汤姆",
+      "text": "\"I'll be extra careful!\" Tom said to himself. \"Nothing will go wrong!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But then — CRASH! The ball knocked over his mother's favorite vase. It fell to the floor and broke into pieces."
+    },
+    {
+      "id": "p4",
+      "speaker": "Tom",
+      "speakerZh": "汤姆",
+      "text": "\"Oh no!\" Tom whispered, his heart beating fast. \"Mom is going to be so angry!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Tom felt very nervous. He quickly swept the pieces under the sofa and sat down quietly. When his mother came home, she noticed something was different."
+    },
+    {
+      "id": "p6",
+      "speaker": "Mom",
+      "speakerZh": "妈妈",
+      "text": "\"Tom, where is my vase?\" Mom asked, looking at the empty table. \"It's not there anymore.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Tom",
+      "speakerZh": "汤姆",
+      "text": "Tom swallowed hard. \"I... I don't know, Mom. Maybe the cat knocked it over.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Tom's face turned red. He could not look his mother in the eye. That night, Tom could not sleep at all. He kept thinking about the broken vase."
+    },
+    {
+      "id": "p9",
+      "speaker": "Tom",
+      "speakerZh": "汤姆",
+      "text": "\"I feel terrible,\" Tom said to his stuffed bear. \"I lied to Mom. What should I do?\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Tom took a deep breath and walked into the kitchen. His mother was making breakfast."
+    },
+    {
+      "id": "p11",
+      "speaker": "Tom",
+      "speakerZh": "汤姆",
+      "text": "\"Mom, I need to tell you something,\" Tom said in a small voice. \"I broke your vase yesterday. I was playing ball inside, and it was an accident. I'm really sorry I lied to you.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Mom",
+      "speakerZh": "妈妈",
+      "text": "Mom put down her cooking spoon and looked at Tom quietly. Then she smiled gently. \"Tom, I am disappointed that you broke the vase and that you lied. But I am very proud of you for telling the truth now. That takes real courage.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Tom",
+      "speakerZh": "汤姆",
+      "text": "\"Can you forgive me?\" Tom asked, his eyes full of tears."
+    },
+    {
+      "id": "p14",
+      "speaker": "Mom",
+      "speakerZh": "妈妈",
+      "text": "\"Of course I forgive you,\" Mom said, giving Tom a warm hug. \"The vase was just a thing. But your honesty — that is something truly treasure-worthy.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that day on, Tom always told the truth. He discovered that being honest made him feel lighter and happier inside. And his mother trusted him more than ever before."
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Because telling the truth might be hard sometimes, but it is always the bravest thing you can do."
+    }
+  ]
+}
