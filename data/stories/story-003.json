@@ -1,117 +1,117 @@
 {
   "id": "story-003",
-  "title": "The Boy Who Told the Truth",
-  "titleZh": "说真话的男孩",
+  "title": "The Secret Garden of Friendship",
+  "titleZh": "友谊的秘密花园",
   "publishDate": "2026-04-09",
-  "coverEmoji": "⭐",
-  "moral": "Telling the truth takes courage, and it is always the right choice, even when it is hard.",
-  "moralZh": "说真话需要勇气，即使不容易，它也永远是正确的选择。",
+  "coverEmoji": "🌻",
+  "moral": "True friendship grows when we share our secrets and help each other grow.",
+  "moralZh": "真正的友谊，是在分享秘密和互相帮助中成长起来的。",
   "vocabulary": [
-    { "word": "honest", "phonetic": "/ˈɒnɪst/", "meaning": "诚实的" },
-    { "word": "broken", "phonetic": "/ˈbroʊkən/", "meaning": "破碎的" },
-    { "word": "nervous", "phonetic": "/ˈnɜːrvəs/", "meaning": "紧张的" },
-    { "word": "apologize", "phonetic": "/əˈpɒlədʒaɪz/", "meaning": "道歉" },
-    { "word": "forgive", "phonetic": "/fərˈɡɪv/", "meaning": "原谅" },
-    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现" },
-    { "word": "disappointed", "phonetic": "/ˌdɪsəˈpɔɪntɪd/", "meaning": "失望的" },
-    { "word": "treasure", "phonetic": "/ˈtreʒər/", "meaning": "珍贵的" }
+    { "word": "secret", "phonetic": "/ˈsiːkrɪt/", "meaning": "秘密" },
+    { "word": "garden", "phonetic": "/ˈɡɑːrdn/", "meaning": "花园" },
+    { "word": "friendship", "phonetic": "/ˈfrendʃɪp/", "meaning": "友谊" },
+    { "word": "share", "phonetic": "/ʃer/", "meaning": "分享" },
+    { "word": "lonely", "phonetic": "/ˈloʊnli/", "meaning": "孤独的" },
+    { "word": "bloom", "phonetic": "/bluːm/", "meaning": "开花，绽放" },
+    { "word": "together", "phonetic": "/təˈɡeðər/", "meaning": "一起，共同" },
+    { "word": "special", "phonetic": "/ˈspeʃəl/", "meaning": "特别的" }
   ],
   "paragraphs": [
     {
       "id": "p1",
       "speaker": "Narrator",
       "speakerZh": "旁白",
-      "text": "Tom was a cheerful boy who lived in a cozy little village at the foot of a green hill. One sunny afternoon, he was playing ball in the living room, even though his mother had told him not to."
+      "text": "In a small village, there lived a girl named Lily who loved flowers more than anything. She had a secret garden that no one knew about."
     },
     {
       "id": "p2",
-      "speaker": "Tom",
-      "speakerZh": "汤姆",
-      "text": "\"I'll be extra careful!\" Tom said to himself. \"Nothing will go wrong!\""
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"My garden is my special place,\" Lily whispered to herself. \"I wish I had someone to share it with, but I'm too shy to make friends.\""
     },
     {
       "id": "p3",
       "speaker": "Narrator",
       "speakerZh": "旁白",
-      "text": "But then — CRASH! The ball knocked over his mother's favorite vase. It fell to the floor and broke into pieces."
+      "text": "One day, a new girl named Mia moved in next door. Mia had big brown eyes and always looked a little lonely."
     },
     {
       "id": "p4",
-      "speaker": "Tom",
-      "speakerZh": "汤姆",
-      "text": "\"Oh no!\" Tom whispered, his heart beating fast. \"Mom is going to be so angry!\""
+      "speaker": "Mia",
+      "speakerZh": "米娅",
+      "text": "\"Hello,\" said Mia softly. \"I don't know anyone here. Would you like to play with me?\""
     },
     {
       "id": "p5",
-      "speaker": "Narrator",
-      "speakerZh": "旁白",
-      "text": "Tom felt very nervous. He quickly swept the pieces under the sofa and sat down quietly. When his mother came home, she noticed something was different."
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I... I have something to show you,\" Lily said nervously. \"But you have to promise to keep it a secret.\""
     },
     {
       "id": "p6",
-      "speaker": "Mom",
-      "speakerZh": "妈妈",
-      "text": "\"Tom, where is my vase?\" Mom asked, looking at the empty table. \"It's not there anymore.\""
+      "speaker": "Mia",
+      "speakerZh": "米娅",
+      "text": "\"I promise!\" Mia said, her eyes lighting up. \"I love secrets!\""
     },
     {
       "id": "p7",
-      "speaker": "Tom",
-      "speakerZh": "汤姆",
-      "text": "Tom swallowed hard. \"I... I don't know, Mom. Maybe the cat knocked it over.\""
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily led Mia to the back of her house, through a small gate hidden by vines. Mia gasped when she saw what was inside."
     },
     {
       "id": "p8",
-      "speaker": "Narrator",
-      "speakerZh": "旁白",
-      "text": "But Tom's face turned red. He could not look his mother in the eye. That night, Tom could not sleep at all. He kept thinking about the broken vase."
+      "speaker": "Mia",
+      "speakerZh": "米娅",
+      "text": "\"It's beautiful!\" Mia whispered. \"Sunflowers, roses, and daisies everywhere! It's like a rainbow garden!\""
     },
     {
       "id": "p9",
-      "speaker": "Tom",
-      "speakerZh": "汤姆",
-      "text": "\"I feel terrible,\" Tom said to his stuffed bear. \"I lied to Mom. What should I do?\""
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I grow them all myself,\" Lily said proudly. \"My mom taught me how to take care of plants. She said flowers need love and care, just like people.\""
     },
     {
       "id": "p10",
-      "speaker": "Narrator",
-      "speakerZh": "旁白",
-      "text": "The next morning, Tom took a deep breath and walked into the kitchen. His mother was making breakfast."
+      "speaker": "Mia",
+      "speakerZh": "米娅",
+      "text": "\"Can I help?\" Mia asked. \"I don't know much about gardening, but I really want to learn!\""
     },
     {
       "id": "p11",
-      "speaker": "Tom",
-      "speakerZh": "汤姆",
-      "text": "\"Mom, I need to tell you something,\" Tom said in a small voice. \"I broke your vase yesterday. I was playing ball inside, and it was an accident. I'm really sorry I lied to you.\""
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Of course!\" Lily said, smiling for the first time. \"I have an extra watering can. We can work together.\""
     },
     {
       "id": "p12",
-      "speaker": "Mom",
-      "speakerZh": "妈妈",
-      "text": "Mom put down her cooking spoon and looked at Tom quietly. Then she smiled gently. \"Tom, I am disappointed that you broke the vase and that you lied. But I am very proud of you for telling the truth now. That takes real courage.\""
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Every day after school, Lily and Mia worked in the garden. Lily taught Mia about flowers, and Mia told Lily stories about her old home."
     },
     {
       "id": "p13",
-      "speaker": "Tom",
-      "speakerZh": "汤姆",
-      "text": "\"Can you forgive me?\" Tom asked, his eyes full of tears."
+      "speaker": "Mia",
+      "speakerZh": "米娅",
+      "text": "\"You know, Lily,\" Mia said one sunny afternoon, \"my mom says that friendship is like a flower. It starts as a small seed, and with care, it grows into something beautiful.\""
     },
     {
       "id": "p14",
-      "speaker": "Mom",
-      "speakerZh": "妈妈",
-      "text": "\"Of course I forgive you,\" Mom said, giving Tom a warm hug. \"The vase was just a thing. But your honesty — that is something truly treasure-worthy.\""
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"You're right,\" Lily said, looking at their garden. \"This garden was lonely before. Now it feels happier with two gardeners.\""
     },
     {
       "id": "p15",
-      "speaker": "Narrator",
-      "speakerZh": "旁白",
-      "text": "From that day on, Tom always told the truth. He discovered that being honest made him feel lighter and happier inside. And his mother trusted him more than ever before."
+      "speaker": "Mia",
+      "speakerZh": "米娅",
+      "text": "\"And I was lonely before I met you,\" Mia said, giving Lily a hug. \"Now I have my first real friend in this village!\""
     },
     {
       "id": "p16",
       "speaker": "Narrator",
       "speakerZh": "旁白",
-      "text": "Because telling the truth might be hard sometimes, but it is always the bravest thing you can do."
+      "text": "The garden grew more beautiful than ever. And so did Lily and Mia's friendship. They learned that sharing secrets and helping each other grow makes friendship bloom."
     }
   ]
 }
