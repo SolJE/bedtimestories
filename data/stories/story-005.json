@@ -2,156 +2,138 @@
   "id": "story-005",
   "title": "The Little Star Who Never Gave Up",
   "titleZh": "永不放弃的小星星",
+  "publishDate": "2026-04-10",
+  "coverEmoji": "⭐",
   "theme": "perseverance",
   "themeZh": "坚持",
   "targetAge": "8岁",
   "duration": "10分钟",
-  "coverEmoji": "⭐",
-  
-  "moral": {
-    "en": "Never give up on your dreams, no matter how many times you fail. Every small step forward brings you closer to your goal.",
-    "zh": "无论失败多少次，都不要放弃梦想。每一次小小的进步都会让你离目标更近。"
-  },
-  
+  "moral": "Never give up on your dreams, no matter how many times you fail. Every small step forward brings you closer to your goal.",
+  "moralZh": "无论失败多少次，都不要放弃梦想。每一次小小的进步都会让你离目标更近。",
   "vocabulary": [
-    {
-      "word": "sparkle",
-      "phonetic": "/ˈspɑːrkəl/",
-      "meaning": "闪烁，发光",
-      "example": "The stars began to sparkle in the night sky."
-    },
-    {
-      "word": "fell off",
-      "phonetic": "/fel ɔːf/",
-      "meaning": "掉下来",
-      "example": "Little Star fell off the clouds many times."
-    },
-    {
-      "word": "tremendous",
-      "phonetic": "/trɪˈmendəs/",
-      "meaning": "巨大的，惊人的",
-      "example": "It was a tremendous effort to reach the sky."
-    },
-    {
-      "word": "patiently",
-      "phonetic": "/ˈpeɪʃəntli/",
-      "meaning": "耐心地",
-      "example": "Mother Moon waited patiently."
-    },
-    {
-      "word": "encouraged",
-      "phonetic": "/ɪnˈkʌrɪdʒd/",
-      "meaning": "被鼓励的",
-      "example": "Little Star felt encouraged by the kind words."
-    },
-    {
-      "word": "twinkle",
-      "phonetic": "/ˈtwɪŋkəl/",
-      "meaning": "闪烁，闪耀",
-      "example": "Little Star began to twinkle brightly."
-    },
-    {
-      "word": "journey",
-      "phonetic": "/ˈdʒɜːrni/",
-      "meaning": "旅程，旅途",
-      "example": "It was a long journey, but Little Star never stopped."
-    },
-    {
-      "word": "achieve",
-      "phonetic": "/əˈtʃiːv/",
-      "meaning": "实现，达到",
-      "example": "If you believe, you can achieve anything!"
-    }
+    { "word": "sparkle", "phonetic": "/ˈspɑːrkəl/", "meaning": "闪烁，发光" },
+    { "word": "fell off", "phonetic": "/fel ɔːf/", "meaning": "掉下来" },
+    { "word": "tremendous", "phonetic": "/trɪˈmendəs/", "meaning": "巨大的，惊人的" },
+    { "word": "patiently", "phonetic": "/ˈpeɪʃəntli/", "meaning": "耐心地" },
+    { "word": "encouraged", "phonetic": "/ɪnˈkʌrɪdʒd/", "meaning": "被鼓励的" },
+    { "word": "twinkle", "phonetic": "/ˈtwɪŋkəl/", "meaning": "闪烁，闪耀" },
+    { "word": "journey", "phonetic": "/ˈdʒɜːrni/", "meaning": "旅程，旅途" },
+    { "word": "achieve", "phonetic": "/əˈtʃiːv/", "meaning": "实现，达到" }
   ],
-  
-  "script": [
+  "paragraphs": [
     {
-      "type": "narrator",
-      "content": "High up in the sky, there lived a little star named Twinkle. But unlike the other stars, Twinkle had never learned how to sparkle."
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "High up in the sky, there lived a little star named Twinkle. But unlike the other stars, Twinkle had never learned how to sparkle."
     },
     {
-      "type": "dialogue",
-      "character": "Little Star",
-      "content": "Why can't I sparkle like my brothers and sisters?" 
+      "id": "p2",
+      "speaker": "Little Star",
+      "speakerZh": "小星星",
+      "text": "\"Why can't I sparkle like my brothers and sisters?\""
     },
     {
-      "type": "narrator",
-      "content": "Twinkle tried and tried, but every time she tried to shine, she would fall off the clouds and land back on the ground."
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Twinkle tried and tried, but every time she tried to shine, she would fall off the clouds and land back on the ground."
     },
     {
-      "type": "dialogue",
-      "character": "Little Star",
-      "content": "Ow! This is the 100th time I've fallen! Maybe I'm not meant to be a star..."
+      "id": "p4",
+      "speaker": "Little Star",
+      "speakerZh": "小星星",
+      "text": "\"Ow! This is the 100th time I've fallen! Maybe I'm not meant to be a star...\""
     },
     {
-      "type": "narrator",
-      "content": "Just then, Mother Moon came down to visit."
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Just then, Mother Moon came down to visit."
     },
     {
-      "type": "dialogue",
-      "character": "Mother Moon",
-      "content": "Little Twinkle, why are you so sad?"
+      "id": "p6",
+      "speaker": "Mother Moon",
+      "speakerZh": "月亮妈妈",
+      "text": "\"Little Twinkle, why are you so sad?\""
     },
     {
-      "type": "dialogue",
-      "character": "Little Star",
-      "content": "I keep falling! I can never reach the sky like the other stars. I give up."
+      "id": "p7",
+      "speaker": "Little Star",
+      "speakerZh": "小星星",
+      "text": "\"I keep falling! I can never reach the sky like the other stars. I give up.\""
     },
     {
-      "type": "dialogue",
-      "character": "Mother Moon",
-      "content": "Give up? But you've fallen 100 times! That means you've tried 100 times. That's tremendous, my dear!"
+      "id": "p8",
+      "speaker": "Mother Moon",
+      "speakerZh": "月亮妈妈",
+      "text": "\"Give up? But you've fallen 100 times! That means you've tried 100 times. That's tremendous, my dear!\""
     },
     {
-      "type": "dialogue",
-      "character": "Little Star",
-      "content": "But I still can't sparkle..."
+      "id": "p9",
+      "speaker": "Little Star",
+      "speakerZh": "小星星",
+      "text": "\"But I still can't sparkle...\""
     },
     {
-      "type": "dialogue",
-      "character": "Mother Moon",
-      "content": "Let me tell you a secret. Every time you fell, you learned something new. Now, let me teach you the magic sparkle dance!"
+      "id": "p10",
+      "speaker": "Mother Moon",
+      "speakerZh": "月亮妈妈",
+      "text": "\"Let me tell you a secret. Every time you fell, you learned something new. Now, let me teach you the magic sparkle dance!\""
     },
     {
-      "type": "narrator",
-      "content": "Mother Moon patiently showed Twinkle the sparkle dance. Step by step, they practiced together."
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mother Moon patiently showed Twinkle the sparkle dance. Step by step, they practiced together."
     },
     {
-      "type": "dialogue",
-      "character": "Mother Moon",
-      "content": "First, you wiggle your rays. Then, you spin around. And finally, you believe in yourself!"
+      "id": "p12",
+      "speaker": "Mother Moon",
+      "speakerZh": "月亮妈妈",
+      "text": "\"First, you wiggle your rays. Then, you spin around. And finally, you believe in yourself!\""
     },
     {
-      "type": "dialogue",
-      "character": "Little Star",
-      "content": "Believe in myself? I... I don't know if I can..."
+      "id": "p13",
+      "speaker": "Little Star",
+      "speakerZh": "小星星",
+      "text": "\"Believe in myself? I... I don't know if I can...\""
     },
     {
-      "type": "dialogue",
-      "character": "Mother Moon",
-      "content": "Of course you can! If you believe, you can achieve anything! Now try again!"
+      "id": "p14",
+      "speaker": "Mother Moon",
+      "speakerZh": "月亮妈妈",
+      "text": "\"Of course you can! If you believe, you can achieve anything! Now try again!\""
     },
     {
-      "type": "narrator",
-      "content": "Twinkle took a deep breath. She wiggled her rays, spun around, and believed with all her heart."
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Twinkle took a deep breath. She wiggled her rays, spun around, and believed with all her heart."
     },
     {
-      "type": "narrator",
-      "content": "POP! Suddenly, Twinkle began to twinkle! Her light grew brighter and brighter!"
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "POP! Suddenly, Twinkle began to twinkle! Her light grew brighter and brighter!"
     },
     {
-      "type": "dialogue",
-      "character": "Little Star",
-      "content": "I did it! I can sparkle! Thank you, Mother Moon!"
+      "id": "p17",
+      "speaker": "Little Star",
+      "speakerZh": "小星星",
+      "text": "\"I did it! I can sparkle! Thank you, Mother Moon!\""
     },
     {
-      "type": "dialogue",
-      "character": "Mother Moon",
-      "content": "You did it yourself, dear. You never gave up, and that's what made you shine!"
+      "id": "p18",
+      "speaker": "Mother Moon",
+      "speakerZh": "月亮妈妈",
+      "text": "\"You did it yourself, dear. You never gave up, and that's what made you shine!\""
     },
     {
-      "type": "narrator",
-      "content": "From that day on, Little Star Twinkle shone the brightest in the whole night sky. And every night, when children looked up, they could see her sparkle and twinkle, reminding them that dreams come true when you never give up."
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that day on, Little Star Twinkle shone the brightest in the whole night sky. And every night, when children looked up, they could see her sparkle and twinkle, reminding them that dreams come true when you never give up."
     }
   ]
 }
