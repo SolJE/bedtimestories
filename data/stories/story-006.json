@@ -1,0 +1,129 @@
+{
+  "id": "story-006",
+  "title": "The Kind Little Fox",
+  "titleZh": "善良的小狐狸",
+  "publishDate": "2026-04-16",
+  "coverEmoji": "🦊",
+  "moral": "Being kind to others makes the world a better place, and kindness always comes back to you.",
+  "moralZh": "对别人善良，世界就会变得更美好，善良总会回到你身边。",
+  "vocabulary": [
+    { "word": "kind", "phonetic": "/kaɪnd/", "meaning": "善良的，友好的" },
+    { "word": "hedgehog", "phonetic": "/ˈhedʒhɒɡ/", "meaning": "刺猬" },
+    { "word": "shy", "phonetic": "/ʃaɪ/", "meaning": "害羞的，腼腆的" },
+    { "word": "spiky", "phonetic": "/ˈspaɪki/", "meaning": "多刺的，有刺的" },
+    { "word": "garden", "phonetic": "/ˈɡɑːrdn/", "meaning": "花园" },
+    { "word": "share", "phonetic": "/ʃer/", "meaning": "分享" },
+    { "word": "friend", "phonetic": "/frend/", "meaning": "朋友" },
+    { "word": "smile", "phonetic": "/smaɪl/", "meaning": "微笑" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One sunny morning in the forest, a little fox named Felix was playing near the big oak tree."
+    },
+    {
+      "id": "p2",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"What a beautiful day! I wonder if anyone wants to play with me today.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then Felix saw a little hedgehog sitting alone behind a bush. The hedgehog looked very sad."
+    },
+    {
+      "id": "p4",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"Hello! My name is Felix. What's your name?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Holly",
+      "speakerZh": "小刺猬霍莉",
+      "text": "\"I... I'm Holly. Please don't come close. My back is full of spikes. I might hurt you.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"Don't worry! I can still be your friend. Would you like to play with me?\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Holly",
+      "speakerZh": "小刺猬霍莉",
+      "text": "\"Really? No one has ever wanted to play with me because of my spikes.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"That's not very kind of them. Let me show you something.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Felix took Holly to a beautiful garden full of colorful flowers."
+    },
+    {
+      "id": "p10",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"Look! These are called sunflowers. They face the sun every day. You know why?\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Holly",
+      "speakerZh": "小刺猬霍莉",
+      "text": "\"Why?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"Because they are kind to everyone! They give their warmth to everyone who passes by.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Holly",
+      "speakerZh": "小刺猬霍莉",
+      "text": "\"Like you? You are being very kind to me today.\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"Being kind is easy! Let me teach you a game we can play together.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Felix and Holly played games together all morning. Holly laughed and smiled for the first time in a long time."
+    },
+    {
+      "id": "p16",
+      "speaker": "Holly",
+      "speakerZh": "小刺猬霍莉",
+      "text": "\"Felix, thank you so much! You made me feel like I was not alone anymore.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Felix",
+      "speakerZh": "小狐狸菲利克斯",
+      "text": "\"That's what friends do! And now, I have a friend too. Your spikes are not scary at all!\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that day on, Felix and Holly were the best of friends. They learned that being kind to others makes everyone happy, including yourself."
+    }
+  ]
+}
