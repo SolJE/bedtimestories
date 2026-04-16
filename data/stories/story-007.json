@@ -1,0 +1,159 @@
+{
+  "id": "story-007",
+  "title": "The Curious Little Owl",
+  "titleZh": "好奇的小猫头鹰",
+  "publishDate": "2026-04-16",
+  "coverEmoji": "🦉",
+  "moral": "Curiosity opens the door to knowledge. When you ask questions and explore, you discover wonderful things you never knew before.",
+  "moralZh": "好奇心是通向知识的钥匙。当你提出问题、勇于探索时，你会发现许多从未想象过的奇妙事物。",
+  "vocabulary": [
+    { "word": "curious", "phonetic": "/ˈkjʊriəs/", "meaning": "好奇的，渴望知道的" },
+    { "word": "owl", "phonetic": "/aʊl/", "meaning": "猫头鹰" },
+    { "word": "explore", "phonetic": "/ɪkˈsplɔːr/", "meaning": "探索，探险" },
+    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现" },
+    { "word": "cave", "phonetic": "/keɪv/", "meaning": "洞穴" },
+    { "word": "crystal", "phonetic": "/ˈkrɪstl/", "meaning": "水晶，晶体" },
+    { "word": "whisper", "phonetic": "/ˈwɪspər/", "meaning": "低语，轻声说" },
+    { "word": "ancient", "phonetic": "/ˈeɪnʃənt/", "meaning": "古老的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Deep in the Whispering Woods, there lived a little owl named Oliver. Oliver was the most curious owl in the whole forest."
+    },
+    {
+      "id": "p2",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"What is beyond that hill? Why does the river sing? How do stars stay in the sky? I want to know everything!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One evening, Oliver heard an old story from his grandmother about a hidden cave behind the Moonlit Waterfall."
+    },
+    {
+      "id": "p4",
+      "speaker": "Grandma Owl",
+      "speakerZh": "猫头鹰奶奶",
+      "text": "\"They say the cave has walls that glow like rainbows. But no owl has been brave enough to find it.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"A cave that glows? I must find it! Where does the path start?\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Grandma Owl",
+      "speakerZh": "猫头鹰奶奶",
+      "text": "\"Follow the river upstream until you hear the waterfall. But remember, Oliver, never explore alone at night.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"I promise, Grandma! I will go first thing in the morning!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Oliver flew along the river. The sound of rushing water grew louder and louder."
+    },
+    {
+      "id": "p9",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"The waterfall! Grandma was right, it is beautiful! Now, where could the cave be?\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Oliver searched carefully behind the waterfall. He found a narrow path hidden behind a curtain of sparkling water."
+    },
+    {
+      "id": "p11",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"A hidden path! Let me explore it. I wonder what is inside...\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Oliver stepped through the waterfall and entered a large cave. His eyes grew wide with amazement."
+    },
+    {
+      "id": "p13",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"Wow! The walls... they are covered in crystals! They glow in every color of the rainbow!\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The cave was filled with ancient crystals that sparkled like stars. In the center, there was a small stone tablet with strange writing."
+    },
+    {
+      "id": "p15",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"What does this say? I cannot read these ancient words. I wish I knew what they meant.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Just then, a wise old turtle named Professor Sheldon slowly walked into the cave."
+    },
+    {
+      "id": "p17",
+      "speaker": "Sheldon",
+      "speakerZh": "谢尔顿教授",
+      "text": "\"Ah, I see a curious young owl has finally discovered this place. It has been many years since anyone found it.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"Can you read the writing on this stone tablet? What does it say?\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Sheldon",
+      "speakerZh": "谢尔顿教授",
+      "text": "\"It says: 'The greatest treasure is not what you find, but what you learn along the way.' These ancient words remind us that asking questions is the first step to wisdom.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"So being curious is a good thing? I always ask so many questions...\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Sheldon",
+      "speakerZh": "谢尔顿教授",
+      "text": "\"It is the best thing! Every great discovery in the world started with someone asking 'Why?' and 'What if?' Never stop being curious, young one.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Oliver",
+      "speakerZh": "小猫头鹰奥利弗",
+      "text": "\"Thank you, Professor! I will keep exploring and asking questions. There is so much to discover!\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Oliver flew home and told his grandmother all about the crystal cave. From that day on, every time he asked a question, he remembered that curiosity is the greatest gift of all."
+    }
+  ]
+}
