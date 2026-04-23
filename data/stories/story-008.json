@@ -1,0 +1,213 @@
+{
+  "id": "story-008",
+  "title": "The Little Penguin Who Made a Mistake",
+  "titleZh": "犯了错的小企鹅",
+  "publishDate": "2026-04-23",
+  "coverEmoji": "🐧",
+  "moral": "Being honest takes real courage. When we tell the truth about our mistakes, we become braver and our friends trust us even more.",
+  "moralZh": "承认错误需要真正的勇气。当我们诚实地面对自己的过错时，我们会变得更勇敢，朋友也会更加信任我们。",
+  "vocabulary": [
+    { "word": "honest", "phonetic": "/ˈɑːnɪst/", "meaning": "诚实的，坦白的" },
+    { "word": "mistake", "phonetic": "/mɪˈsteɪk/", "meaning": "错误，过失" },
+    { "word": "apologize", "phonetic": "/əˈpɑːlədʒaɪz/", "meaning": "道歉，认错" },
+    { "word": "forgive", "phonetic": "/fərˈɡɪv/", "meaning": "原谅，宽恕" },
+    { "word": "promise", "phonetic": "/ˈprɑːmɪs/", "meaning": "承诺，保证" },
+    { "word": "brave", "phonetic": "/breɪv/", "meaning": "勇敢的" },
+    { "word": "accident", "phonetic": "/ˈæksɪdənt/", "meaning": "意外，事故" },
+    { "word": "scared", "phonetic": "/skerd/", "meaning": "害怕的，恐惧的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "It was a sunny morning in Penguin Village. Pip the little penguin kicked his blue ball high into the air."
+    },
+    {
+      "id": "p2",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"Watch this, Penny! I am going to kick it all the way to the big rock!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Be careful, Pip! Mrs. Bear's house is right behind that rock!\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Pip kicked the ball too hard. It flew past the rock and — CRASH! — went straight through Mrs. Bear's window!"
+    },
+    {
+      "id": "p5",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"Oh no! I broke Mrs. Bear's window! She is going to be so angry with me!\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip quickly picked up his ball and ran home. He hid it under his bed and pretended nothing had happened."
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Pip did not feel happy. He sat on his bed with his head down. His tummy felt all twisty and worried."
+    },
+    {
+      "id": "p8",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Pip, what is wrong? You look very sad today.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"I... I broke Mrs. Bear's window with my ball. I am scared she will be very angry with me.\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Oh, Pip. Making a mistake is not the worst thing. The worst thing is not telling the truth. You need to be honest.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"But what if she is really, really angry?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Being brave means doing the right thing even when you are scared. You should go tell her the truth.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip took a deep breath. His tummy felt twisty, but he knew Penny was right."
+    },
+    {
+      "id": "p14",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"Okay. I will go tell Mrs. Bear. Will you come with me?\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Of course I will. You do not have to be scared. I am right here with you.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The two little penguins walked together to Mrs. Bear's house. Pip's heart went boom-boom-boom very fast."
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip knocked on the door. Mrs. Bear opened it with a surprised face."
+    },
+    {
+      "id": "p18",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"Oh! Little Pip, what can I do for you today?\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"Mrs. Bear... I... I broke your window. It was my ball. I am very sorry. Please forgive me.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mrs. Bear looked at the broken window. Then she looked at Pip's scared face."
+    },
+    {
+      "id": "p21",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"Oh my! My window! Oh dear... But Pip, I am not angry. I am proud of you for telling the truth. That took real courage.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"You... you are not angry?\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"No, dear. You made a mistake — it was an accident. But you were brave and honest. That is worth more than any window.\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"I promise I will be more careful next time. Can we help fix your window?\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"That is a wonderful idea! Let us go ask Leo the Lion. He has all the right tools to fix a window.\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip, Penny, and Mrs. Bear went to Leo's house. Leo the Lion loved helping his friends."
+    },
+    {
+      "id": "p27",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"A broken window? No problem! I have all the tools we need. Let us all work together!\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next day, all the animals worked together to fix the window. Leo held the new glass. Pip and Penny passed him tools. Mrs. Bear made fresh lemonade."
+    },
+    {
+      "id": "p29",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"Look! The window is as good as new! And look — I put your flowers back in their place.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Pip",
+      "speakerZh": "小企鹅皮普",
+      "text": "\"Thank you, Mrs. Bear. I was so scared, but I am glad I told the truth. My tummy feels much better now.\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"You were very brave today, Pip. Honest people are the best friends to have. I trust you even more now.\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip learned something very important that day. Making a mistake is okay — everyone makes mistakes. But being honest about them takes real courage. And when you tell the truth, your friends will trust you even more than before."
+    }
+  ]
+}
