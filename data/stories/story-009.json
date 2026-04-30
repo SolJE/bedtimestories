@@ -1,0 +1,238 @@
+{
+  "id": "story-009",
+  "title": "The Little Elephant Who Dreamed in Colors",
+  "titleZh": "用色彩做梦的小象",
+  "publishDate": "2026-04-30",
+  "coverEmoji": "🐘",
+  "moral": "Everyone has a special talent inside them. When you dare to dream and try something new, amazing things can happen.",
+  "moralZh": "每个人内心都藏着一项特别的才能。当你敢于梦想、尝试新事物时，美好的事情就会发生。",
+  "vocabulary": [
+    { "word": "imagination", "phonetic": "/ɪˌmædʒɪˈneɪʃn/", "meaning": "想象力，创造力" },
+    { "word": "ordinary", "phonetic": "/ˈɔːrdɪneri/", "meaning": "普通的，平常的" },
+    { "word": "extraordinary", "phonetic": "/ɪkˈstrɔːrdɪneri/", "meaning": "非凡的，了不起的" },
+    { "word": "sparkle", "phonetic": "/ˈspɑːrkl/", "meaning": "闪耀，闪烁" },
+    { "word": "canvas", "phonetic": "/ˈkænvəs/", "meaning": "画布" },
+    { "word": "unique", "phonetic": "/juːˈniːk/", "meaning": "独特的，独一无二的" },
+    { "word": "talent", "phonetic": "/ˈtælənt/", "meaning": "天赋，才能" },
+    { "word": "creative", "phonetic": "/kriˈeɪtɪv/", "meaning": "有创造力的" },
+    { "word": "masterpiece", "phonetic": "/ˈmæstərpiːs/", "meaning": "杰作，代表作" },
+    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现，发觉" },
+    { "word": "brave", "phonetic": "/breɪv/", "meaning": "勇敢的" },
+    { "word": "dream", "phonetic": "/driːm/", "meaning": "梦想，梦想" },
+    { "word": "believe", "phonetic": "/bɪˈliːv/", "meaning": "相信，信任" },
+    { "word": "jungle", "phonetic": "/ˈdʒʌŋɡl/", "meaning": "丛林，密林" },
+    { "word": "talent show", "phonetic": "/ˈtælənt ʃoʊ/", "meaning": "才艺表演" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Every year, the animals in Sunny Jungle held a big talent show. All the animals practiced their special skills to show off."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Monkeys swung from trees. Parrots sang beautiful songs. Lions danced with big strong steps. Everyone was excited!"
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But little Ellie the elephant sat sadly by the big pond. She watched the other animals practice. She did not know what her talent was."
+    },
+    {
+      "id": "p4",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"Monkeys swing. Parrots sing. Lions dance. But what can I do? I am just an ordinary elephant. I have no special talent.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"Hey, Ellie! Why are you sitting here alone? Are you practicing for the talent show?\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"No, Leo. I have no talent. I cannot swing like the monkeys. I cannot sing like the parrots. I am just... ordinary.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"That is silly! Everyone has something special inside them. You just have to find it!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"But I looked everywhere. I do not have anything special.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"Have you tried using your imagination?\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"My... imagination?\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"Yes! Close your eyes and dream. What do you see in your mind?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ellie closed her eyes. In her mind, she saw beautiful colors — red, blue, yellow, and green — swimming and dancing together!"
+    },
+    {
+      "id": "p13",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"I... I see colors! So many beautiful colors!\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"There you go! You have an imagination! Now let us see what you can do with it!\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ellie ran to the old shed behind the school. She found some old jars of colorful paint — red, blue, yellow, green, and purple!"
+    },
+    {
+      "id": "p16",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"I know! I will try to paint!\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ellie picked up a big brush with her trunk. She dipped it in blue paint and splashed it onto the canvas. Then yellow. Then red!"
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "As she painted, something magical happened. The colors began to sparkle and dance! They turned into beautiful pictures — a sunny jungle, a rainbow over the pond, and her friends playing together!"
+    },
+    {
+      "id": "p19",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"Wow! This is... this is a masterpiece! My imagination made it come alive!\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Ellie! What is that amazing picture? It is so beautiful!\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"I painted it with my imagination, Penny! I discovered something I can do!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"It is extraordinary! You should show everyone at the talent show!\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"Really? Do you think they will like it?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Penny",
+      "speakerZh": "小企鹅佩妮",
+      "text": "\"Like it? They will love it! It is so unique! No one else in the whole jungle can paint like you!\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "On the day of the talent show, all the animals sat in the big clearing. Monkeys swung. Parrots sang. Lions danced. Then it was Ellie's turn."
+    },
+    {
+      "id": "p26",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ellie walked to the front. She was very nervous. Her tummy felt all twisty."
+    },
+    {
+      "id": "p27",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"I... I am not like the other animals. I cannot swing or sing or dance. But I have a talent too.\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ellie lifted her big canvas. As she painted with her magical imagination, the colors danced and sparkled. They turned into a beautiful rainbow over the whole jungle!"
+    },
+    {
+      "id": "p29",
+      "speaker": "Leo",
+      "speakerZh": "狮子利奥",
+      "text": "\"That is the most extraordinary thing I have ever seen!\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Mrs. Bear",
+      "speakerZh": "熊太太",
+      "text": "\"It is like magic! You made art come alive!\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "All the animals cheered and clapped. Their stomps made the ground shake!"
+    },
+    {
+      "id": "p32",
+      "speaker": "Parrot Polly",
+      "speakerZh": "鹦鹉波莉",
+      "text": "\"Bravo, Ellie! You are so creative! Your painting is the most unique talent of all!\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ellie smiled a big smile. She felt so happy inside."
+    },
+    {
+      "id": "p34",
+      "speaker": "Ellie",
+      "speakerZh": "小象艾莉",
+      "text": "\"Thank you, everyone. I thought I was just ordinary. But with my imagination, I discovered my talent. You just have to believe in yourself and dream big!\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "All the animals gave Ellie a big hug. She was the star of the talent show. And every day after that, Ellie painted more beautiful pictures — because she knew that imagination is the most magical talent of all."
+    }
+  ]
+}
