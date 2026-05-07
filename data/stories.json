@@ -70,5 +70,13 @@
       "publishDate": "2026-04-30",
       "coverEmoji": "🐘",
       "summary": "Ellie the elephant discovers that imagination is her unique talent and learns that everyone has something special inside them."
+    },
+    {
+      "id": "story-010",
+      "title": "The Little Squirrel's Big Feast",
+      "titleZh": "小松鼠的大盛宴",
+      "publishDate": "2026-05-07",
+      "coverEmoji": "🐿️",
+      "summary": "Sam the squirrel hoards acorns all summer but feels lonely, until he learns that sharing brings friends — and joy far greater than anything he could keep for himself."
     }
   ]

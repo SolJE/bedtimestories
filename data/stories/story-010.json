@@ -1,0 +1,157 @@
+{
+  "id": "story-010",
+  "title": "The Little Squirrel's Big Feast",
+  "titleZh": "小松鼠的大盛宴",
+  "publishDate": "2026-05-07",
+  "coverEmoji": "🐿️",
+  "moral": "When we share what we have, we make friends and create joy that is greater than anything we could keep for ourselves.",
+  "moralZh": "当我们分享所拥有的东西时，我们结交了朋友，创造出比独自拥有更大的快乐。",
+  "vocabulary": [
+    { "word": "acorn", "phonetic": "/ˈeɪkɔːrn/", "meaning": "橡子（橡树果实）" },
+    { "word": "feast", "phonetic": "/fiːst/", "meaning": "盛宴，丰盛的一餐" },
+    { "word": "hollow", "phonetic": "/ˈhɒləʊ/", "meaning": "空心的；树洞" },
+    { "word": "lonely", "phonetic": "/ˈləʊnli/", "meaning": "孤独的，寂寞的" },
+    { "word": "generous", "phonetic": "/ˈdʒenərəs/", "meaning": "慷慨的，大方的" },
+    { "word": "grateful", "phonetic": "/ˈɡreɪtfl/", "meaning": "感激的，感谢的" },
+    { "word": "nibble", "phonetic": "/ˈnɪbl/", "meaning": "一点一点地啃咬" },
+    { "word": "invite", "phonetic": "/ɪnˈvaɪt/", "meaning": "邀请" },
+    { "word": "plenty", "phonetic": "/ˈplenti/", "meaning": "大量，充足" },
+    { "word": "together", "phonetic": "/təˈɡeðər/", "meaning": "一起，共同" },
+    { "word": "delicious", "phonetic": "/dɪˈlɪʃəs/", "meaning": "美味的" },
+    { "word": "celebrate", "phonetic": "/ˈselɪbreɪt/", "meaning": "庆祝" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Deep in the golden autumn forest, a little squirrel named Sam had spent the whole summer collecting acorns. His hollow in the old oak tree was completely full — acorns in every corner! Sam counted them every morning and felt very proud."
+    },
+    {
+      "id": "p2",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"One hundred and twelve acorns! They are all mine. I will never be hungry this winter!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But at night, Sam sat alone at the entrance of his hollow, looking at the stars. The forest was quiet. Too quiet. He could hear his own heartbeat. Sam was lonely."
+    },
+    {
+      "id": "p4",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"I have so many acorns, but I have nobody to talk to. Why does my heart feel empty?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Sam heard a soft sound from below. He looked down and saw a little hedgehog named Hana, searching carefully through the dry leaves."
+    },
+    {
+      "id": "p6",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"Hey! What are you looking for down there?\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Hana",
+      "speakerZh": "哈娜",
+      "text": "\"Oh, hello! I am Hana. I am looking for some berries or nuts. I did not find enough food this summer and now I am very hungry.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Sam looked at his pile of one hundred and twelve acorns. Then he looked at little Hana's thin, tired face. Something warm stirred inside his heart."
+    },
+    {
+      "id": "p9",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"I have plenty of acorns! Come up, I will share some with you!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Hana",
+      "speakerZh": "哈娜",
+      "text": "\"Really? Are you sure? That is very generous of you, Sam!\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Sam gave Hana a big handful of acorns. They sat together and began to nibble on the acorns. Sam noticed something surprising — the acorns tasted more delicious than ever before."
+    },
+    {
+      "id": "p12",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"Why does this acorn taste so much better today? It is the same acorn I always eat!\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Hana",
+      "speakerZh": "哈娜",
+      "text": "\"My grandmother always says — food shared with a friend always tastes sweeter!\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Sam laughed. He suddenly had a wonderful idea. He ran through the forest and invited all of his neighbors — a family of rabbits, a little bluebird, and old Mr. Tortoise."
+    },
+    {
+      "id": "p15",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"Friends! Come to my hollow today! I want to celebrate autumn together and share my acorns with all of you!\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Bluebird",
+      "speakerZh": "小蓝鸟",
+      "text": "\"Oh, what a wonderful idea! I will bring some berries I found by the stream!\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Rabbit",
+      "speakerZh": "小兔子",
+      "text": "\"We will bring fresh carrots from our garden! This will be a real feast!\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Mr. Tortoise",
+      "speakerZh": "乌龟先生",
+      "text": "\"And I will bring my special honey cakes! I have been saving them for a special day, and today is definitely special!\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That afternoon, the old oak tree became the most joyful place in the whole forest. Everyone brought something to share, and together they had the biggest, most delicious feast the forest had ever seen."
+    },
+    {
+      "id": "p20",
+      "speaker": "Sam",
+      "speakerZh": "山姆",
+      "text": "\"I thought having one hundred and twelve acorns would make me the happiest squirrel. But this — all of us together — this is the best feeling of all!\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Hana",
+      "speakerZh": "哈娜",
+      "text": "\"Thank you for being so generous, Sam. You turned a lonely day into something beautiful. You are a true friend.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, Sam sat at the entrance of his hollow again. The forest was full of the warm sounds of laughter and singing. He looked at the stars and smiled. He still had ninety acorns left — but now he also had something far more precious: a heart full of friends and the warmest feeling of happiness he had ever known."
+    }
+  ]
+}

@@ -29,6 +29,27 @@
 
 ---
 
+## Week 4 - 2026-04-16 (story-006 & story-007)
+**状态**: ✅ 成功（两篇故事）
+
+**story-006**: The Kind Little Fox (善良的小狐狸) - 主题: 善良 Kindness
+**story-007**: The Curious Little Owl (好奇的小猫头鹰) - 主题: 好奇心 Curiosity
+
+**Git提交**: 两篇故事已推送
+
+---
+
+## Week 5 - 2026-04-30
+**状态**: ✅ 成功
+**主题**: 想象力 (Imagination)
+**故事标题**: The Little Elephant Who Dreamed in Colors (用色彩做梦的小象)
+**故事ID**: story-009
+**封面Emoji**: 🐘
+**Git提交**: 355dcf6 - "Add Week 5 story: The Little Elephant Who Dreamed in Colors"
+**推送状态**: ✅ 成功
+
+---
+
 ## 📋 故事文件格式规范（必须严格遵守）
 
 ### 正确格式示例
