@@ -1,0 +1,163 @@
+{
+  "id": "story-011",
+  "title": "The Little Bear Who Listened with His Heart",
+  "titleZh": "用心倾听的小熊",
+  "publishDate": "2026-05-14",
+  "coverEmoji": "🐻",
+  "moral": "True friends don't just hear words — they listen with their hearts and try to understand how others feel.",
+  "moralZh": "真正的朋友不只是听见话语，而是用心倾听，尝试理解对方的感受。",
+  "vocabulary": [
+    { "word": "empathy", "phonetic": "/ˈempəθi/", "meaning": "同理心，感同身受" },
+    { "word": "upset", "phonetic": "/ʌpˈset/", "meaning": "难过的，心烦意乱的" },
+    { "word": "comfort", "phonetic": "/ˈkʌmfərt/", "meaning": "安慰；舒适" },
+    { "word": "understand", "phonetic": "/ˌʌndəˈstænd/", "meaning": "理解，明白" },
+    { "word": "gently", "phonetic": "/ˈdʒentli/", "meaning": "温柔地，轻轻地" },
+    { "word": "lonely", "phonetic": "/ˈloʊnli/", "meaning": "孤独的，寂寞的" },
+    { "word": "apologize", "phonetic": "/əˈpɒlədʒaɪz/", "meaning": "道歉，认错" },
+    { "word": "realize", "phonetic": "/ˈriːəlaɪz/", "meaning": "意识到，认识到" },
+    { "word": "imagine", "phonetic": "/ɪˈmædʒɪn/", "meaning": "想象，设想" },
+    { "word": "burst", "phonetic": "/bɜːrst/", "meaning": "突然发生；（情感）爆发" },
+    { "word": "blanket", "phonetic": "/ˈblæŋkɪt/", "meaning": "毯子，毛毯" },
+    { "word": "relieved", "phonetic": "/rɪˈliːvd/", "meaning": "感到宽慰的，松了口气的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In a cozy forest village, there lived a little bear named Bruno. Bruno was big and cheerful, and he loved to play with his best friend — a small rabbit named Rosie."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One sunny morning, Bruno ran to Rosie's house with a big smile on his face."
+    },
+    {
+      "id": "p3",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"Rosie! Rosie! Let's go to the pond today! I learned how to skip stones! It's SO much fun!\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Rosie sat quietly on her porch, hugging her little blanket. She didn't look up."
+    },
+    {
+      "id": "p5",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"I don't want to go today, Bruno.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"Aww, come on! The water is so sparkly! You'll love it!\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"I said I don't want to go.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bruno felt a little confused. He had never seen Rosie like this before. He was about to say \"Fine, I'll go alone!\" — but then he stopped. He looked at Rosie again. Her eyes were red, and her ears were drooping low."
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Something inside Bruno whispered: 'Wait. She looks really upset.'"
+    },
+    {
+      "id": "p10",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"Rosie... are you okay?\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"No... not really.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"What happened? Can you tell me?\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"Yesterday, everyone played a game at school. But no one asked me to join. I felt... really lonely.\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bruno was quiet for a moment. He tried to imagine how that must have felt — sitting alone while everyone laughed and played without him. It felt like a cold wind blowing through his heart."
+    },
+    {
+      "id": "p15",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"Oh, Rosie. That sounds really hard. I would feel sad too, if that happened to me.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"Really? You understand?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"Yes. Being left out hurts. I'm sorry that happened to you, Rosie.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Rosie's eyes grew wide. She had expected Bruno to say \"Don't worry, it's fine!\" or \"Let's just go play!\" But instead, he just... understood. Suddenly, she felt a little lighter."
+    },
+    {
+      "id": "p19",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"Thank you, Bruno. That makes me feel better.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Bruno",
+      "speakerZh": "布鲁诺",
+      "text": "\"Do you want to sit together for a while? We don't have to go anywhere.\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Rosie",
+      "speakerZh": "罗西",
+      "text": "\"Actually... maybe a walk would be nice now. Thank you for listening, Bruno.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "As they walked through the sunny forest together, Bruno realized something important: sometimes, the best thing you can do for a friend isn't to fix their problem — it's to truly listen and let them know you understand."
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And that is called empathy — listening not just with your ears, but with your whole heart."
+    }
+  ]
+}
