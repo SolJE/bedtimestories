@@ -50,6 +50,34 @@
 
 ---
 
+## Week 6 - 2026-05-07
+**状态**: ✅ 成功
+**主题**: 分享 (Sharing)
+**故事标题**: The Little Squirrel's Big Feast (小松鼠的大盛宴)
+**故事ID**: story-010
+**封面Emoji**: 🐿️
+**角色**: Sam松鼠、Hana刺猬、小蓝鸟、兔子家族、乌龟先生
+**段落数**: 22段（旁白+对话混合）
+**生词数**: 12个
+**Git提交**: 4185cf3 - "Add Week 6 story: The Little Squirrel's Big Feast"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
+
+---
+
+## Week 7 - 2026-05-14
+**状态**: ✅ 成功
+**主题**: 同理心 (Empathy)
+**故事标题**: The Little Bear Who Listened with His Heart (用心倾听的小熊)
+**故事ID**: story-011
+**封面Emoji**: 🐻
+**角色**: Bruno小熊、Rosie小兔
+**段落数**: 23段（旁白+对话混合）
+**生词数**: 12个（empathy, upset, comfort, understand, gently, lonely, apologize, realize, imagine, burst, blanket, relieved）
+**Git提交**: 7c8ebf2 - "Add Week 7 story: The Little Bear Who Listened with His Heart"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
+
+---
+
 ## 📋 故事文件格式规范（必须严格遵守）
 
 ### 正确格式示例

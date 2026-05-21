@@ -1,0 +1,205 @@
+{
+  "id": "story-012",
+  "title": "The Kitten Who Found a Friend",
+  "titleZh": "找到朋友的小猫咪",
+  "publishDate": "2026-05-21",
+  "coverEmoji": "🐱",
+  "moral": "A true friend sees the special light inside you and helps it shine brighter — even when you can't see it yourself.",
+  "moralZh": "真正的朋友能看到你内心独特的光芒，并帮助它更加闪耀——即使你自己都看不见。",
+  "vocabulary": [
+    { "word": "neighborhood", "phonetic": "/ˈneɪbərhʊd/", "meaning": "社区，街区" },
+    { "word": "nervous", "phonetic": "/ˈnɜːrvəs/", "meaning": "紧张的，不安的" },
+    { "word": "whisper", "phonetic": "/ˈwɪspər/", "meaning": "低声说，耳语" },
+    { "word": "shy", "phonetic": "/ʃaɪ/", "meaning": "害羞的，腼腆的" },
+    { "word": "masterpiece", "phonetic": "/ˈmæstərpiːs/", "meaning": "杰作，代表作" },
+    { "word": "gallery", "phonetic": "/ˈɡæləri/", "meaning": "画廊，美术馆" },
+    { "word": "encourage", "phonetic": "/ɪnˈkɜːrɪdʒ/", "meaning": "鼓励，激励" },
+    { "word": "talented", "phonetic": "/ˈtæləntɪd/", "meaning": "有天赋的，才华横溢的" },
+    { "word": "marvelous", "phonetic": "/ˈmɑːrvələs/", "meaning": "了不起的，绝妙的" },
+    { "word": "stumble", "phonetic": "/ˈstʌmbl/", "meaning": "绊倒，结巴地说话" },
+    { "word": "wobble", "phonetic": "/ˈwɒbl/", "meaning": "摇晃，摇摆不定" },
+    { "word": "blush", "phonetic": "/blʌʃ/", "meaning": "脸红，感到害羞" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "A little orange kitten named Coco had just moved to a new neighborhood with her family. Everything was different — the streets, the trees, the sounds. And worst of all, she didn't have any friends yet."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One afternoon, Coco sat on her front porch, watching other animal children play across the street. They were laughing and chasing each other. Coco's tail drooped."
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama Cat",
+      "speakerZh": "猫妈妈",
+      "text": "\"Why don't you go say hello, sweetie?\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"I'm too nervous, Mama. What if they don't like me?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Mama Cat",
+      "speakerZh": "猫妈妈",
+      "text": "\"You'll never know until you try. Just be yourself — that's more than enough.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Coco took a deep breath and padded down the street. But as she passed the old oak tree, she heard a strange sound — a soft sniffle. She peeked behind the tree and saw a small bunny with floppy ears, sitting alone with a paintbrush in her paw."
+    },
+    {
+      "id": "p7",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"Hi... are you okay?\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The bunny looked up, startled. Her big round eyes were shiny with tears."
+    },
+    {
+      "id": "p9",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"Oh! I — um — I'm fine!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"You don't look fine. My name is Coco. I just moved here. What's your name?\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"I'm Pip. I... I was painting, but I messed up. It's ruined.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Coco looked at the painting lying on the grass. It was a painting of a sunset over a meadow — and even to Coco's untrained eye, it was absolutely beautiful. But there was one tiny wobble of orange paint near the bottom."
+    },
+    {
+      "id": "p13",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"Ruined? Pip, this is AMAZING! Did you really paint this?\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"It's not that good... See this messy spot? I was trying to paint a butterfly, but my paw slipped.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"Wait! Don't paint over it. That orange blob... it looks like the sun is saying hello! It makes the painting even more special.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip blinked. She had never thought of it that way before. A tiny smile crept onto her face."
+    },
+    {
+      "id": "p17",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"You really think so?\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"I know so! Pip, you are SO talented! Do you have more paintings?\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pip's ears perked up. She hesitated for a moment, then nodded shyly. She pulled out a worn sketchbook from her bag, filled with painting after painting — fields of wildflowers, a moonlit river, a rainbow over the hills."
+    },
+    {
+      "id": "p20",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"Pip! These are marvelous! You should show everyone!\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"Oh no, no, no! I could never. I'm too shy. What if they laugh at me?\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"Then I'll be right there with you. Friends don't let friends hide their masterpieces.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next day, Coco and Pip set up a little art gallery under the old oak tree. Coco hung Pip's paintings on a string between two branches and called all the neighborhood children to come see."
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "At first, Pip wanted to hide behind the tree. But Coco held her paw and whispered, \"You've got this.\" When the other animals gathered around and said \"Whoa!\" and \"Did you paint these?\" — Pip's heart swelled with joy."
+    },
+    {
+      "id": "p25",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"Do they really like them?\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"They LOVE them! I told you! See? Your art is your superpower.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That evening, as the sun set and the two new friends sat under the oak tree, Coco looked around at their new neighborhood — and it didn't feel so strange anymore."
+    },
+    {
+      "id": "p28",
+      "speaker": "Pip",
+      "speakerZh": "皮皮",
+      "text": "\"Coco? Thank you for seeing something in me that I couldn't see myself. You're the best friend I've ever had.\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Coco",
+      "speakerZh": "可可",
+      "text": "\"And you're the best friend I've ever had in this whole new neighborhood. You know what they say... some friends are born when two hearts bump into each other at just the right time.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Coco was right. She had come looking for friends, but instead she found something even better — she found someone whose light she could help shine. And that, after all, is what true friendship is all about."
+    }
+  ]
+}
