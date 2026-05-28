@@ -78,6 +78,20 @@
 
 ---
 
+## Week 8 - 2026-05-21
+**状态**: ✅ 成功
+**主题**: 友谊 (Friendship)
+**故事标题**: The Kitten Who Found a Friend (找到朋友的小猫咪)
+**故事ID**: story-012
+**封面Emoji**: 🐱
+**角色**: Coco小猫、Pip小兔、Mama Cat猫妈妈
+**段落数**: 30段（旁白+对话混合）
+**生词数**: 12个（neighborhood, nervous, whisper, shy, masterpiece, gallery, encourage, talented, marvelous, stumble, wobble, blush）
+**Git提交**: 1613cc0 - "Add Week 8 story: The Kitten Who Found a Friend"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
+
+---
+
 ## 📋 故事文件格式规范（必须严格遵守）
 
 ### 正确格式示例

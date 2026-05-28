@@ -1,0 +1,253 @@
+{
+  "id": "story-013",
+  "title": "The Little Mouse Who Planted Kindness",
+  "titleZh": "种下善良的小老鼠",
+  "publishDate": "2026-05-28",
+  "coverEmoji": "🐭",
+  "moral": "Every small act of kindness is like a seed — you never know how big and beautiful it will grow.",
+  "moralZh": "每一个小小的善举都像一颗种子——你永远不知道它会长得多么高大美丽。",
+  "vocabulary": [
+    { "word": "kindness", "phonetic": "/ˈkaɪndnəs/", "meaning": "善良，好意" },
+    { "word": "wilting", "phonetic": "/ˈwɪltɪŋ/", "meaning": "枯萎的，蔫了的" },
+    { "word": "glasses", "phonetic": "/ˈɡlæsɪz/", "meaning": "眼镜" },
+    { "word": "berry", "phonetic": "/ˈberi/", "meaning": "浆果" },
+    { "word": "storm", "phonetic": "/stɔːrm/", "meaning": "暴风雨" },
+    { "word": "paw", "phonetic": "/pɔː/", "meaning": "爪子" },
+    { "word": "grateful", "phonetic": "/ˈɡreɪtfl/", "meaning": "感激的，感谢的" },
+    { "word": "blossom", "phonetic": "/ˈblɒsəm/", "meaning": "开花，绽放" },
+    { "word": "harvest", "phonetic": "/ˈhɑːrvɪst/", "meaning": "丰收，收获" },
+    { "word": "secret", "phonetic": "/ˈsiːkrət/", "meaning": "秘密的，偷偷的" },
+    { "word": "bandage", "phonetic": "/ˈbændɪdʒ/", "meaning": "绷带，包扎" },
+    { "word": "ripple", "phonetic": "/ˈrɪpl/", "meaning": "涟漪，扩散" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "At the edge of Whispering Woods, in a tiny house made of a walnut shell, lived a little mouse named Milo. Milo was small — smaller than a pinecone — but his heart was bigger than the sky."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Every morning, Milo would wake up and ask himself the same question: \"Who can I help today?\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama Mouse",
+      "speakerZh": "鼠妈妈",
+      "text": "\"Milo, you're always running off to do things for others. Don't you ever want to rest?\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Resting is nice, Mama. But helping feels even better! Besides, kindness is like planting seeds. The more you plant, the more grows!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo scampered through the woods. Near the old stone wall, he saw Mrs. Squirrel staring sadly at her flower patch. The flowers were drooping and wilting in the hot sun."
+    },
+    {
+      "id": "p6",
+      "speaker": "Mrs. Squirrel",
+      "speakerZh": "松鼠太太",
+      "text": "\"Oh dear, my beautiful flowers. The stream is too far, and my arms are too tired to carry water...\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Don't worry, Mrs. Squirrel! I'll help!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo found a large leaf, folded it into a cup, and made trip after trip to the stream. Each time, he carried just a few drops — but after many trips, the flowers perked up and smiled at the sun."
+    },
+    {
+      "id": "p9",
+      "speaker": "Mrs. Squirrel",
+      "speakerZh": "松鼠太太",
+      "text": "\"Milo, you saved my garden! Thank you so much!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"It was nothing! A garden is happiest when it has friends to care for it.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Further along the path, Milo found Mr. Owl sitting under a tree, looking very confused. His round glasses were missing."
+    },
+    {
+      "id": "p12",
+      "speaker": "Mr. Owl",
+      "speakerZh": "猫头鹰先生",
+      "text": "\"Hootie-hoo... without my glasses, I can't read my books. Everything is just a fuzzy blur!\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"I'll find them for you, Mr. Owl! Where were you reading last?\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo searched high and low. He looked under bushes, inside hollow logs, and behind rocks. Finally, tucked between two roots of the old oak tree, he spotted the shiny glasses."
+    },
+    {
+      "id": "p15",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Found them! Here you go, Mr. Owl!\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Mr. Owl",
+      "speakerZh": "猫头鹰先生",
+      "text": "\"Hootie-ray! Milo, you have the keenest eyes in the whole forest! How can I ever repay you?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Just read me a story sometime! That would be repayment enough.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Near the berry patch, Milo spotted Benny the hedgehog sitting alone. Benny was very shy and always curled into a ball when anyone came near."
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo didn't say a word. He quietly picked a handful of the juiciest berries and placed them on a leaf next to Benny, then scurried away."
+    },
+    {
+      "id": "p20",
+      "speaker": "Benny",
+      "speakerZh": "班尼",
+      "text": "\"Wait — who left these?\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Benny looked around and saw a tiny mouse tail disappear behind a bush. He smiled and uncurled just a little bit."
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Days passed. Milo continued his secret kindness missions — mending a bird's nest, clearing a blocked path, leaving acorns for a tired traveler. He never asked for thanks. He never expected anything in return."
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then one afternoon, a big storm rolled over Whispering Woods. The wind howled, rain poured, and Milo's little walnut house was swept off its branch and smashed into pieces."
+    },
+    {
+      "id": "p24",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Oh no! My house! Where will I sleep tonight?\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo was wet, cold, and his paw was bruised from the fall. He sat under a mushroom, shivering. But word spread quickly through the forest."
+    },
+    {
+      "id": "p26",
+      "speaker": "Mrs. Squirrel",
+      "speakerZh": "松鼠太太",
+      "text": "\"Milo! I heard what happened! Come, stay in my den tonight. I've made a warm bed of moss just for you.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Mr. Owl",
+      "speakerZh": "猫头鹰先生",
+      "text": "\"Hootie-hoo! And I'll bring over some hot berry tea for that paw!\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then came Benny the hedgehog, rolling a big pile of soft leaves."
+    },
+    {
+      "id": "p29",
+      "speaker": "Benny",
+      "speakerZh": "班尼",
+      "text": "\"Milo... you always left me berries when I was lonely and too shy to ask. Now it's my turn to help you. These leaves will keep you warm all night.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Benny! You uncurled! I'm so happy to see you!\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Milo woke up to a wonderful surprise. All the animals of Whispering Woods had gathered outside Mrs. Squirrel's den. They had brought twigs, leaves, moss, and stones — everything needed to build a new house."
+    },
+    {
+      "id": "p32",
+      "speaker": "Mr. Owl",
+      "speakerZh": "猫头鹰先生",
+      "text": "\"We couldn't let our little helper sleep in a mushroom forever! Everyone chipped in.\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"B-but... I never asked for anything...\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Benny",
+      "speakerZh": "班尼",
+      "text": "\"That's why you deserve it the most, Milo. Kindness doesn't ask — it gives. And today, we're giving back to you.\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "By sunset, Milo had a brand-new home — bigger and cozier than before. Mrs. Squirrel had woven flower vines around the entrance. Mr. Owl had placed a tiny bookshelf inside. And Benny had left a fresh pile of berries by the doorstep."
+    },
+    {
+      "id": "p36",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo stood at the door of his new house, looking at his friends. His heart swelled with warmth."
+    },
+    {
+      "id": "p37",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"I started by planting little seeds of kindness... and today, I harvested a garden of friendship. Thank you, everyone!\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so, Milo the mouse learned that kindness really is like planting seeds. You may not see them grow right away. But one day, when you least expect it, the whole world blossoms around you."
+    }
+  ]
+}
