@@ -15,9 +15,10 @@
 | story-010 | The Little Squirrel's Big Feast | 分享 | 2026-05-07 | ✅ |
 | story-011 | The Little Bear Who Listened with His Heart | 同理心 | 2026-05-14 | ✅ |
 | story-012 | The Kitten Who Found a Friend | 友谊 | 2026-05-21 | ✅ |
+| story-013 | The Little Mouse Who Planted Kindness | 善良 | 2026-05-28 | ✅ |
 
 ## 最新故事
-- **ID**: story-012
-- **标题**: The Kitten Who Found a Friend
-- **主题**: 友谊 (Friendship)
-- **日期**: 2026-05-21
+- **ID**: story-013
+- **标题**: The Little Mouse Who Planted Kindness
+- **主题**: 善良 (Kindness)
+- **日期**: 2026-05-28

@@ -1,0 +1,307 @@
+{
+  "id": "story-014",
+  "title": "The Little Duckling Who Found Her Courage",
+  "titleZh": "找到勇气的小鸭子",
+  "publishDate": "2026-06-04",
+  "coverEmoji": "🦆",
+  "moral": "Courage isn't about not being scared — it's about taking a step forward even when your heart is trembling.",
+  "moralZh": "勇气不是不害怕，而是即使心在颤抖，也愿意向前迈出一步。",
+  "vocabulary": [
+    { "word": "courage", "phonetic": "/ˈkʌrɪdʒ/", "meaning": "勇气，勇敢" },
+    { "word": "trembling", "phonetic": "/ˈtremblɪŋ/", "meaning": "颤抖的，发抖的" },
+    { "word": "quack", "phonetic": "/kwæk/", "meaning": "嘎嘎叫，鸭叫声" },
+    { "word": "giggle", "phonetic": "/ˈɡɪɡl/", "meaning": "咯咯笑，傻笑" },
+    { "word": "whisper", "phonetic": "/ˈwɪspər/", "meaning": "低语，小声说" },
+    { "word": "defeated", "phonetic": "/dɪˈfiːtɪd/", "meaning": "失落的，挫败的" },
+    { "word": "nudge", "phonetic": "/nʌdʒ/", "meaning": "轻推，用肘轻碰" },
+    { "word": "wobbly", "phonetic": "/ˈwɒbli/", "meaning": "不稳的，摇摇晃晃的" },
+    { "word": "mumble", "phonetic": "/ˈmʌmbl/", "meaning": "咕哝，含糊地说" },
+    { "word": "encourage", "phonetic": "/ɪnˈkɜːrɪdʒ/", "meaning": "鼓励，给……勇气" },
+    { "word": "shallow", "phonetic": "/ˈʃæloʊ/", "meaning": "浅的，不深的" },
+    { "word": "brave", "phonetic": "/breɪv/", "meaning": "勇敢的，无畏的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "On the shores of Sparkling Pond, a fluffy yellow duckling named Daisy was born. She was the smallest of her siblings — but also the quietest."
+    },
+    {
+      "id": "p2",
+      "speaker": "Mama Duck",
+      "speakerZh": "鸭妈妈",
+      "text": "\"Come on, little ones! Time for your first swimming lesson! Follow me!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The other ducklings chirped happily and waddled after Mama Duck. But Daisy hung back. Her little legs felt wobbly."
+    },
+    {
+      "id": "p4",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Mama... what if I can't swim?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Mama Duck",
+      "speakerZh": "鸭妈妈",
+      "text": "\"Every duckling feels nervous at first, sweetheart. But you have everything you need inside you. Just take a deep breath and try.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Daisy took a deep breath. She stepped one foot into the water. Then the other. The water was cool and gentle. Soon, she was paddling in circles — wobbly at first, but then smoother and smoother."
+    },
+    {
+      "id": "p7",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"I'm doing it! I'm really swimming! Qua— I mean, look at me!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But when Daisy tried to quack with joy, her voice came out as a tiny squeak — not a proper duck quack at all. She tried again."
+    },
+    {
+      "id": "p9",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Qu— quee— quack!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Her siblings stopped swimming and turned around."
+    },
+    {
+      "id": "p11",
+      "speaker": "Brother Duck",
+      "speakerZh": "鸭哥哥",
+      "text": "\"Did you hear that? She sounds like a squeaky toy!\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Sister Duck",
+      "speakerZh": "鸭姐姐",
+      "text": "\"That's not a quack! That's a QUEEK! Ha ha ha!\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The other ducklings burst into giggles. Daisy's cheeks turned pink. She sank lower into the water until only her eyes and beak showed above the surface."
+    },
+    {
+      "id": "p14",
+      "speaker": "Mama Duck",
+      "speakerZh": "鸭妈妈",
+      "text": "\"That's enough! Everyone's voice is different. Daisy, you quacked just fine. Come on, let's go home.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Daisy didn't feel fine. All the way home, she stayed quiet. The other ducklings kept quacking loudly and proudly. Daisy just walked behind, head down, not making a sound."
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, after everyone had gone to sleep, Daisy slipped out of the nest. She stood by Sparkling Pond under the moonlight. The water was still and silver. There was no one around."
+    },
+    {
+      "id": "p17",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Maybe if I practice enough... I can quack like everyone else.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She took a big breath and tried. \"Quack!\" — but it came out as a squeaky \"Queek!\" She tried again. \"QUACK!\" — it came out even squeakier. Daisy's shoulders drooped. Her eyes filled with tears."
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Just then, a soft voice came from behind the reeds."
+    },
+    {
+      "id": "p20",
+      "speaker": "Freddy the Frog",
+      "speakerZh": "青蛙弗雷迪",
+      "text": "\"Hey there, little duck. Why are you practicing your quack all alone in the dark?\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Because mine sounds funny. Everyone laughs at me.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Daisy sniffled and told Freddy the whole story. The frog listened quietly, nodding now and then."
+    },
+    {
+      "id": "p23",
+      "speaker": "Freddy the Frog",
+      "speakerZh": "青蛙弗雷迪",
+      "text": "\"Daisy, do you think my croak sounds nice? Ribbit-ribbit-croak!\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Well... it sounds like a frog. That's how frogs are supposed to sound.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Freddy the Frog",
+      "speakerZh": "青蛙弗雷迪",
+      "text": "\"Exactly! And your quack sounds like a duck — just a different kind of duck. Do you know what I call that squeaky sound of yours?\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"A mistake?\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Freddy the Frog",
+      "speakerZh": "青蛙弗雷迪",
+      "text": "\"No! I call it your special song! Every animal has their own voice. The owl hoots, the cricket chirps, the duck quacks — and Daisy squeaks! It's not wrong. It's just yours.\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Daisy looked up at the frog. His big round eyes were kind and warm. For the first time, she didn't feel like hiding."
+    },
+    {
+      "id": "p29",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"But... what if they still laugh?\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Freddy the Frog",
+      "speakerZh": "青蛙弗雷迪",
+      "text": "\"Then let them laugh! You can't control what others do. But you CAN choose to be brave and be yourself. And being yourself? That takes the most courage of all. Ribbit!\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Daisy thought about Freddy's words all the way back to the nest. When she finally climbed in beside her sleeping siblings, she felt something new in her chest — a tiny spark of courage."
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Mama Duck announced a special singing contest at Sparkling Pond. Every duckling was asked to sing their best song for the whole pond community."
+    },
+    {
+      "id": "p33",
+      "speaker": "Sister Duck",
+      "speakerZh": "鸭姐姐",
+      "text": "\"Oh! I'll sing first! Listen to me! QUACK-QUACK-QUACK-QUACK!\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The sister duck quacked loudly and proudly. The other ducklings went one by one — each quack stronger than the last. The audience clapped and cheered for every duckling."
+    },
+    {
+      "id": "p35",
+      "speaker": "Brother Duck",
+      "speakerZh": "鸭哥哥",
+      "text": "\"Daisy's turn! Let's hear your famous QUEAK!\""
+    },
+    {
+      "id": "p36",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Some ducklings started to giggle. Daisy's heart pounded. Her knees trembled. She looked at the crowd and wanted to run away. But then — she spotted Freddy the Frog sitting on a lily pad, nodding at her. She remembered his words."
+    },
+    {
+      "id": "p37",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Courage isn't about not being scared... it's about taking a step forward even when your heart is trembling.\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Daisy stepped forward. She closed her eyes. And she let out the loudest, squeakiest, most unusual quack the pond had ever heard."
+    },
+    {
+      "id": "p39",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"QUEEEK-QUEEEK-QUEEEK-QUEAK!\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The pond fell silent for a second. Daisy opened her eyes, ready to run. But then — a single big \"RIBBIT!\" came from the lily pad. Freddy was clapping his little frog hands."
+    },
+    {
+      "id": "p41",
+      "speaker": "Freddy the Frog",
+      "speakerZh": "青蛙弗雷迪",
+      "text": "\"Bravo! That was beautiful! The most unique song I've ever heard!\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then something wonderful happened. One by one, the other animals joined in. A rabbit stomped her foot in applause. A squirrel clapped. Even the fish splashed their tails."
+    },
+    {
+      "id": "p43",
+      "speaker": "Mama Duck",
+      "speakerZh": "鸭妈妈",
+      "text": "\"Daisy, I am SO proud of you! You were the bravest one of all today!\""
+    },
+    {
+      "id": "p44",
+      "speaker": "Daisy",
+      "speakerZh": "黛西",
+      "text": "\"Really? Even with my squeaky quack?\""
+    },
+    {
+      "id": "p45",
+      "speaker": "Mama Duck",
+      "speakerZh": "鸭妈妈",
+      "text": "\"Especially because of it! You see, Daisy — being brave doesn't mean being perfect. It means showing up, trying your best, and letting the world hear YOUR voice, whatever it sounds like.\""
+    },
+    {
+      "id": "p46",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The little duckling who had been so afraid to make a sound was now the most celebrated singer at Sparkling Pond. And from that day on, Daisy never hid her voice again."
+    },
+    {
+      "id": "p47",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Whenever you hear a funny squeak near a pond, listen closely — it might just be Daisy, using her courage to sing her own special song."
+    }
+  ]
+}

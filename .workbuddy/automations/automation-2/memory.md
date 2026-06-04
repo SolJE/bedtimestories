@@ -138,3 +138,17 @@
 | text | ✅ | 对话/旁白文本内容 |
 
 ---
+
+## Week 9 - 2026-05-28
+**状态**: ✅ 成功
+**主题**: 善良 (Kindness)
+**故事标题**: The Little Mouse Who Planted Kindness (种下善良的小老鼠)
+**故事ID**: story-013
+**封面Emoji**: 🐭
+**角色**: Milo小老鼠、Mrs. Squirrel松鼠太太、Mr. Owl猫头鹰先生、Benny小刺猬
+**段落数**: 38段（旁白+对话混合）
+**生词数**: 12个（kindness, wilting, glasses, berry, storm, paw, grateful, blossom, harvest, secret, bandage, ripple）
+**Git提交**: 7ea3df9 - "Add Week 9 story: The Little Mouse Who Planted Kindness"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
+
+---
