@@ -28,11 +28,27 @@ async function loadStory(storyId) {
 }
 
 function renderStory(story, container) {
+  // Build a map of paragraphId -> illustration
+  const illMap = {};
+  if (story.illustrations && Array.isArray(story.illustrations)) {
+    story.illustrations.forEach(ill => {
+      illMap[ill.paragraphId] = ill;
+    });
+  }
+
   const paragraphsHTML = (story.paragraphs || []).map((p, i) => {
     const isNarrator = (p.speaker || '').toLowerCase() === 'narrator';
     const badgeClass = isNarrator ? 'speaker-narrator' : 'speaker-character';
     const speakerLabel = p.speakerZh ? `${p.speaker} · ${p.speakerZh}` : p.speaker;
+
+    // Check if this paragraph has a scene illustration
+    const ill = illMap[p.id];
+    const illHTML = ill
+      ? `<img class="story-illustration" src="${escAttr(ill.image)}" alt="${escAttr(ill.alt || 'Story illustration')}" loading="lazy" />`
+      : '';
+
     return `
+      ${illHTML}
       <div class="paragraph" id="${escAttr(p.id)}" data-text="${escAttr(p.text)}" data-pid="${escAttr(p.id)}" data-speaker="${escAttr(p.speaker)}" tabindex="0" role="button" aria-label="Click to read aloud">
         <span class="speaker-badge ${badgeClass}">${escHtml(speakerLabel)}</span>
         <div class="para-text">${escHtml(p.text)}</div>
@@ -52,7 +68,10 @@ function renderStory(story, container) {
     <a class="back-link" href="index.html">← Back to Stories</a>
 
     <div class="story-header">
-      <span class="story-cover-emoji">${story.coverEmoji || '📖'}</span>
+      ${story.coverImage
+        ? `<img class="story-cover-image" src="${escAttr(story.coverImage)}" alt="${escAttr(story.title)}" loading="lazy" />`
+        : `<span class="story-cover-emoji">${story.coverEmoji || '📖'}</span>`
+      }
       <h1 class="story-title-en">${escHtml(story.title)}</h1>
       <div class="story-title-zh">${escHtml(story.titleZh || '')}</div>
       <div class="story-date">📅 ${formatDate(story.publishDate)}</div>

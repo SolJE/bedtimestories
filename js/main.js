@@ -30,10 +30,12 @@ async function loadStoryList() {
 
 function createCardHTML(story) {
   const date = formatDate(story.publishDate);
-  const emoji = story.coverEmoji || '📖';
+  const coverHTML = story.coverImage
+    ? `<img class="card-cover-img" src="${escAttr(story.coverImage)}" alt="${escAttr(story.title)}" loading="lazy" />`
+    : `<div class="card-cover">${story.coverEmoji || '📖'}</div>`;
   return `
     <a class="story-card" href="story.html?id=${encodeURIComponent(story.id)}">
-      <div class="card-cover">${emoji}</div>
+      ${coverHTML}
       <div class="card-body">
         <div class="en-title">${escHtml(story.title)}</div>
         <div class="zh-title">${escHtml(story.titleZh)}</div>

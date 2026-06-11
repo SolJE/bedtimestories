@@ -14,6 +14,11 @@
   "titleZh": "中文标题",
   "publishDate": "YYYY-MM-DD",
   "coverEmoji": "🌟",
+  "coverImage": "assets/images/story-XXX-cover.png",
+  "illustrations": [
+    { "paragraphId": "p3", "image": "assets/images/story-XXX-scene-1.png", "alt": "场景描述" },
+    { "paragraphId": "p15", "image": "assets/images/story-XXX-scene-2.png", "alt": "场景描述" }
+  ],
   "moral": "English moral message.",
   "moralZh": "中文寓意说明。",
   "vocabulary": [
@@ -49,6 +54,8 @@
 | `moralZh` | string | ✅ | 中文寓意 |
 | `vocabulary` | array | ✅ | 生词数组 |
 | `paragraphs` | array | ✅ | **故事段落数组，核心字段！** |
+| `coverImage` | string | ❌ | 封面插图路径 (如 `assets/images/story-XXX-cover.png`) |
+| `illustrations` | array | ❌ | 场景插图数组，在指定段落前渲染 |
 
 ## paragraphs 字段详解
 
@@ -58,6 +65,14 @@
 | `speaker` | string | ✅ | 说话者名称（Narrator = 旁白） |
 | `speakerZh` | string | ✅ | 说话者中文名称 |
 | `text` | string | ✅ | 文本内容 |
+
+## illustrations 字段详解（可选）
+
+| 子字段 | 类型 | 必填 | 说明 |
+|--------|------|------|------|
+| `paragraphId` | string | ✅ | 插图画在哪个段落前（如 `p3`） |
+| `image` | string | ✅ | 图片路径 (如 `assets/images/story-XXX-scene-1.png`) |
+| `alt` | string | ❌ | 图片替代文字描述 |
 
 ## ❌ 错误示例
 

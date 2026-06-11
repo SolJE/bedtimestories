@@ -4,6 +4,12 @@
   "titleZh": "爱问为什么的小狗",
   "publishDate": "2026-06-11",
   "coverEmoji": "🐶",
+  "coverImage": "assets/images/story-015-cover.png",
+  "illustrations": [
+    { "paragraphId": "p3", "image": "assets/images/story-015-scene-1.png", "alt": "Pippin asking Mama questions about the sky" },
+    { "paragraphId": "p15", "image": "assets/images/story-015-scene-2.png", "alt": "Pippin meets sad Mr. Badger who lost his music box" },
+    { "paragraphId": "p33", "image": "assets/images/story-015-scene-3.png", "alt": "Pippin finds the music box in the laundry basket" }
+  ],
   "moral": "Curiosity is a superpower — every question you ask helps you discover something new and wonderful about the world.",
   "moralZh": "好奇心是一种超能力——你问的每一个问题，都会帮你发现世界上崭新而美妙的事物。",
   "vocabulary": [
