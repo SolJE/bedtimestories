@@ -1,0 +1,301 @@
+{
+  "id": "story-015",
+  "title": "The Puppy Who Always Asked Why",
+  "titleZh": "爱问为什么的小狗",
+  "publishDate": "2026-06-11",
+  "coverEmoji": "🐶",
+  "moral": "Curiosity is a superpower — every question you ask helps you discover something new and wonderful about the world.",
+  "moralZh": "好奇心是一种超能力——你问的每一个问题，都会帮你发现世界上崭新而美妙的事物。",
+  "vocabulary": [
+    { "word": "curious", "phonetic": "/ˈkjʊriəs/", "meaning": "好奇的，求知欲强的" },
+    { "word": "question", "phonetic": "/ˈkwestʃən/", "meaning": "问题，疑问" },
+    { "word": "sniff", "phonetic": "/snɪf/", "meaning": "嗅，闻（用鼻子吸气）" },
+    { "word": "wonder", "phonetic": "/ˈwʌndər/", "meaning": "想知道，感到好奇" },
+    { "word": "precious", "phonetic": "/ˈpreʃəs/", "meaning": "珍贵的，宝贵的" },
+    { "word": "clue", "phonetic": "/kluː/", "meaning": "线索，提示" },
+    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现，找到" },
+    { "word": "peculiar", "phonetic": "/pɪˈkjuːliər/", "meaning": "奇怪的，特别的" },
+    { "word": "nuzzle", "phonetic": "/ˈnʌzl/", "meaning": "用鼻子蹭，依偎" },
+    { "word": "explore", "phonetic": "/ɪkˈsplɔːr/", "meaning": "探索，探究" },
+    { "word": "patience", "phonetic": "/ˈpeɪʃns/", "meaning": "耐心，忍耐" },
+    { "word": "sparkle", "phonetic": "/ˈspɑːrkl/", "meaning": "闪烁，闪耀" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In a cozy little cottage at the edge of Sunny Meadow, there lived a golden puppy named Pippin. Pippin had floppy ears, a waggy tail, and one very special habit — he asked questions about EVERYTHING."
+    },
+    {
+      "id": "p2",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Mama, why is the sky blue? And why does the grass smell green? And where does the sun go at night? And why do my ears flop when I run?\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama",
+      "speakerZh": "妈妈",
+      "text": "\"Oh, my curious little pup! One question at a time! The sky is blue because of something called sunlight and air playing together. The grass smells green because... well, because that's how grass says hello!\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"But Mama, how do sunlight and air PLAY together? Do they have toys?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Mama",
+      "speakerZh": "妈妈",
+      "text": "\"That is a very good question. I don't know the answer to that one, but I love that you asked it. Keep wondering, my little explorer.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pippin's questions followed him everywhere — to breakfast, to the garden, and all along the winding path through Sunny Meadow. Some animals found his questions delightful. Others... not so much."
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One afternoon, Pippin met his friend Ruby the rabbit, who was hopping along with a basket full of wild carrots."
+    },
+    {
+      "id": "p8",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Hi Ruby! Why do you hop instead of walk? And why do you like carrots so much? And can carrots see underground?\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Pippin! You ask WAY too many questions! I hop because that's what bunnies do! Carrots are yummy! And NO, carrots can't see! Now please, let me hop in peace!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby hurried away, her ears flopping with impatience. Pippin's tail drooped a little. He sat down by the side of the path and stared at a dandelion."
+    },
+    {
+      "id": "p11",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Does the dandelion ever wonder why it's yellow? Or why the wind blows its seeds away?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Just then, a deep, sad voice came from behind the old oak tree. Pippin pricked up his ears and trotted over to investigate."
+    },
+    {
+      "id": "p13",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Oh dear, oh dear, oh dear... Where could it be? I've looked everywhere!\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Mr. Badger! What's wrong? Why do you look so sad?\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"It's my music box, little pup. My grandmother gave it to me before she crossed the Rainbow Bridge. Every night, I wind it up and listen to its pretty tune. But this morning — it was gone!\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Oh no! That sounds terrible! Where did you last see it?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"I... I can't remember. That's the problem! I've searched my burrow three times. I've checked under my bed, inside my cupboards, behind the bookshelf. Nothing!\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mr. Badger sank onto a mossy rock and buried his face in his paws. Pippin sat quietly for a moment. Then his ears perked up."
+    },
+    {
+      "id": "p19",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Mr. Badger, can I ask you some questions? Sometimes questions help me find things!\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"I suppose it couldn't hurt. Go ahead, little pup.\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"First question — when was the LAST time you remember seeing your music box?\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Last night, before bed. I wound it up and listened to my favorite lullaby. Then I put it on the nightstand, just like always.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Second question — did you do anything UNUSUAL this morning? Anything different from your normal routine?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Let me think... I woke up early. I made tea. I swept the floor... OH! I remember now! I knocked over the vase on my nightstand while sweeping!\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"And after you knocked over the vase — did you pick up everything?\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Goodness, I was so worried about the water spilling that I just grabbed the vase and the flowers. I didn't check... hmm.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Third question — where did you put the wet towel after cleaning up the spill?\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"I took it to the laundry basket in the hallway.\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Follow me! I have a feeling!\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pippin dashed toward Mr. Badger's burrow, his nose twitching and sniffing every step of the way. Mr. Badger waddled behind him, looking puzzled but hopeful."
+    },
+    {
+      "id": "p31",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pippin ran straight to the laundry basket in the hallway. He sniffed around the pile of dirty towels. Then he dug with his front paws — and something shiny caught his eye."
+    },
+    {
+      "id": "p32",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Found it! I found it, Mr. Badger! It was wrapped up in the wet towel!\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mr. Badger rushed over and lifted the music box from the basket with trembling paws. He opened the lid. A gentle, tinkling melody filled the burrow — soft and golden like a memory."
+    },
+    {
+      "id": "p34",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Oh, you wonderful, clever little puppy! You found it! But how did you know where to look?\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"I just asked questions! When you swept the floor, you knocked over the vase. You grabbed the vase but maybe the music box got swept up with the towel. And then you put the towel in the basket! It was like following a trail of clues!\""
+    },
+    {
+      "id": "p36",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Questions! Of course! I was so busy worrying that I forgot to stop and wonder. Your curiosity saved my most precious treasure, little Pippin.\""
+    },
+    {
+      "id": "p37",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mr. Badger gently placed his music box on the shelf and turned to Pippin with a warm smile."
+    },
+    {
+      "id": "p38",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Pippin, never let anyone tell you that you ask too many questions. Your questions are like little lanterns — they light up the dark corners where answers hide.\""
+    },
+    {
+      "id": "p39",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Really? But Ruby said I ask too many.\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Some animals don't understand curiosity. But curious creatures are the ones who discover new things. They find lost treasures. They solve big problems. Never stop asking why, little pup.\""
+    },
+    {
+      "id": "p41",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That evening, Ruby the rabbit came to Pippin's cottage. She had heard about how he found Mr. Badger's music box."
+    },
+    {
+      "id": "p42",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Pippin... I'm sorry I was grumpy earlier. You don't ask too many questions. You just... see the world differently. And that's actually pretty cool.\""
+    },
+    {
+      "id": "p43",
+      "speaker": "Pippin",
+      "speakerZh": "皮蓬",
+      "text": "\"Thanks, Ruby! Hey — I have a question. Why do rabbits thump their feet when they're grumpy?\""
+    },
+    {
+      "id": "p44",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Ha! I don't know the answer, but... let's go find out together!\""
+    },
+    {
+      "id": "p45",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so the curious puppy and the grumpy rabbit became the best of friends — exploring Sunny Meadow together, one question at a time."
+    },
+    {
+      "id": "p46",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So if you ever meet a little golden puppy with floppy ears and a wagging tail, be ready for lots of questions. And remember — every time you ask \"why,\" you're lighting up a little lantern in the dark. Curiosity is a superpower. Use it well."
+    }
+  ]
+}
