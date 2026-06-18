@@ -1,0 +1,307 @@
+{
+  "id": "story-016",
+  "title": "The Little Lamb Who Told a Little Lie",
+  "titleZh": "说了一个小谎的小羊羔",
+  "publishDate": "2026-06-18",
+  "coverEmoji": "🐑",
+  "coverImage": "assets/images/story-016-cover.png",
+  "illustrations": [
+    { "paragraphId": "p5", "image": "assets/images/story-016-scene-1.png", "alt": "Lily the lamb accidentally knocks over a sunflower pot with a loud crash" },
+    { "paragraphId": "p16", "image": "assets/images/story-016-scene-2.png", "alt": "Lily lies awake in bed at night, a lie sitting in her tummy like a cold stone" },
+    { "paragraphId": "p33", "image": "assets/images/story-016-scene-3.png", "alt": "Lily confesses to Farmer Gray that she broke the sunflower pot" }
+  ],
+  "moral": "A lie may seem small at first, but the truth is always bigger and better. Being honest sets your heart free.",
+  "moralZh": "谎言一开始可能看起来很小，但真相总是更大更好。诚实能让你的心获得自由。",
+  "vocabulary": [
+    { "word": "lie", "phonetic": "/laɪ/", "meaning": "谎言，说谎" },
+    { "word": "admit", "phonetic": "/ədˈmɪt/", "meaning": "承认，供认" },
+    { "word": "accident", "phonetic": "/ˈæksɪdənt/", "meaning": "意外，偶然的事" },
+    { "word": "blame", "phonetic": "/bleɪm/", "meaning": "责怪，归咎" },
+    { "word": "confess", "phonetic": "/kənˈfes/", "meaning": "坦白，承认（错误）" },
+    { "word": "guilt", "phonetic": "/ɡɪlt/", "meaning": "内疚，罪恶感" },
+    { "word": "ashamed", "phonetic": "/əˈʃeɪmd/", "meaning": "羞愧的，难为情的" },
+    { "word": "nudge", "phonetic": "/nʌdʒ/", "meaning": "轻推，用肘轻碰" },
+    { "word": "truth", "phonetic": "/truːθ/", "meaning": "真相，实话" },
+    { "word": "forgive", "phonetic": "/fərˈɡɪv/", "meaning": "原谅，宽恕" },
+    { "word": "precious", "phonetic": "/ˈpreʃəs/", "meaning": "珍贵的，宝贵的" },
+    { "word": "mend", "phonetic": "/mend/", "meaning": "修补，修复" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "On the edge of Green Valley, where the hills rolled like gentle green waves, there lived a fluffy little lamb named Lily. She had soft white wool, twinkling brown eyes, and a curious little tail that wagged when she was happy."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily's favorite place in the world was Farmer Gray's sunflower garden. The tall golden flowers stood like cheerful soldiers, their bright faces following the sun across the sky."
+    },
+    {
+      "id": "p3",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Good morning, sunflowers! You look extra yellow today! Did you have a good breakfast of sunshine?\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily loved to hop and skip between the sunflower rows. She pretended the garden was a golden maze. Hop to the left. Skip to the right. Spin around!"
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But on this particular morning, Lily's happy hop went just a little too far. BUMP! Her back leg knocked into a large terracotta pot. The pot wobbled. The pot teetered. And then — CRASH! — it toppled over, breaking into three pieces. Soil spilled everywhere, and the beautiful sunflower lay on the ground with its roots exposed."
+    },
+    {
+      "id": "p6",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Oh no! Oh no, no, no!\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily stared at the broken pot. Her heart started thumping like a drum. She heard heavy footsteps — Farmer Gray was coming!"
+    },
+    {
+      "id": "p8",
+      "speaker": "Farmer Gray",
+      "speakerZh": "灰胡子农夫",
+      "text": "\"What's all this racket? Oh my! My prize sunflower pot! What happened here?\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"It was... it was the wind! A big, gusty wind came out of nowhere and knocked it over!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Farmer Gray",
+      "speakerZh": "灰胡子农夫",
+      "text": "\"The wind? But this morning is so still. Not a single leaf is stirring.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Farmer Gray scratched his chin and looked at Lily with kind, doubtful eyes. Lily's cheeks felt hot. Her little tail stopped wagging."
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Just then, Lily's best friend Patch the Puppy came bounding into the garden. His tail wagged like a happy flag."
+    },
+    {
+      "id": "p13",
+      "speaker": "Patch",
+      "speakerZh": "帕奇",
+      "text": "\"Lily! There you are! Did you hear that big crash just now? It sounded like it came from here! Are you okay?\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I'm fine! It was the wind, that's all! A big gust of wind!\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Patch tilted his head. He knew something was off. Lily never spoke that fast. And she wouldn't look him in the eye. But he didn't say anything."
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, Lily lay in her cozy barn, staring at the ceiling. She couldn't sleep. The lie sat in her tummy like a cold, hard stone. Every time she closed her eyes, she saw the broken pot and Farmer Gray's gentle, questioning face."
+    },
+    {
+      "id": "p17",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Why do I feel so yucky inside? It was just one little lie...\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But the lie didn't feel little anymore. It felt huge — like a shadow that followed her everywhere."
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Lily dragged herself to the meadow. She didn't hop. She didn't skip. She just walked with her head down. Bella the Bird fluttered down beside her."
+    },
+    {
+      "id": "p20",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"Good morning, Lily! Why the long face? Did a cloud steal your sunshine?\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I'm fine, Bella. Just... tired.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"Tired? Lily, you're the bounciest lamb in Green Valley! Something is definitely wrong.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily sighed. She wanted to tell Bella the truth. But the words got stuck in her throat, all tangled up like a knot of yarn."
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Patch found Lily sitting alone by the babbling brook. Her reflection in the water looked sad and small."
+    },
+    {
+      "id": "p25",
+      "speaker": "Patch",
+      "speakerZh": "帕奇",
+      "text": "\"Lily, I've known you since we were babies. You haven't smiled once today. Please tell me what's wrong.\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I... I can't, Patch. You'll think I'm bad.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Patch",
+      "speakerZh": "帕奇",
+      "text": "\"I could NEVER think you're bad. You're my best friend. Whatever it is, I'm here for you.\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily's eyes filled with tears. They rolled down her woolly cheeks like tiny raindrops."
+    },
+    {
+      "id": "p29",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I broke Farmer Gray's sunflower pot. And I blamed it on the wind. I told a lie, Patch. And now I can't undo it.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Patch",
+      "speakerZh": "帕奇",
+      "text": "\"Oh, Lily. That must have been so scary. But you know what's braver than never making mistakes? Owning up to them.\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"What if Farmer Gray is angry? What if he never lets me visit the sunflowers again?\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Patch",
+      "speakerZh": "帕奇",
+      "text": "\"There's only one way to find out. I'll come with you if you want.\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily took a deep breath. Her legs felt wobbly, but she walked all the way to Farmer Gray's cottage. Patch walked beside her, nudging her gently with his nose. When Farmer Gray opened the door, Lily's voice was barely a whisper."
+    },
+    {
+      "id": "p34",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Farmer Gray... I need to tell you something. It wasn't the wind. I broke your pot. I was hopping too fast and I knocked it over. I was scared, so I lied. I'm so, so sorry.\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lily hung her head low. She waited for the angry words. But instead, she felt a warm, rough hand gently pat her head."
+    },
+    {
+      "id": "p36",
+      "speaker": "Farmer Gray",
+      "speakerZh": "灰胡子农夫",
+      "text": "\"Well now, little lamb. That took real courage. A lie is like a crack in a pot — it only gets bigger if you ignore it. But the truth? The truth can mend anything. Even a broken pot. Even a worried heart.\""
+    },
+    {
+      "id": "p37",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"You're... you're not angry?\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Farmer Gray",
+      "speakerZh": "灰胡子农夫",
+      "text": "\"I'm proud of you. Telling the truth is never easy. But it is always, ALWAYS worth it. Now — how about we plant a new sunflower together? What do you say?\""
+    },
+    {
+      "id": "p39",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Really? Oh yes! Yes, please!\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And just like that, the cold stone in Lily's tummy melted away. Her heart felt as light as a dandelion seed floating on the breeze."
+    },
+    {
+      "id": "p41",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That afternoon, Lily, Patch, and Farmer Gray planted a new sunflower seed together. Lily patted the soil with her little hoof and whispered a promise."
+    },
+    {
+      "id": "p42",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"Grow big and strong, little seed. Just like the truth — from something small, something beautiful will bloom.\""
+    },
+    {
+      "id": "p43",
+      "speaker": "Patch",
+      "speakerZh": "帕奇",
+      "text": "\"You see? The truth set you free! And now you get a whole new sunflower!\""
+    },
+    {
+      "id": "p44",
+      "speaker": "Lily",
+      "speakerZh": "莉莉",
+      "text": "\"I learned my lesson. Telling the truth feels SO much better than lying. Lies feel yucky. Truth feels... sunny!\""
+    },
+    {
+      "id": "p45",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so Lily and Patch laughed together in the golden afternoon sunlight, watching Farmer Gray water the tiny seed that would one day become a tall, beautiful sunflower."
+    },
+    {
+      "id": "p46",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So if you ever break something by accident — a cup, a toy, a sunflower pot — remember Lily the Lamb. A lie sits heavy in your heart, but the truth? The truth sets you free. And that is the most precious thing of all."
+    }
+  ]
+}

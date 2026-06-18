@@ -119,5 +119,14 @@
       "coverEmoji": "🐶",
       "coverImage": "assets/images/story-015-cover.png",
       "summary": "Pippin the puppy asks 'why' about everything — until his endless questions help him solve a mystery and discover that curiosity is a superpower."
+    },
+    {
+      "id": "story-016",
+      "title": "The Little Lamb Who Told a Little Lie",
+      "titleZh": "说了一个小谎的小羊羔",
+      "publishDate": "2026-06-18",
+      "coverEmoji": "🐑",
+      "coverImage": "assets/images/story-016-cover.png",
+      "summary": "Lily the lamb accidentally breaks a sunflower pot and blames the wind — but the lie grows heavy in her heart. Can she find the courage to tell the truth?"
     }
   ]
