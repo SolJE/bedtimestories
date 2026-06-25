@@ -1,0 +1,355 @@
+{
+  "id": "story-017",
+  "title": "The Little Turtle Who Never Stopped Trying",
+  "titleZh": "永不放弃的小乌龟",
+  "publishDate": "2026-06-25",
+  "coverEmoji": "🐢",
+  "coverImage": "assets/images/story-017-cover.png",
+  "illustrations": [
+    { "paragraphId": "p4", "image": "assets/images/story-017-scene-1.png", "alt": "Toby the turtle stands at the starting line of the Forest Race while other animals laugh at him" },
+    { "paragraphId": "p18", "image": "assets/images/story-017-scene-2.png", "alt": "Toby practices climbing hills while Mrs. Owl watches from a branch and cheers him on" },
+    { "paragraphId": "p35", "image": "assets/images/story-017-scene-3.png", "alt": "Toby crosses the finish line of the Forest Race as all the animals cheer for him" }
+  ],
+  "moral": "Winning isn't about being the fastest — it's about never giving up. Perseverance always finishes the race.",
+  "moralZh": "胜利不在于跑得最快——而在于永不放弃。坚持总能完成比赛。",
+  "vocabulary": [
+    { "word": "perseverance", "phonetic": "/ˌpɜːrsəˈvɪrəns/", "meaning": "毅力，坚持不懈" },
+    { "word": "race", "phonetic": "/reɪs/", "meaning": "赛跑，比赛" },
+    { "word": "giggle", "phonetic": "/ˈɡɪɡl/", "meaning": "咯咯笑，傻笑" },
+    { "word": "steady", "phonetic": "/ˈstedi/", "meaning": "稳定的，稳健的" },
+    { "word": "practice", "phonetic": "/ˈpræktɪs/", "meaning": "练习，训练" },
+    { "word": "encourage", "phonetic": "/ɪnˈkɜːrɪdʒ/", "meaning": "鼓励，激励" },
+    { "word": "wobble", "phonetic": "/ˈwɑːbl/", "meaning": "摇晃，摇摆" },
+    { "word": "tire", "phonetic": "/ˈtaɪər/", "meaning": "疲倦，疲劳" },
+    { "word": "finish", "phonetic": "/ˈfɪnɪʃ/", "meaning": "完成，结束" },
+    { "word": "cheer", "phonetic": "/tʃɪr/", "meaning": "欢呼，加油" },
+    { "word": "victory", "phonetic": "/ˈvɪktəri/", "meaning": "胜利，成功" },
+    { "word": "amaze", "phonetic": "/əˈmeɪz/", "meaning": "使惊奇，使惊叹" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Deep in Sunbeam Forest, where the trees stood tall like green umbrellas and the stream sang a bubbly song all day long, there lived a little turtle named Toby."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Toby had a bright green shell with golden spots, four stubby legs, and the biggest, dreamiest eyes in the whole forest. And he had a dream."
+    },
+    {
+      "id": "p3",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"I'm going to win the Forest Race this year! I just know it!\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Every year, the animals of Sunbeam Forest gathered for the Great Forest Race. The winner got the Golden Acorn Trophy and a whole year's worth of bragging rights. Ollie the Otter had won last year — and the year before that. He was fast and sleek and very, very proud."
+    },
+    {
+      "id": "p5",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Did I just hear someone say they're going to win the race? Let me guess — was it a mushroom? Because mushrooms move faster than turtles! HAHAHA!\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ollie the Otter laughed so hard he nearly fell off the log he was sitting on. Skip the Squirrel covered his mouth. A few other animals giggled too."
+    },
+    {
+      "id": "p7",
+      "speaker": "Skip",
+      "speakerZh": "斯基普",
+      "text": "\"Come on, Toby. Turtles can't run. You're better off picking berries or something. The race is for the fast ones.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"But I've been practicing! I've been walking around the pond every morning!\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Walking around the pond? Oh wow! At that speed, you might finish the race by next winter! Come on, everyone — the real fun starts at the starting line!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ollie bounded away, and the other animals followed. Toby watched them go. His big dreamy eyes suddenly looked a little watery. He sat down slowly and stared at his stubby feet."
+    },
+    {
+      "id": "p11",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Maybe they're right. Maybe I'm too slow. Maybe I shouldn't even try...\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "A soft rustle came from the oak tree above. Mrs. Owl, the wisest creature in the forest, fluttered down and landed gently beside Toby. She had speckled feathers, round amber eyes, and a voice as warm as a mug of cocoa."
+    },
+    {
+      "id": "p13",
+      "speaker": "Mrs. Owl",
+      "speakerZh": "猫头鹰太太",
+      "text": "\"Did I hear someone saying they shouldn't try? That sounds like the saddest song I've ever heard.\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Mrs. Owl! I want to win the Forest Race, but everyone says turtles are too slow. And... and they're right. I AM slow.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Mrs. Owl",
+      "speakerZh": "猫头鹰太太",
+      "text": "\"Toby, let me tell you a secret. Winning a race isn't about being the fastest. It's about who keeps going when everyone else has stopped. Do you know what that's called?\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Um... never giving up?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Mrs. Owl",
+      "speakerZh": "猫头鹰太太",
+      "text": "\"Exactly! It's called perseverance. And perseverance always, ALWAYS finishes the race. Will you try?\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"I'll try! I'll try my very best!\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so Toby began to train. Every single morning, before the sun was even fully awake, Toby would crawl out of his cozy shell-bed and start moving."
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Day One: Toby walked from his rock to the big oak tree. It took him forty-five minutes. He was so tired he fell asleep under a daisy."
+    },
+    {
+      "id": "p21",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Phew! That was... that was a lot. But I did it! One step at a time!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Day Seven: Toby walked from his rock to the big oak tree AND all the way to the stream. It took him an hour and a half. His legs wobbled like jelly, but he didn't stop."
+    },
+    {
+      "id": "p23",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Keep going, Toby. Slow and steady. Slow and steady!\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Day Fourteen: Toby crawled up Sunny Hill for the first time. He slipped on a wet leaf. He tripped over a pebble. He rolled backward twice. But he reached the top. Mrs. Owl was waiting for him with a juicy berry."
+    },
+    {
+      "id": "p25",
+      "speaker": "Mrs. Owl",
+      "speakerZh": "猫头鹰太太",
+      "text": "\"Well done, Toby! You climbed a hill! That's something Ollie has never done — because he has never had to try so hard. Do you see? Every step makes you stronger.\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"It DOES feel good! My legs are wobbly, but my heart feels REALLY strong!\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Finally, race day arrived. The forest meadow was bursting with animals. There were banners, balloons, and a giant Golden Acorn Trophy glistening in the sun."
+    },
+    {
+      "id": "p28",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Well, well, well! Look who actually showed up! The Tiny Tortoise! Ready to come in last place?\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"I'm ready to FINISH the race. That's what matters.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ollie blinked. Toby's answer surprised him — but he just scoffed and turned away. The race master, Mr. Badger, raised his flag."
+    },
+    {
+      "id": "p31",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"Ready, set... GO!\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "WHOOOOSH! The animals tore off like a rainbow blur. Ollie the Otter zoomed ahead, his sleek body cutting through the air. Skip the Squirrel bounced from stone to stone. Benny the Bunny was a fluffy white rocket."
+    },
+    {
+      "id": "p33",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And Toby? Toby took one slow step. Then another. Then another. He didn't look at the other racers. He looked at the path ahead."
+    },
+    {
+      "id": "p34",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pretty soon, the fast animals were far ahead. Ollie was already halfway through the course. But then something happened. The course went up Rocky Ridge — a steep, bumpy hill. Ollie, who had never trained on hills, started to slow down. His legs ached. His lungs burned."
+    },
+    {
+      "id": "p35",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Oof! This hill is... is... too hard! I need a break!\""
+    },
+    {
+      "id": "p36",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ollie sat down under a bush. Skip and Benny soon joined him, panting heavily. They had never practiced hills either."
+    },
+    {
+      "id": "p37",
+      "speaker": "Skip",
+      "speakerZh": "斯基普",
+      "text": "\"Let's just... wait a minute... I can't feel my legs...\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And while they rested, a small green turtle with golden spots was slowly, steadily climbing Rocky Ridge. Step by step. One foot in front of the other."
+    },
+    {
+      "id": "p39",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Slow... and... steady... I've done this before... I can do it again!\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Toby passed Ollie, who was still catching his breath under the bush. Ollie's jaw dropped."
+    },
+    {
+      "id": "p41",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Wait — WHAT?! How is the turtle passing me?!\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Toby didn't stop. He reached the top of Rocky Ridge, and then — joy of joys — he saw the finish line. All the animals who had already finished gasped. They couldn't believe their eyes."
+    },
+    {
+      "id": "p43",
+      "speaker": "Crowd",
+      "speakerZh": "观众",
+      "text": "\"It's Toby! Toby the turtle! He's actually going to FINISH!\""
+    },
+    {
+      "id": "p44",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Toby crossed the finish line with one final, determined step. The crowd erupted into cheers — not just for the winner, who had finished long ago, but for Toby. Because he had done something nobody thought he could do."
+    },
+    {
+      "id": "p45",
+      "speaker": "Mr. Badger",
+      "speakerZh": "獾先生",
+      "text": "\"And here comes Toby the Turtle! He didn't come in first — but he NEVER gave up! Let's hear it for Toby!\""
+    },
+    {
+      "id": "p46",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The whole meadow cheered. Mrs. Owl hooted the loudest of all. Toby puffed out his little chest — as much as a turtle can — and smiled the biggest smile of his life."
+    },
+    {
+      "id": "p47",
+      "speaker": "Mrs. Owl",
+      "speakerZh": "猫头鹰太太",
+      "text": "\"You see, Toby? You didn't win the trophy — but you won something BETTER. You proved that perseverance always finishes the race.\""
+    },
+    {
+      "id": "p48",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"It wasn't easy. But I kept going! One step at a time!\""
+    },
+    {
+      "id": "p49",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Later that day, Ollie the Otter shuffled over to Toby. He looked — for the first time ever — humble."
+    },
+    {
+      "id": "p50",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Toby... I'm sorry I laughed at you. You were slow, yeah — but you were BRAVE. You never stopped. That's... that's pretty amazing.\""
+    },
+    {
+      "id": "p51",
+      "speaker": "Toby",
+      "speakerZh": "托比",
+      "text": "\"Thanks, Ollie. Maybe next year you can train with me? We could practice hills together!\""
+    },
+    {
+      "id": "p52",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Heh. Deal. But I'm still faster!\""
+    },
+    {
+      "id": "p53",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so, Toby the Turtle didn't win the Golden Acorn Trophy. But he won something far more precious: the respect of every animal in Sunbeam Forest, and a heart full of pride that no trophy could ever replace."
+    },
+    {
+      "id": "p54",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So if you ever feel like you're too slow, or too small, or not good enough — remember Toby. It doesn't matter how fast you go. What matters is that you never, ever stop trying. Because perseverance always finishes the race."
+    }
+  ]
+}

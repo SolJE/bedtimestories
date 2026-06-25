@@ -128,5 +128,14 @@
       "coverEmoji": "🐑",
       "coverImage": "assets/images/story-016-cover.png",
       "summary": "Lily the lamb accidentally breaks a sunflower pot and blames the wind — but the lie grows heavy in her heart. Can she find the courage to tell the truth?"
+    },
+    {
+      "id": "story-017",
+      "title": "The Little Turtle Who Never Stopped Trying",
+      "titleZh": "永不放弃的小乌龟",
+      "publishDate": "2026-06-25",
+      "coverEmoji": "🐢",
+      "coverImage": "assets/images/story-017-cover.png",
+      "summary": "Toby the turtle dreams of winning the Forest Race, but everyone says turtles are too slow. With perseverance and practice, he learns that finishing the race is its own victory."
     }
   ]

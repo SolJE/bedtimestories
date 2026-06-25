@@ -152,3 +152,50 @@
 **推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
 
 ---
+
+## Week 10 - 2026-06-04
+**状态**: ✅ 成功
+**主题**: 勇气 (Courage)
+**故事标题**: The Little Duckling Who Found Her Courage (找到勇气的小鸭子)
+**故事ID**: story-014
+**封面Emoji**: 🦆
+**角色**: Daisy小鸭子、Freddy the Frog青蛙弗雷迪、Mama Duck鸭妈妈
+**段落数**: 47段（旁白+对话混合）
+**生词数**: 12个（courage, trembling, quack, giggle, whisper, defeated, nudge, wobbly, mumble, encourage, shallow, brave）
+**Git提交**: 6698da8 - "Add Week 10 story: The Little Duckling Who Found Her Courage"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
+
+---
+
+## Week 11 - 2026-06-11
+**状态**: ✅ 成功
+**主题**: 好奇心 (Curiosity)
+**故事标题**: The Puppy Who Always Asked Why (爱问为什么的小狗)
+**故事ID**: story-015
+**封面Emoji**: 🐶
+**角色**: Pippin小狗、Mama狗妈妈、Ruby小兔、Mr. Badger獾先生
+**段落数**: 46段（旁白+对话混合）
+**生词数**: 12个（curious, question, sniff, wonder, precious, clue, discover, peculiar, nuzzle, explore, patience, sparkle）
+**Git提交**: 90ac44c - "Add illustrations system: cover image + scene illustrations for story-015"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
+
+### 🎨 新增插图功能
+- 前端支持封面图 (`coverImage`) 和场景插图 (`illustrations`)
+- story-015 已生成 1 张封面图 + 3 张场景插图（水彩风格）
+- 首页卡片、故事页均可展示封面图
+- 场景插图在对应段落前渲染
+
+---
+
+## Week 13 - 2026-06-18
+**状态**: ✅ 成功
+**主题**: 诚实 (Honesty)
+**故事标题**: The Little Lamb Who Told a Little Lie (说了一个小谎的小羊羔)
+**故事ID**: story-016
+**封面Emoji**: 🐑
+**角色**: Lily小羊、Patch小狗、Farmer Gray农夫、Bella小鸟
+**段落数**: 46段（旁白+对话混合）
+**生词数**: 12个（lie, admit, accident, blame, confess, guilt, ashamed, nudge, truth, forgive, precious, mend）
+**插图风格**: 卡通矢量 (cartoon vector)
+**Git提交**: 860e7bc - "Add Week 13 story: The Little Lamb Who Told a Little Lie"
+**推送状态**: ✅ 成功推送至 github.com:SolJE/bedtimestories.git
