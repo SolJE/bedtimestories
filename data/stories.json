@@ -137,5 +137,14 @@
       "coverEmoji": "🐢",
       "coverImage": "assets/images/story-017-cover.png",
       "summary": "Toby the turtle dreams of winning the Forest Race, but everyone says turtles are too slow. With perseverance and practice, he learns that finishing the race is its own victory."
+    },
+    {
+      "id": "story-018",
+      "title": "The Little Cat Who Made a Mouse Friend",
+      "titleZh": "交到老鼠朋友的小猫咪",
+      "publishDate": "2026-07-02",
+      "coverEmoji": "🐱",
+      "coverImage": "assets/images/story-018-cover.png",
+      "summary": "Milo the kitten moves to a new town and meets Maple the mouse. Despite everyone saying cats and mice can't be friends, they discover that true friendship doesn't care about rules — it cares about how you make each other feel."
     }
   ]

@@ -1,0 +1,355 @@
+{
+  "id": "story-018",
+  "title": "The Little Cat Who Made a Mouse Friend",
+  "titleZh": "交到老鼠朋友的小猫咪",
+  "publishDate": "2026-07-02",
+  "coverEmoji": "🐱",
+  "coverImage": "assets/images/story-018-cover.png",
+  "illustrations": [
+    { "paragraphId": "p5", "image": "assets/images/story-018-scene-1.png", "alt": "A calico kitten named Milo stares at a tiny mouse named Maple in the garden, both frozen in surprise" },
+    { "paragraphId": "p20", "image": "assets/images/story-018-scene-2.png", "alt": "Milo the cat and Maple the mouse play hide-and-seek together among colorful flowers in the sunny garden" },
+    { "paragraphId": "p37", "image": "assets/images/story-018-scene-3.png", "alt": "Milo stands protectively in front of Maple, facing Grandma Turtle and Benny, declaring that Maple is his best friend" }
+  ],
+  "moral": "True friendship doesn't care about who you are or where you come from. It cares about how you make each other feel.",
+  "moralZh": "真正的友谊不在乎你是谁、来自哪里。它在乎的是你们让彼此感觉如何。",
+  "vocabulary": [
+    { "word": "friendship", "phonetic": "/ˈfrendʃɪp/", "meaning": "友谊，友情" },
+    { "word": "curious", "phonetic": "/ˈkjʊriəs/", "meaning": "好奇的，求知欲强的" },
+    { "word": "garden", "phonetic": "/ˈɡɑːrdn/", "meaning": "花园，菜园" },
+    { "word": "scamper", "phonetic": "/ˈskæmpər/", "meaning": "蹦跳，奔跑" },
+    { "word": "fragile", "phonetic": "/ˈfrædʒl/", "meaning": "脆弱的，易碎的" },
+    { "word": "whisper", "phonetic": "/ˈwɪspər/", "meaning": "低语，悄悄说" },
+    { "word": "tremble", "phonetic": "/ˈtrembl/", "meaning": "颤抖，发抖" },
+    { "word": "pounce", "phonetic": "/paʊns/", "meaning": "猛扑，突袭" },
+    { "word": "courage", "phonetic": "/ˈkɜːrɪdʒ/", "meaning": "勇气，胆量" },
+    { "word": "frown", "phonetic": "/fraʊn/", "meaning": "皱眉，不悦" },
+    { "word": "apologize", "phonetic": "/əˈpɑːlədʒaɪz/", "meaning": "道歉，认错" },
+    { "word": "blossom", "phonetic": "/ˈblɑːsəm/", "meaning": "开花，绽放" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In the cozy little town of Meadowvale, where the houses were painted in soft pastel colors and the streets smelled like fresh bread and honeysuckle, there lived a calico kitten named Milo."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo had patches of orange, black, and white fur, big green eyes that sparkled like emeralds, and a tail that seemed to have a mind of its own. He had just moved to Meadowvale with his family, and he didn't know anyone yet."
+    },
+    {
+      "id": "p3",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"This new town is so quiet... I wish I had someone to play with.\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo's mom had told him to explore the garden behind their new house. So one sunny morning, Milo pushed open the little wooden gate and stepped into a wonderland of flowers — daisies, tulips, lavender, and a big old oak tree in the corner."
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And there, sitting under the oak tree with a tiny piece of cheese in her paws, was the smallest mouse Milo had ever seen. She had soft brown fur, round twitchy ears, and eyes as black as shiny buttons. She froze when she saw Milo. Milo froze too."
+    },
+    {
+      "id": "p6",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"Eep! A... a cat! Please don't eat me! I'm very small and I probably wouldn't taste good! I've been eating mostly cheese and —\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Wait, wait, wait! I'm not going to eat you! I don't even eat cheese! I eat — well, I eat kibble. From a bowl. It's very boring.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The little mouse blinked. She tilted her head. Then she let out the tiniest giggle."
+    },
+    {
+      "id": "p9",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"Kibble? That sounds TERRIBLE! You should try cheese! Cheese is the best food in the whole wide world! I'm Maple, by the way. Maple the Mouse.\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"I'm Milo. I just moved here. I don't know anyone yet. Do you... do you live here? In the garden?\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"I live under the big oak tree! See that little hole between the roots? That's my front door! It's cozy — well, it's a bit damp when it rains, but I've decorated it with acorn caps and a tiny button I found.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Wow! You have your own house? I share a room with my little sister. She snores.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Maple giggled again. She put down her cheese and took a brave step closer. Milo sat down slowly so he wouldn't scare her."
+    },
+    {
+      "id": "p14",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"You know, I've lived in this garden my whole life, but I've never had a friend to play with. The birds are too busy, the squirrels are too fast, and the rabbits... well, they're nice, but they only talk about carrots.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"I've never had a mouse friend before. Actually, I've never had any friend who wasn't a cat. Is that... okay?\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"I think it's more than okay! I think it's the best idea I've heard all week! Do you want to play?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"I'd love to! But... what do mice and cats play together?\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"Hmm... How about hide-and-seek? I'm VERY good at hiding because I'm very tiny! And you can seek because you have very big eyes!\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Deal! Close your eyes and count to ten!\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so the cat and the mouse played hide-and-seek among the flowers. Maple hid behind tulips, under daisies, and inside an old watering can. Milo found her every time — but he pretended not to, just to hear her happy squeak when she won a round."
+    },
+    {
+      "id": "p21",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"I won again! I'm the undefeated hide-and-seek champion of Meadowvale!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"You're definitely the champion of SOMETHING! That was so much fun!\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Days turned into weeks. Every morning, Milo would sneak into the garden to meet Maple. They played tag around the oak tree. They built tiny castles out of pebbles. Maple showed Milo the best spots for catching sunbeams, and Milo showed Maple how to climb halfway up the oak tree (though Maple never went higher than the first branch)."
+    },
+    {
+      "id": "p24",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"Milo, you're my very best friend in the whole world! I've never laughed so much!\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"You're my best friend too, Maple! I don't care that you're a mouse and I'm a cat. You're the most fun friend I've ever had!\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But one afternoon, as Milo and Maple were playing a game of 'who can balance the longest on the garden wall,' a gruff voice interrupted them."
+    },
+    {
+      "id": "p27",
+      "speaker": "Benny",
+      "speakerZh": "本尼",
+      "text": "\"What do we have here? A cat... playing with a mouse? That's the silliest thing I've ever seen!\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "It was Benny the Bunny, a floppy-eared rabbit with a smug expression. Next to him stood Grandma Turtle, the oldest and wisest — and sometimes crankiest — creature in the garden."
+    },
+    {
+      "id": "p29",
+      "speaker": "Grandma Turtle",
+      "speakerZh": "乌龟奶奶",
+      "text": "\"A cat and a mouse being friends? Why, that's against the laws of nature! Cats chase mice! Everyone knows that!\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"But Milo is different! He doesn't chase me! He's kind!\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Benny",
+      "speakerZh": "本尼",
+      "text": "\"Oh, sure, until his cat instincts kick in. One day he'll forget you're his 'friend' and POUNCE. That's what cats do. Isn't that right, kitty?\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo's ears flattened. His tail stopped moving. He looked at Maple, and for the first time, a tiny doubt crept into his heart. What if Benny was right? What if one day he couldn't help himself?"
+    },
+    {
+      "id": "p33",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"I... I would never hurt Maple. She's my friend.\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Grandma Turtle",
+      "speakerZh": "乌龟奶奶",
+      "text": "\"Hmph. Words are easy. Let's see how long this 'friendship' lasts. Come along, Benny. Let's leave the odd pair to their games.\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Grandma Turtle shuffled away, and Benny hopped after her with one last smug look. Maple and Milo sat in silence. The garden suddenly felt much less magical."
+    },
+    {
+      "id": "p36",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"Milo... do you think they're right? Are cats and mice not supposed to be friends?\""
+    },
+    {
+      "id": "p37",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Maple, listen to me. I don't care what Benny says. I don't care what Grandma Turtle says. I don't care what ANYONE says. You're my best friend. And I would NEVER — ever, ever, EVER — hurt you. Not for a million bowls of kibble!\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"Really? Even when Benny said those mean things?\""
+    },
+    {
+      "id": "p39",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Especially when he said those mean things! You know why? Because true friendship doesn't care about what other people think. It only cares about how we feel about each other. And I feel HAPPY when I'm with you. That's what matters!\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Maple's little whiskers trembled — but this time not from fear. Her eyes sparkled with happy tears. She reached out her tiny paw, and Milo gently touched it with his big fluffy one."
+    },
+    {
+      "id": "p41",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"You're right, Milo. Friendship is about how we feel, not about what we are. And you make me feel brave. And happy. And like I can do ANYTHING.\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Then let's show them! Let's show everyone that a cat and a mouse can be the best of friends!\""
+    },
+    {
+      "id": "p43",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next day, Milo and Maple organized a garden party. They invited everyone — the birds, the squirrels, the rabbits, even Grandma Turtle. Maple made tiny cheese sandwiches. Milo decorated the garden with daisies and dandelions."
+    },
+    {
+      "id": "p44",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "At first, the animals were hesitant. But when they saw Milo carefully helping Maple carry a big leaf full of berries, and Maple laughing as Milo tried to balance a flower on his nose, something changed."
+    },
+    {
+      "id": "p45",
+      "speaker": "Benny",
+      "speakerZh": "本尼",
+      "text": "\"Well... I guess I was wrong. You two really ARE friends. I'm sorry for what I said.\""
+    },
+    {
+      "id": "p46",
+      "speaker": "Grandma Turtle",
+      "speakerZh": "乌龟奶奶",
+      "text": "\"I've been in this garden for fifty years, and I've never seen anything quite like it. A cat and a mouse, proving that friendship has no rules. I stand corrected. May I try one of those tiny cheese sandwiches?\""
+    },
+    {
+      "id": "p47",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"Of course, Grandma Turtle! Maple made them! She's the best cheese-sandwich maker in the world!\""
+    },
+    {
+      "id": "p48",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"And Milo is the best friend-finder in the world! If he hadn't been brave enough to say hello to a tiny mouse, none of this would have happened!\""
+    },
+    {
+      "id": "p49",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Soon, the whole garden was laughing and chatting together. Birds shared their berries. Squirrels cracked nuts for everyone. And Grandma Turtle ate not one, not two, but FOUR tiny cheese sandwiches."
+    },
+    {
+      "id": "p50",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo and Maple sat together under the big oak tree, watching their garden full of friends. Milo's tail curled happily around Maple's little paw."
+    },
+    {
+      "id": "p51",
+      "speaker": "Milo",
+      "speakerZh": "米洛",
+      "text": "\"You know what, Maple? I think we did something really special. We didn't just become friends — we showed everyone that friendship doesn't need a rulebook.\""
+    },
+    {
+      "id": "p52",
+      "speaker": "Maple",
+      "speakerZh": "梅普尔",
+      "text": "\"All it needs is two hearts who care about each other. And a really good cheese sandwich.\""
+    },
+    {
+      "id": "p53",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Milo laughed so hard his whiskers wiggled. And sitting there, in the golden afternoon light, surrounded by friends new and old, Milo and Maple knew something that nobody could ever take away from them: true friendship doesn't care about who you are or where you come from. It only cares about how you make each other feel."
+    },
+    {
+      "id": "p54",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So if anyone ever tells you that you can't be friends with someone because you're too different — remember Milo the Cat and Maple the Mouse. Look past the differences, open your heart, and you might just find the best friend you never knew you were looking for."
+    }
+  ]
+}
