@@ -146,5 +146,14 @@
       "coverEmoji": "🐱",
       "coverImage": "assets/images/story-018-cover.png",
       "summary": "Milo the kitten moves to a new town and meets Maple the mouse. Despite everyone saying cats and mice can't be friends, they discover that true friendship doesn't care about rules — it cares about how you make each other feel."
+    },
+    {
+      "id": "story-019",
+      "title": "The Little Hedgehog Who Planted Smiles",
+      "titleZh": "种下微笑的小刺猬",
+      "publishDate": "2026-07-09",
+      "coverEmoji": "🦔",
+      "coverImage": "assets/images/story-019-cover.png",
+      "summary": "Hattie the hedgehog finds joy in small acts of kindness — sharing strawberries, helping a tangled bird, cheering up a sad friend. When she returns home, she discovers that kindness has a way of growing and coming back in the most beautiful ways."
     }
   ]

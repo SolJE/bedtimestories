@@ -1,0 +1,337 @@
+{
+  "id": "story-019",
+  "title": "The Little Hedgehog Who Planted Smiles",
+  "titleZh": "种下微笑的小刺猬",
+  "publishDate": "2026-07-09",
+  "coverEmoji": "🦔",
+  "coverImage": "assets/images/story-019-cover.png",
+  "illustrations": [
+    { "paragraphId": "p5", "image": "assets/images/story-019-scene-1.png", "alt": "Hattie the hedgehog offers a shiny red apple to Oliver the sad rabbit sitting by the old oak tree, her little paws reaching out with kindness" },
+    { "paragraphId": "p22", "image": "assets/images/story-019-scene-2.png", "alt": "Hattie the hedgehog carefully helps Mr. Finch untangle a tangled string from his wing, standing on tiptoes under the cherry blossom tree" },
+    { "paragraphId": "p40", "image": "assets/images/story-019-scene-3.png", "alt": "All the woodland animals gather around Hattie under the glowing moonlight, bringing berries, flowers, and a tiny acorn necklace to thank her for her kindness" }
+  ],
+  "moral": "No act of kindness, no matter how small, is ever wasted. Every kind thing you do plants a seed that grows into something beautiful.",
+  "moralZh": "无论多么微小的善意，都不会白费。你做的每一件善事，都像播下了一颗种子，终会长出美好的花朵。",
+  "vocabulary": [
+    { "word": "kindness", "phonetic": "/ˈkaɪndnəs/", "meaning": "善良，好意" },
+    { "word": "whisper", "phonetic": "/ˈwɪspər/", "meaning": "低语，悄悄话" },
+    { "word": "blossom", "phonetic": "/ˈblɑːsəm/", "meaning": "开花，绽放" },
+    { "word": "shy", "phonetic": "/ʃaɪ/", "meaning": "害羞的，腼腆的" },
+    { "word": "tangled", "phonetic": "/ˈtæŋɡld/", "meaning": "缠在一起的，混乱的" },
+    { "word": "grateful", "phonetic": "/ˈɡreɪtfl/", "meaning": "感激的，感谢的" },
+    { "word": "sparkle", "phonetic": "/ˈspɑːrkl/", "meaning": "闪烁，闪光" },
+    { "word": "nuzzle", "phonetic": "/ˈnʌzl/", "meaning": "用鼻子蹭，依偎" },
+    { "word": "ripple", "phonetic": "/ˈrɪpl/", "meaning": "涟漪，波纹" },
+    { "word": "acorn", "phonetic": "/ˈeɪkɔːrn/", "meaning": "橡果，橡子" },
+    { "word": "harvest", "phonetic": "/ˈhɑːrvɪst/", "meaning": "收获，丰收" },
+    { "word": "treasure", "phonetic": "/ˈtreʒər/", "meaning": "珍宝，珍惜" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In a cozy meadow at the edge of Whispering Woods, where the grass was soft as velvet and tiny wildflowers painted the ground in purple and gold, there lived a little hedgehog named Hattie."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Hattie had a round belly, bright brown eyes, and a coat of the softest brown spines you could ever imagine. But the most special thing about Hattie wasn't her spines or her eyes — it was her heart. Hattie loved doing little things to make others smile."
+    },
+    {
+      "id": "p3",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Good morning, sun! Good morning, flowers! Good morning, world! I wonder who I can help today?\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Hattie waddled through the meadow, her little paws padding softly on the grass. Just ahead, under the big old oak tree, she spotted someone sitting all alone — Oliver the Rabbit. His ears drooped and his whiskers pointed sadly downward."
+    },
+    {
+      "id": "p5",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Oliver! What's wrong? You look like someone stole your favorite carrot!\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Oliver",
+      "speakerZh": "奥利弗",
+      "text": "\"Oh... hi, Hattie. I'm okay. It's just... I was supposed to bring the biggest, reddest apple to the Meadow Feast tonight. But I dropped it, and it rolled down the hill and into the creek. Now I have nothing to share.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Oliver",
+      "speakerZh": "奥利弗",
+      "text": "\"Everyone else will bring something wonderful. Penny Squirrel has her famous hazelnuts. Mr. Finch is bringing a berry pie. And I'll show up with... empty paws.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Oliver's ears drooped even lower. Hattie's heart squeezed. She looked around — and then she noticed something."
+    },
+    {
+      "id": "p9",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Wait right here, Oliver! Don't move a single whisker! I'll be back before you can hop!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Hattie scurried away as fast as her little legs could carry her. She knew a secret spot — a tiny clearing hidden behind a curtain of ferns, where the sweetest wild berries grew in bunches."
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She picked the biggest, juiciest strawberries she could find, wrapped them carefully in a big green leaf, and hurried back."
+    },
+    {
+      "id": "p12",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Here! They're not apples, but they're THE sweetest strawberries in the entire forest! I picked them myself! You can bring these to the feast!\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Oliver",
+      "speakerZh": "奥利弗",
+      "text": "\"Hattie... are you sure? These are YOUR strawberries! I can't take them!\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Of course I'm sure! I can always pick more tomorrow. But tonight, you deserve to have something special to share. Besides, seeing you smile is worth more than a hundred strawberries!\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Oliver's ears perked up. A tiny smile crept across his face. His whiskers curled upward."
+    },
+    {
+      "id": "p16",
+      "speaker": "Oliver",
+      "speakerZh": "奥利弗",
+      "text": "\"Thank you, Hattie! You're the kindest hedgehog I KNOW! I promise I'll share these with everyone and tell them YOU found them!\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Oh, you don't have to tell anyone! Just seeing you happy is enough for me!\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Oliver hopped away with his leaf full of strawberries, looking much lighter than before. Hattie waved goodbye and felt a warm glow in her chest. But her day of kindness was just beginning."
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "A little further along the meadow path, Hattie heard a sad chirping sound. She peeked through the bushes and saw Mr. Finch, an old bird with dusty gray feathers, sitting on a low branch and looking very frustrated."
+    },
+    {
+      "id": "p20",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Mr. Finch! What's the matter? You look more tangled than a ball of yarn after kitten playtime!\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Mr. Finch",
+      "speakerZh": "芬奇先生",
+      "text": "\"Oh, Hattie dear. I was trying to weave a new nest for my grandchildren — the old one got too small, you see. But this silly string won't cooperate! It's wrapped around my wing and I can't — oh dear, I can't reach it!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Hattie looked up. Sure enough, a long piece of twine was wrapped tightly around Mr. Finch's left wing, and the more he fussed, the tighter it seemed to get."
+    },
+    {
+      "id": "p23",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Don't worry, Mr. Finch! I may be small, but I have very nimble paws! Hold still — I'll have you free in no time!\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Hattie climbed up the branch carefully — slowly, because hedgehogs aren't the best climbers — and gently worked the twine loose with her tiny paws. Bit by bit, the string came undone."
+    },
+    {
+      "id": "p25",
+      "speaker": "Mr. Finch",
+      "speakerZh": "芬奇先生",
+      "text": "\"Oh! Oh my! It's loosening! You're doing it! You're a natural little helper!\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Just a little more... and... THERE! You're free!\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The twine fell away, and Mr. Finch fluttered his wings with relief. He chirped a happy song right there on the spot."
+    },
+    {
+      "id": "p28",
+      "speaker": "Mr. Finch",
+      "speakerZh": "芬奇先生",
+      "text": "\"Bless you, Hattie! Bless your little hedgehog heart! Now I can finish the nest before my grandchildren arrive! Is there anything I can do to repay you?\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Just build a lovely nest for your grandchildren! And maybe — sing a song or two. Your singing always makes the meadow brighter!\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mr. Finch puffed out his chest and sang the most beautiful melody Hattie had ever heard. Hattie smiled, waved goodbye, and continued on her way."
+    },
+    {
+      "id": "p31",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "As the afternoon sun began to dip toward the horizon, Hattie's feet grew tired. She sat down by a patch of daisies to rest. But just then, she heard a soft sniffle nearby."
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "It was Penny Squirrel, Hattie's good friend. Penny sat on a mossy rock with her tail drooping, tears making little wet spots on the moss."
+    },
+    {
+      "id": "p33",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Penny! What happened? Did you lose your favorite acorn again?\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Penny",
+      "speakerZh": "彭妮",
+      "text": "\"Worse! I've been practicing the Meadow Feast dance all week, and I STILL can't get the twirl right! Everyone will laugh at me! I'll be the only squirrel who trips over her own tail!\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Penny buried her face in her paws. Hattie waddled closer and sat beside her."
+    },
+    {
+      "id": "p36",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Penny, can I tell you a secret? I can't dance either. My legs are too short and my belly is too round. But you know what? Nobody at the feast cares about perfect dancing. They care about having fun TOGETHER. And you, my friend, are SO much fun!\""
+    },
+    {
+      "id": "p37",
+      "speaker": "Penny",
+      "speakerZh": "彭妮",
+      "text": "\"You really think so? Even if I trip?\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"Especially if you trip! Then everyone will laugh — WITH you, not AT you — and you'll all fall down giggling together! That's what makes a feast memorable!\""
+    },
+    {
+      "id": "p39",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Penny sniffled, then giggled. She wiped her eyes and gave Hattie a big squirrel hug."
+    },
+    {
+      "id": "p40",
+      "speaker": "Penny",
+      "speakerZh": "彭妮",
+      "text": "\"You always know exactly what to say, Hattie. How do you do it?\""
+    },
+    {
+      "id": "p41",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"I just listen! And I think about what would make ME feel better if I were sad. Kindness isn't hard — it's just remembering that everyone has a heart that needs warming sometimes.\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "As the sun began to set, Hattie made her way home. She was tired — her paws ached, her spines were dusty, and she hadn't even found any food for herself. But her heart felt full and light."
+    },
+    {
+      "id": "p43",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "When she reached her little burrow under the roots of an old willow tree, she found something astonishing. There, piled in front of her door, was a mountain of gifts."
+    },
+    {
+      "id": "p44",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"What in the meadow...?!\""
+    },
+    {
+      "id": "p45",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "There were strawberries — lots of them, tied up in a neat leaf bundle. A tiny hand-painted sign that read 'Thank you, Hattie!' in berry juice. A beautiful blue feather from Mr. Finch. A little acorn necklace that Penny had woven from dried grass."
+    },
+    {
+      "id": "p46",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And on top of it all, there was a note written on a large maple leaf in wobbly handwriting:"
+    },
+    {
+      "id": "p47",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "\"Dear Hattie — You gave us your kindness when we needed it most. We wanted to show you that kindness doesn't just disappear. It grows, and it comes back. Like a ripple in a pond that touches every shore. Thank you for being you. — From Oliver, Mr. Finch, Penny, and everyone at the Meadow Feast.\""
+    },
+    {
+      "id": "p48",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Hattie's eyes filled with happy tears. She touched the tiny acorn necklace and smiled the biggest smile a hedgehog could smile."
+    },
+    {
+      "id": "p49",
+      "speaker": "Hattie",
+      "speakerZh": "哈蒂",
+      "text": "\"I didn't do any of it for thank-yous or gifts. I just wanted to help. But... this feels really, really nice.\""
+    },
+    {
+      "id": "p50",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, as the moon rose over Whispering Woods and the stars began to twinkle, Hattie sat outside her little burrow, wearing her acorn necklace, munching on a strawberry. She thought about all the smiles she had helped plant that day — and how they had grown into something far more beautiful than she had ever imagined."
+    },
+    {
+      "id": "p51",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So if you ever wonder whether your small acts of kindness matter — whether a kind word, a helping paw, or a shared strawberry really makes a difference — remember Hattie the Hedgehog. Because every kind thing you do is like planting a seed. And you never know how big and beautiful it might grow."
+    }
+  ]
+}
