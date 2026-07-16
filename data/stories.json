@@ -155,5 +155,14 @@
       "coverEmoji": "🦔",
       "coverImage": "assets/images/story-019-cover.png",
       "summary": "Hattie the hedgehog finds joy in small acts of kindness — sharing strawberries, helping a tangled bird, cheering up a sad friend. When she returns home, she discovers that kindness has a way of growing and coming back in the most beautiful ways."
+    },
+    {
+      "id": "story-020",
+      "title": "The Little Raccoon Who Learned to Share",
+      "titleZh": "学会分享的小浣熊",
+      "publishDate": "2026-07-16",
+      "coverEmoji": "🦝",
+      "coverImage": "assets/images/story-020-cover.png",
+      "summary": "Ruby the raccoon finds a magical rainbow pebble but keeps it hidden away. With help from Ollie the Owl, she learns that true treasure isn't something you hold tight — it's something you share."
     }
   ]

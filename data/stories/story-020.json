@@ -1,0 +1,325 @@
+{
+  "id": "story-020",
+  "title": "The Little Raccoon Who Learned to Share",
+  "titleZh": "学会分享的小浣熊",
+  "publishDate": "2026-07-16",
+  "coverEmoji": "🦝",
+  "coverImage": "assets/images/story-020-cover.png",
+  "illustrations": [
+    { "paragraphId": "p10", "image": "assets/images/story-020-scene-1.png", "alt": "Ruby the raccoon discovers a glowing rainbow pebble by the sparkling forest stream, her eyes wide with wonder as sunlight dances on the water" },
+    { "paragraphId": "p22", "image": "assets/images/story-020-scene-2.png", "alt": "Ruby sits alone in her cozy tree hollow surrounded by her collection of treasures, looking sad and lonely while the colorful pebble sits in a box nearby" },
+    { "paragraphId": "p36", "image": "assets/images/story-020-scene-3.png", "alt": "Ruby the raccoon joyfully shows the glowing rainbow pebble to Bella the bunny under a beautiful sunset sky, both friends smiling with wonder and happiness" }
+  ],
+  "moral": "When you share what you have, joy doesn't split — it multiplies. The best treasures are the ones that make everyone smile together.",
+  "moralZh": "分享并不会让快乐减少，反而会让快乐加倍。最好的宝贝，是那些能让所有人都一起微笑的东西。",
+  "vocabulary": [
+    { "word": "share", "phonetic": "/ʃer/", "meaning": "分享" },
+    { "word": "discover", "phonetic": "/dɪˈskʌvər/", "meaning": "发现" },
+    { "word": "sparkle", "phonetic": "/ˈspɑːrkl/", "meaning": "闪烁，闪闪发光" },
+    { "word": "treasure", "phonetic": "/ˈtreʒər/", "meaning": "宝藏，珍宝" },
+    { "word": "hollow", "phonetic": "/ˈhɑːloʊ/", "meaning": "树洞，空心的" },
+    { "word": "whisper", "phonetic": "/ˈwɪspər/", "meaning": "低语，轻声说" },
+    { "word": "precious", "phonetic": "/ˈpreʃəs/", "meaning": "珍贵的" },
+    { "word": "lonely", "phonetic": "/ˈloʊnli/", "meaning": "孤独的" },
+    { "word": "gather", "phonetic": "/ˈɡæðər/", "meaning": "聚集" },
+    { "word": "curious", "phonetic": "/ˈkjʊriəs/", "meaning": "好奇的" },
+    { "word": "glow", "phonetic": "/ɡloʊ/", "meaning": "发光" },
+    { "word": "multiply", "phonetic": "/ˈmʌltɪplaɪ/", "meaning": "倍增，增加" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In a sun-dappled corner of Brightwood Forest, where the trees whispered secrets and the stream hummed a cheerful tune, there lived a little raccoon named Ruby."
+    },
+    {
+      "id": "p2",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby had the bushiest tail in the forest — striped with silver and gray like rings on a wizard's staff — and the brightest, most curious eyes you could ever see. But Ruby also had a very special collection."
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Inside the hollow of an old oak tree, Ruby kept her secret treasure chest — an old wooden box painted with acorns and leaves. Inside it were: three shiny bottle caps, a silver button that caught the light, two smooth river stones, and the feather of a blue jay."
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby loved her treasures. She loved them so much that she never showed them to anyone — not even to Bella, her best friend in the whole forest."
+    },
+    {
+      "id": "p5",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"Ruby! Ruby! Come quick! There's something shiny in the stream!\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bella the Bunny came hopping through the ferns, her ears flopping excitedly. Ruby scrambled down from her tree and followed Bella to the edge of Sparkling Stream."
+    },
+    {
+      "id": "p7",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Where? What is it? I love shiny things!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The two friends peered into the clear, rushing water. And there, half-buried in the pebbles at the bottom, something glowed with all the colors of the rainbow."
+    },
+    {
+      "id": "p9",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"It's the most beautiful pebble I've ever seen! It's like a tiny rainbow trapped in a stone! Let me try to get it for you!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Ruby was faster. She plunged her little paws into the chilly water, grabbed the rainbow pebble, and held it up to the sunlight. The pebble sparkled and shimmered, casting tiny rainbows across the grass."
+    },
+    {
+      "id": "p11",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Wow... It's MINE now! This is the best treasure I've ever found!\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"Can I see it? Just for a second?\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby hesitated. She clutched the pebble tightly against her chest. Something inside her whispered: 'Don't let go. It's yours. Yours alone.'"
+    },
+    {
+      "id": "p14",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Um... maybe later, Bella. I need to clean it first. And put it in a safe place. You know — special pebble care!\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby scurried away before Bella could say another word. She climbed up to her tree hollow, took out her treasure box, and carefully placed the rainbow pebble on top of everything else."
+    },
+    {
+      "id": "p16",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"There! Now you're safe. My most beautiful treasure. All mine.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby closed the box and sat back, expecting to feel wonderful. But somehow... she didn't. The hollow felt darker than usual. Quieter. Lonelier."
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The next morning, Ruby opened her box just to peek at the pebble. It still sparkled. But the sparkle didn't reach her heart the way it had by the stream."
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She heard laughter outside. She peeked through the leaves and saw Bella playing with Ollie the Owl near the old berry bush. Bella was showing Ollie how to do a new hop-jump she had invented."
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby felt a strange, twisty feeling in her tummy. She held the rainbow pebble tighter. But the tighter she held it, the heavier it felt."
+    },
+    {
+      "id": "p21",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Why aren't you making me happy anymore?\" she whispered to the pebble. The pebble, of course, did not answer."
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Days passed. Ruby stayed in her hollow, looking at her treasures, while Bella played outside with the other forest friends. The rainbow pebble sat in its box, beautiful and completely alone — just like Ruby."
+    },
+    {
+      "id": "p23",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Ruby? Ruby, are you in there?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "It was Ollie the Owl. His big golden eyes blinked patiently at the entrance of Ruby's hollow."
+    },
+    {
+      "id": "p25",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Go away, Ollie. I'm busy guarding my treasures.\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Guarding them? Or hiding from us?\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby's ears drooped. Ollie had a way of asking questions that poked right through her fuzzy fur and into her feelings."
+    },
+    {
+      "id": "p28",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"It's just... I found this beautiful pebble. The most beautiful one in the whole forest. And I was so happy at first. But now... I don't feel happy at all. I feel lonely.\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"Ruby, can I tell you something I've learned? I've been watching sunsets for many years. The most beautiful sunset in the world is not the one you watch alone — it's the one you watch with someone who says 'wow' at the exact same moment.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"I mean that the best treasures aren't the ones you keep — they're the ones you share. A treasure that nobody else sees is just a rock in a box. But a treasure that makes someone else's eyes light up? That's magic.\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby looked down at the pebble. It was still beautiful. But Ollie's words shimmered even brighter than the pebble's colors."
+    },
+    {
+      "id": "p33",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"You really think so?\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"I know so. Try it. Show it to Bella. I bet her eyes will light up like fireflies on a summer night.\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby took a deep breath. She picked up the rainbow pebble, still warm from being clutched in her paws, and climbed down from her tree. Her heart thumped like a drum."
+    },
+    {
+      "id": "p36",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She found Bella sitting by the stream, staring at the spot where they had first found the pebble together. Bella looked up when Ruby approached."
+    },
+    {
+      "id": "p37",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"Bella... I'm sorry. I should have shown you this the day we found it. Here.\""
+    },
+    {
+      "id": "p38",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Ruby held out her paw. The rainbow pebble sat in the middle of it, glowing softly in the afternoon light. Bella's eyes grew wide."
+    },
+    {
+      "id": "p39",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"Oh, Ruby! It's even more beautiful than I remembered! It's like holding a piece of the rainbow!\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then it happened. Bella's face lit up with the biggest, brightest smile Ruby had ever seen. And right at that moment, Ruby felt something she hadn't felt in days — true happiness. It surged through her like warm honey."
+    },
+    {
+      "id": "p41",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"You know what? I want you to have it. For real. I want you to take it home and keep it for a while.\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Bella",
+      "speakerZh": "贝拉",
+      "text": "\"Ruby! I can't! It's your treasure!\""
+    },
+    {
+      "id": "p43",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"No — I think the treasure was always meant to be both of ours. Besides, watching you smile is worth more than any pebble. And you can show it to Ollie and everyone else too!\""
+    },
+    {
+      "id": "p44",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That evening, Ruby, Bella, and Ollie gathered by the old oak tree. Bella showed the rainbow pebble to everyone who passed by. Each time someone new looked at it, their face lit up, and Ruby felt her heart grow a little warmer."
+    },
+    {
+      "id": "p45",
+      "speaker": "Ollie",
+      "speakerZh": "奥利",
+      "text": "\"See, Ruby? The pebble didn't stop being beautiful when you shared it. It became MORE beautiful — because now it carries a hundred happy looks, not just one.\""
+    },
+    {
+      "id": "p46",
+      "speaker": "Ruby",
+      "speakerZh": "露比",
+      "text": "\"You were right, Ollie. Sharing doesn't make a treasure smaller. It makes the treasure... bigger. And so does the happiness.\""
+    },
+    {
+      "id": "p47",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, Ruby went back to her hollow and opened her treasure box. For the first time, she didn't feel the urge to close it and hide it away. Instead, she smiled and thought about all the things she could share tomorrow."
+    },
+    {
+      "id": "p48",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And here's the beautiful secret Ruby discovered: when you share something, you don't lose it. You just get to enjoy it through everyone else's eyes too. And somehow, that makes it a thousand times more precious."
+    },
+    {
+      "id": "p49",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So remember, whenever you find something wonderful — a toy, a book, a snack, or a rainbow pebble — think of Ruby the Raccoon. Because the best way to keep a treasure forever is to let someone else love it too."
+    }
+  ]
+}
