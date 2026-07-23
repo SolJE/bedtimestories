@@ -164,5 +164,14 @@
       "coverEmoji": "🦝",
       "coverImage": "assets/images/story-020-cover.png",
       "summary": "Ruby the raccoon finds a magical rainbow pebble but keeps it hidden away. With help from Ollie the Owl, she learns that true treasure isn't something you hold tight — it's something you share."
+    },
+    {
+      "id": "story-021",
+      "title": "The Little Squirrel Who Found Thankfulness",
+      "titleZh": "找到感恩之心的小松鼠",
+      "publishDate": "2026-07-23",
+      "coverEmoji": "🐿️",
+      "coverImage": "assets/images/story-021-cover.png",
+      "summary": "Sunny the squirrel never says thank you — until a big storm takes everything away. With help from her friends, she discovers that gratitude is the secret ingredient that turns what we have into enough."
     }
   ]

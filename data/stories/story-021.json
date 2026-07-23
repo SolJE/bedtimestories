@@ -1,0 +1,279 @@
+{
+  "id": "story-021",
+  "title": "The Little Squirrel Who Found Thankfulness",
+  "titleZh": "找到感恩之心的小松鼠",
+  "theme": "感恩",
+  "themeEn": "Gratitude",
+  "publishDate": "2026-07-23",
+  "coverEmoji": "🐿️",
+  "coverImage": "assets/images/story-021-cover.png",
+  "illustrations": [
+    "assets/images/story-021-scene-1.png",
+    "assets/images/story-021-scene-2.png",
+    "assets/images/story-021-scene-3.png"
+  ],
+  "summary": "Sunny the squirrel never says thank you — until a big storm takes everything away. With help from Grandpa Oak, Bella the bluebird, and Finn the fox, she discovers that gratitude is the secret ingredient that turns what we have into enough.",
+  "moral": "Gratitude turns what we have into more than enough. When we stop to say thank you, we discover how rich we truly are.",
+  "moralZh": "感恩能让我们所拥有的变得更多。当我们停下来道一声谢谢，才发现自己其实如此富有。",
+  "vocabulary": [
+    {
+      "word": "thankfulness",
+      "phonetic": "/ˈθæŋk.fəl.nəs/",
+      "meaning": "感恩；感激"
+    },
+    {
+      "word": "gratitude",
+      "phonetic": "/ˈɡræt.ɪ.tjuːd/",
+      "meaning": "感激之情；感恩"
+    },
+    {
+      "word": "stash",
+      "phonetic": "/stæʃ/",
+      "meaning": "储藏物；藏起来的东西"
+    },
+    {
+      "word": "acorn",
+      "phonetic": "/ˈeɪ.kɔːn/",
+      "meaning": "橡子"
+    },
+    {
+      "word": "storm",
+      "phonetic": "/stɔːm/",
+      "meaning": "风暴；暴风雨"
+    },
+    {
+      "word": "generous",
+      "phonetic": "/ˈdʒen.ər.əs/",
+      "meaning": "慷慨的；大方的"
+    },
+    {
+      "word": "devastated",
+      "phonetic": "/ˈdev.ə.steɪ.tɪd/",
+      "meaning": "被摧毁的；极为沮丧的"
+    },
+    {
+      "word": "feast",
+      "phonetic": "/fiːst/",
+      "meaning": "盛宴；大餐"
+    },
+    {
+      "word": "whisper",
+      "phonetic": "/ˈwɪs.pər/",
+      "meaning": "低语；悄悄地说"
+    },
+    {
+      "word": "grateful",
+      "phonetic": "/ˈɡreɪt.fəl/",
+      "meaning": "感激的；感谢的"
+    },
+    {
+      "word": "abundle",
+      "phonetic": "/əˈbʌn.dl/",
+      "meaning": "一捆；一包"
+    },
+    {
+      "word": "glitter",
+      "phonetic": "/ˈɡlɪt.ər/",
+      "meaning": "闪光；闪烁"
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "Sunny's Sigh",
+      "summary": "Sunny the squirrel loves collecting acorns, but she never says thank you.",
+      "illustration": "assets/images/story-021-scene-1.png"
+    },
+    {
+      "scene": 2,
+      "title": "The Big Storm",
+      "summary": "A fierce storm blows away Sunny's acorn stash, and she learns a hard lesson.",
+      "illustration": "assets/images/story-021-scene-2.png"
+    },
+    {
+      "scene": 3,
+      "title": "A Feast of Thanks",
+      "summary": "Sunny's friends help her gather food, and she finally learns to say thank you.",
+      "illustration": "assets/images/story-021-scene-3.png"
+    }
+  ],
+  "content": [
+    {
+      "type": "narration",
+      "text": "In the heart of Sunflower Forest, there lived a little squirrel named Sunny. She had the fluffiest tail and the quickest paws in all the woods. Every morning, Sunny dashed through the trees, gathering the biggest, shiniest acorns she could find."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "Look at this one! It's perfect! And that one! Oh, and that one over there is even bigger!"
+    },
+    {
+      "type": "narration",
+      "text": "Sunny filled her tree hollow with acorns until it was bursting at the seams. But there was one thing Sunny never did. She never said thank you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grandpa Oak",
+      "text": "Good morning, Sunny! You've been busy today. That's quite a pile you've collected."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "Of course I've been busy! Winter is coming, Grandpa. I need more acorns. Mine are the best, you know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grandpa Oak",
+      "text": "I see you have a lot. But tell me, Sunny — did you say thank you to the oak tree who gave them to you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "Thank you? Why would I say thank you? I worked hard for these acorns! I climbed and searched and —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grandpa Oak",
+      "text": "Hmm. The oak tree bent its branches low so you could reach. The sun shone warm so you could see. The rain watered the ground so the acorns could grow. Did you notice any of that?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "I... well... I — hmph! I don't have time for this! I have more collecting to do!"
+    },
+    {
+      "type": "narration",
+      "text": "Sunny flicked her fluffy tail and scampered away. She didn't like being told what to do. Besides, she had worked hard. Didn't that count for something?"
+    },
+    {
+      "type": "scene_break",
+      "text": "--- That night, something terrible happened ---"
+    },
+    {
+      "type": "narration",
+      "text": "A mighty storm roared through Sunflower Forest. The wind howled like a hungry wolf. Rain pounded on the trees like a thousand tiny drums. Sunny huddled deep in her hollow, shivering."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "It's okay, it's okay... the storm will pass..."
+    },
+    {
+      "type": "narration",
+      "text": "When morning came, Sunny crept outside. The forest looked different — branches everywhere, leaves scattered, and her beautiful acorn stash... gone. Scattered across the muddy ground. A tear rolled down Sunny's cheek."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "No, no, no! My acorns! All of them! What am I going to do? Winter is coming and I have nothing!"
+    },
+    {
+      "type": "narration",
+      "text": "Sunny sat on a wet rock and cried. She had never felt so alone. Just then, a gentle voice chirped beside her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bella",
+      "text": "Oh dear! What's wrong, little squirrel?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "My acorns! All gone! I worked so hard and now there's nothing! Boo-hoo!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bella",
+      "text": "I'm so sorry, Sunny. But don't worry — I know a place where the oak trees still have plenty of acorns. I can show you!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "Really? You would do that for me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bella",
+      "text": "Of course! That's what friends are for! Come on, follow me!"
+    },
+    {
+      "type": "narration",
+      "text": "Bella the bluebird flew ahead, chirping cheerfully. Sunny followed, her heart feeling a little lighter. Before long, they reached a quiet grove where Finn the fox was resting under a tree."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Finn",
+      "text": "Well hello there! Sunny? What brings you all the way out here?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bella",
+      "text": "The storm took all her acorns, Finn. We're looking for more."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Finn",
+      "text": "Oh my! That's terrible! I saw a big oak tree just past the creek — it's full of the fattest acorns I've ever seen. Want me to show you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "You'd help me too? But... I've never really been nice to you, Finn. I always said your tail looked funny."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Finn",
+      "text": "Ha! Maybe it does! But that doesn't mean I can't help a friend in need. Come on — I'll race you to the creek!"
+    },
+    {
+      "type": "narration",
+      "text": "Sunny, Bella, and Finn spent the whole morning gathering acorns. Bella spotted the fattest ones from above. Finn used his strong paws to dig them out of the bushes. And Sunny — Sunny carried them all into her hollow. By midday, her home was full again."
+    },
+    {
+      "type": "narration",
+      "text": "Sunny looked around at her stash, then at her friends. Their fur was messy. Their paws were tired. And they hadn't complained once."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "Bella... Finn... I don't know what to say. You helped me when I had nothing. You didn't have to. But you did."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bella",
+      "text": "That's what friends do, Sunny."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "But I never... I never said thank you to anyone. Not to the oak trees. Not to Grandpa Oak. And not to you. I'm sorry. And... and thank you. Thank you both, from the bottom of my little squirrel heart."
+    },
+    {
+      "type": "narration",
+      "text": "As Sunny said those words, something magical happened. Her heart felt warm — warmer than the sunniest summer day. She realized that saying thank you didn't make her smaller. It made her fuller."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Finn",
+      "text": "Wow, Sunny. That sounded really nice!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "You know what? Tonight, I'm having a gratitude feast! Everyone is invited! We'll eat acorns and berries and I will thank every single person who comes!"
+    },
+    {
+      "type": "narration",
+      "text": "And so that evening, under the glowing moonlight, Sunny threw the most wonderful feast Sunflower Forest had ever seen. Bella brought wild berries. Finn brought sweet roots. Grandpa Oak came and told stories. Even the oak trees seemed to rustle their leaves in approval."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sunny",
+      "text": "Thank you, dear oak tree, for the acorns. Thank you, sun, for the light. Thank you, rain, for helping things grow. And thank you, my friends, for the best gift of all — teaching me that gratitude fills the heart in ways that acorns never could."
+    },
+    {
+      "type": "narration",
+      "text": "From that day on, Sunny never forgot to say thank you. She thanked every butterfly, every flower, every falling leaf. And somehow, the more she thanked, the more she had to be thankful for. Because when you open your heart to gratitude, you discover that the world has been giving you gifts all along — you just needed to notice."
+    }
+  ]
+}
