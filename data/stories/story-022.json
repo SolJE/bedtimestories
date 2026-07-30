@@ -1,0 +1,339 @@
+{
+  "id": "story-022",
+  "title": "The Little Firefly Who Found Her Light",
+  "titleZh": "找到光芒的小萤火虫",
+  "theme": "勇气",
+  "themeEn": "Courage",
+  "publishDate": "2026-07-30",
+  "coverEmoji": "✨",
+  "coverImage": "assets/images/story-022-cover.png",
+  "illustrations": [
+    { "paragraphId": "p4", "image": "assets/images/story-022-scene-1.png", "alt": "Flora the firefly hides behind a leaf in a moonlit meadow, looking sad while other fireflies glow brightly around her, cartoon vector style" },
+    { "paragraphId": "p18", "image": "assets/images/story-022-scene-2.png", "alt": "Max the mouse sits on a rock in the dark forest looking scared with his blown-out lantern beside him, cartoon vector style" },
+    { "paragraphId": "p33", "image": "assets/images/story-022-scene-3.png", "alt": "Flora the firefly glows brightly guiding Max the mouse through the dark forest, her warm light illuminating the path home, cartoon vector style" }
+  ],
+  "summary": "Flora the firefly is afraid to let her light shine because it's smaller than everyone else's. But when Max the mouse gets lost in the dark forest, Flora discovers that even the smallest light can guide someone home.",
+  "moral": "You don't need to be the brightest to make a difference. Even the smallest light can guide someone home when you have the courage to let it shine.",
+  "moralZh": "你不需要成为最耀眼的那一个。只要有勇气让光芒闪耀，再小的光也能照亮别人回家的路。",
+  "vocabulary": [
+    {
+      "word": "firefly",
+      "phonetic": "/ˈfaɪər.flaɪ/",
+      "meaning": "萤火虫"
+    },
+    {
+      "word": "glow",
+      "phonetic": "/ɡloʊ/",
+      "meaning": "发光；光亮"
+    },
+    {
+      "word": "dim",
+      "phonetic": "/dɪm/",
+      "meaning": "暗淡的；微弱的"
+    },
+    {
+      "word": "courage",
+      "phonetic": "/ˈkʌr.ɪdʒ/",
+      "meaning": "勇气"
+    },
+    {
+      "word": "lantern",
+      "phonetic": "/ˈlæn.tərn/",
+      "meaning": "灯笼"
+    },
+    {
+      "word": "whisper",
+      "phonetic": "/ˈwɪs.pər/",
+      "meaning": "低语；悄悄说"
+    },
+    {
+      "word": "meadow",
+      "phonetic": "/ˈmed.oʊ/",
+      "meaning": "草地；牧场"
+    },
+    {
+      "word": "shiver",
+      "phonetic": "/ˈʃɪv.ər/",
+      "meaning": "发抖；颤抖"
+    },
+    {
+      "word": "flicker",
+      "phonetic": "/ˈflɪk.ər/",
+      "meaning": "闪烁；摇曳"
+    },
+    {
+      "word": "path",
+      "phonetic": "/pæθ/",
+      "meaning": "小路；途径"
+    },
+    {
+      "word": "brave",
+      "phonetic": "/breɪv/",
+      "meaning": "勇敢的"
+    },
+    {
+      "word": "twinkle",
+      "phonetic": "/ˈtwɪŋ.kəl/",
+      "meaning": "闪烁；闪耀"
+    },
+    {
+      "word": "enough",
+      "phonetic": "/ɪˈnʌf/",
+      "meaning": "足够"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In the heart of Moonlight Meadow, a tiny firefly named Flora had just been born. She stretched her delicate wings and looked around at the world for the very first time."
+    },
+    {
+      "id": "p2",
+      "speaker": "Mama Firefly",
+      "speakerZh": "萤火虫妈妈",
+      "text": "\"Welcome, little one! Come, let me see your light!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Flora tried her best. She closed her eyes, wiggled her tail, and focused with all her might. A tiny glimmer appeared — so small it looked like a candle about to go out."
+    },
+    {
+      "id": "p4",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"That's it? That's my light? But... but it's so tiny!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Mama Firefly",
+      "speakerZh": "萤火虫妈妈",
+      "text": "\"Every firefly's light is different, my dear. Your light is beautiful.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Flora didn't believe her. That evening, she watched the other fireflies play in the meadow. Their lights were bright and bold — like golden sparks dancing in the night."
+    },
+    {
+      "id": "p7",
+      "speaker": "Spark",
+      "speakerZh": "斯帕克",
+      "text": "\"Hey Flora! Come play tag with us!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"I... I can't. My light is too dim. You won't even see me in the dark.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Spark",
+      "speakerZh": "斯帕克",
+      "text": "\"Don't be silly! Everyone's light counts! Come on!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Flora shook her head and flew away. She found a quiet spot behind a large leaf and hid. Her tiny light flickered sadly."
+    },
+    {
+      "id": "p11",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"What's the point of having a light if no one can even see it?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Flora spent the next few days hiding during playtime. She watched from behind bushes as her friends played, chasing fireflies and telling stories under the stars. Her heart ached, but she was too scared to try."
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "--- But one night, something happened that changed everything. ---"
+    },
+    {
+      "id": "p14",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Max the mouse had gone exploring in the Deep Dark Woods. He loved adventure, but tonight he had wandered too far. The moon slid behind a cloud, and suddenly — everything was pitch black."
+    },
+    {
+      "id": "p15",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"Uh oh. That's... that's not good. I can't see a thing!\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Max had brought a little lantern, but a strong gust of wind had blown it out. He felt around in the dark, his tiny paws trembling."
+    },
+    {
+      "id": "p17",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"Hello? Is anyone there? I'm lost! I need help!\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "His voice echoed through the trees, but no one answered. The Deep Dark Woods were far from Moonlight Meadow. Max sat down on a cold rock and hugged his knees, shivering."
+    },
+    {
+      "id": "p19",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"I wish I had some light. Just a tiny bit of light...\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Back in Moonlight Meadow, Flora heard a faint cry for help carried by the wind. She perked up her tiny antennae."
+    },
+    {
+      "id": "p21",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"Did you hear that? Someone's in trouble!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Spark",
+      "speakerZh": "斯帕克",
+      "text": "\"We heard it too! But the Deep Dark Woods are so big — our bright lights scare away the small animals. We're too flashy to get close without frightening them.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"But someone has to help!\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Spark",
+      "speakerZh": "斯帕克",
+      "text": "\"We've tried. Every time we get near, whatever animal it is runs further into the woods. We're making it worse.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Flora looked toward the Deep Dark Woods. Her heart was racing. She was scared — so scared her tiny wings trembled. But then she thought about Max, alone in the dark, and something shifted inside her."
+    },
+    {
+      "id": "p26",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"My light is small. I won't scare anyone. I... I think I can help.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Spark",
+      "speakerZh": "斯帕克",
+      "text": "\"Flora, are you sure? It's really dangerous!\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"I'm not sure at all. But I have to try.\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Flora took a deep breath and flew into the Deep Dark Woods. It was darker than anything she had ever known. Giant trees loomed like shadows. Strange sounds rustled in the bushes. She wanted to turn back. But she kept going."
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then — she let her light shine. Her tiny, gentle, warm glow flickered in the darkness. It wasn't bright like the other fireflies. But it was steady. And it was enough."
+    },
+    {
+      "id": "p31",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"A light! A tiny light! Over here! I'm here!\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Flora followed Max's voice until she found him — a small, shivering mouse sitting on a rock. When Max saw Flora's gentle glow, his eyes filled with tears of relief."
+    },
+    {
+      "id": "p33",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"Oh thank you, thank you! I thought no one would find me! Your light is so warm and gentle. It doesn't hurt my eyes at all!\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"Really? You... you like my light?\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Max",
+      "speakerZh": "麦克斯",
+      "text": "\"I love it! It's like a tiny, friendly star. Can you guide me home?\""
+    },
+    {
+      "id": "p36",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"I'd be honored. Follow me!\""
+    },
+    {
+      "id": "p37",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Flora flew ahead, her small light glowing steadily in the dark. Max followed close behind, his feet carefully stepping where Flora's light touched the ground. Through the twisting trees, across the bubbling creek, and past the sleeping owl — Flora led the way with her humble glow."
+    },
+    {
+      "id": "p38",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "When they finally reached the edge of Moonlight Meadow, all the fireflies were waiting. They gasped when they saw Flora leading Max safely home."
+    },
+    {
+      "id": "p39",
+      "speaker": "Spark",
+      "speakerZh": "斯帕克",
+      "text": "\"Flora! You did it! You saved him!\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Mama Firefly",
+      "speakerZh": "萤火虫妈妈",
+      "text": "\"I told you, my dear. Your light was always beautiful. It just needed someone to see it.\""
+    },
+    {
+      "id": "p41",
+      "speaker": "Flora",
+      "speakerZh": "弗洛拉",
+      "text": "\"I was so afraid my light wasn't good enough. But tonight, my small light was exactly what Max needed. I don't need to be the brightest. I just need to let my light shine.\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that night on, Flora never hid her light again. She played tag with her friends, danced under the stars, and every evening, she would fly to the edge of the Deep Dark Woods — just in case another lost friend needed a gentle light to guide them home. Because the bravest thing you can do is let your light shine, even when you're afraid. And sometimes, the smallest lights make the biggest difference of all."
+    }
+  ]
+}
