@@ -182,5 +182,14 @@
     "coverEmoji": "✨",
     "coverImage": "assets/images/story-022-cover.png",
     "summary": "Flora the firefly is afraid to let her light shine because it is smaller than everyone else's. But when Max the mouse gets lost in the dark forest, Flora discovers that even the smallest light can guide someone home."
+  },
+  {
+    "id": "story-023",
+    "title": "The Little Deer Who Walked in Someone Else's Shoes",
+    "titleZh": "穿上别人鞋子的小鹿",
+    "publishDate": "2026-08-06",
+    "coverEmoji": "🦌",
+    "coverImage": "assets/images/story-023-cover.png",
+    "summary": "Dottie the deer is the fastest in the meadow — but she's never patient with Penny the snail. When Dottie sprains her leg and must walk slowly, she discovers how it feels to be left behind. With Penny by her side, she learns that the world is full of wonders when you slow down — and that real empathy means walking in someone else's shoes."
   }
 ]
