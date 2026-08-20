@@ -64,6 +64,23 @@
 - **Git**: 21cf60a - pushed to main ✅
 - **Status**: Success
 
+# Automation Run - 2026-08-20
+
+## story-025: The Little Chipmunk Who Kept a Secret
+- **Theme**: 诚实 (Honesty) — first honesty theme since story-016
+- **Style**: 卡通矢量 (cartoon vector) — rotation: story-024 watercolor → story-025 cartoon vector
+- **Characters**: Chip (chipmunk), Grandpa Badger, Wren (bird)
+- **Files created/modified**:
+  - `data/stories/story-025.json` (new — 31 paragraphs, 14 vocabulary words)
+  - `data/stories.json` (updated with index + coverImage)
+  - `assets/images/story-025-cover.png` (cover)
+  - `assets/images/story-025-scene-1.png` (scene 1 - Chip sneaks acorn and hides it)
+  - `assets/images/story-025-scene-2.png` (scene 2 - Chip sleepless, Wren whispers at window)
+  - `assets/images/story-025-scene-3.png` (scene 3 - Chip returns acorn, Grandpa Badger forgives)
+- **Note**: ImageGen sequential-call strategy reused successfully — 4 images generated in ~2 minutes, no timestamp collisions.
+- **Git**: 8dc53ee - pushed to main ✅
+- **Status**: Success
+
 # Automation Run - 2026-08-06
 
 ## story-023: The Little Deer Who Walked in Someone Else's Shoes

@@ -209,5 +209,14 @@
     "coverEmoji": "🌰",
     "coverImage": "assets/images/story-025-cover.png",
     "summary": "Chip the chipmunk can't resist the shiny golden acorn on Grandpa Badger's windowsill — so he takes it home and hides it under his pillow. But as the whole meadow searches and Grandpa Badger's eyes grow sad, the 'lucky' acorn feels heavier and heavier. Can Chip find the courage to tell the truth and give it back?"
+  },
+  {
+    "id": "story-026",
+    "title": "The Little Bee Who Never Gave Up",
+    "titleZh": "永不放弃的小蜜蜂",
+    "publishDate": "2026-08-20",
+    "coverEmoji": "🐝",
+    "coverImage": "assets/images/story-026-cover.png",
+    "summary": "Buzzy the little bee dreams of collecting pollen like the big bees — but she is the clumsiest bee in the hive. She bumps into flowers, tangles in spiderwebs, and tumbles into puddles. When her sister laughs and her wings feel too small, Buzzy almost gives up. But with a little encouragement, she tries one more time... and one more time. When a storm threatens the hive, all her practice carries her farther than any bee ever flew."
   }
 ]

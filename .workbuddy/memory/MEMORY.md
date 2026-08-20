@@ -27,12 +27,13 @@
 | story-022 | The Little Firefly Who Found Her Light | 勇气 | 2026-07-30 | ✅ |
 | story-023 | The Little Deer Who Walked in Someone Else's Shoes | 同理心 | 2026-08-06 | ✅ |
 | story-024 | The Little Otter Who Found His Friend Again | 友谊 | 2026-08-13 | ✅ |
+| story-025 | The Little Chipmunk Who Kept a Secret | 诚实 | 2026-08-20 | ✅ |
 
 ## 最新故事
-- **ID**: story-024
-- **标题**: The Little Otter Who Found His Friend Again
-- **主题**: 友谊 (Friendship)
-- **日期**: 2026-08-13
+- **ID**: story-025
+- **标题**: The Little Chipmunk Who Kept a Secret
+- **主题**: 诚实 (Honesty)
+- **日期**: 2026-08-20
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -56,7 +57,7 @@
 - **数据扩展**：story JSON 新增可选字段 `coverImage` 和 `illustrations`
 - **插图存储**：`assets/images/story-XXX-*.png`
 - **风格轮换**：水彩绘本 → 卡通矢量 → 彩铅手绘，每周轮流
-- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩
+- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量
 - **story-015 已配图**：1 封面 + 3 场景（水彩风格）
 - **story-016 已配图**：1 封面 + 3 场景（卡通矢量风格）
 - **story-017 已配图**：1 封面 + 3 场景（彩铅手绘风格）
@@ -69,6 +70,8 @@
 - **角色**：Dottie（小鹿）、Penny（蜗牛）、Mama Deer（鹿妈妈）
 - **story-024 已配图**：1 封面 + 3 场景（水彩风格，ImageGen 顺序生成）
 - **角色**：Otto（小水獭）、Cara（白鹤）、Fern（青蛙智者）
+- **story-025 已配图**：1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成）
+- **角色**：Chip（花栗鼠）、Grandpa Badger（獾爷爷）、Wren（小蓝鸟）
 
 ## ImageGen 注意事项（2026-08-06）
 - ImageGen 并行调用时，**同一秒生成的多张图可能共用同一时间戳文件名，导致互相覆盖**。
