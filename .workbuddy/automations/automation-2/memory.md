@@ -64,7 +64,24 @@
 - **Git**: 21cf60a - pushed to main ✅
 - **Status**: Success
 
-# Automation Run - 2026-08-20
+# Automation Run - 2026-08-20 (later)
+
+## story-026: The Little Bee Who Never Gave Up
+- **Theme**: 坚持 (Perseverance) — first perseverance theme since story-017
+- **Style**: 彩铅手绘 (colored pencil) — rotation: story-024 watercolor → story-025 cartoon vector → story-026 colored pencil
+- **Characters**: Buzzy (little bee), Lola (sister bee), Grandma Bee
+- **Files created/modified**:
+  - `data/stories/story-026.json` (new — 30 paragraphs, 14 vocabulary words)
+  - `data/stories.json` (updated with index + coverImage)
+  - `assets/images/story-026-cover.png` (cover - dreamy bee in flower meadow with honeycomb)
+  - `assets/images/story-026-scene-1.png` (scene 1 - Buzzy bumps into sunflower and tumbles)
+  - `assets/images/story-026-scene-2.png` (scene 2 - Buzzy tired on rose petal at dusk, Grandma comforts)
+  - `assets/images/story-026-scene-3.png` (scene 3 - Buzzy flying through storm toward golden light)
+- **Note**: ImageGen sequential strategy again succeeded — 4 images generated cleanly, no timestamp collisions. Watermark "AI生成 WORKBUDDY" present on all 4 images (consistent with prior runs).
+- **Git**: 0e768fd - pushed to main ✅
+- **Status**: Success
+
+# Automation Run - 2026-08-20 (earlier)
 
 ## story-025: The Little Chipmunk Who Kept a Secret
 - **Theme**: 诚实 (Honesty) — first honesty theme since story-016
