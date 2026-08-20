@@ -200,5 +200,14 @@
     "coverEmoji": "🦦",
     "coverImage": "assets/images/story-024-cover.png",
     "summary": "Otto the otter and Cara the crane are the best of friends — until one silly quarrel makes Otto say something mean and Cara fly away. At first Otto tells himself he doesn't care. But playing alone isn't any fun at all. Can he swallow his pride, say sorry, and find his friend again?"
+  },
+  {
+    "id": "story-025",
+    "title": "The Little Chipmunk Who Kept a Secret",
+    "titleZh": "藏着秘密的小花栗鼠",
+    "publishDate": "2026-08-20",
+    "coverEmoji": "🌰",
+    "coverImage": "assets/images/story-025-cover.png",
+    "summary": "Chip the chipmunk can't resist the shiny golden acorn on Grandpa Badger's windowsill — so he takes it home and hides it under his pillow. But as the whole meadow searches and Grandpa Badger's eyes grow sad, the 'lucky' acorn feels heavier and heavier. Can Chip find the courage to tell the truth and give it back?"
   }
 ]
