@@ -64,6 +64,23 @@
 - **Git**: 21cf60a - pushed to main ✅
 - **Status**: Success
 
+# Automation Run - 2026-08-27
+
+## story-027: The Little Hermit Crab Who Shared His Shell
+- **Theme**: 善良 (Kindness) — first kindness theme since story-019 (with gratitude/empathy/curiosity in between)
+- **Style**: 水彩 (watercolor) — rotation: story-024 watercolor → story-025 cartoon vector → story-026 colored pencil → story-027 watercolor
+- **Characters**: Kai (hermit crab), Coral (sea anemone), Pip (shrimp), Bloop (blue crab), Grandpa Turtle
+- **Files created/modified**:
+  - `data/stories/story-027.json` (new — 29 paragraphs, 14 vocabulary words)
+  - `data/stories.json` (updated with index + coverImage)
+  - `assets/images/story-027-cover.png` (cover - Kai with pink shell on lagoon shore)
+  - `assets/images/story-027-scene-1.png` (scene 1 - Kai carrying Coral the anemone on his shell)
+  - `assets/images/story-027-scene-2.png` (scene 2 - Kai swept into the wave, friends rushing to help)
+  - `assets/images/story-027-scene-3.png` (scene 3 - Grandpa Turtle points at the new shining shell)
+- **Note**: First ocean-themed story (all prior stories were forest/meadow/garden). ImageGen sequential strategy succeeded again — 4 images generated cleanly, no timestamp collisions. Watermark "AI生成 WORKBUDDY" present on all 4 images (consistent with prior runs).
+- **Git**: 20eef2c - pushed to main ✅
+- **Status**: Success
+
 # Automation Run - 2026-08-20 (later)
 
 ## story-026: The Little Bee Who Never Gave Up

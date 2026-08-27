@@ -29,12 +29,13 @@
 | story-024 | The Little Otter Who Found His Friend Again | 友谊 | 2026-08-13 | ✅ |
 | story-025 | The Little Chipmunk Who Kept a Secret | 诚实 | 2026-08-20 | ✅ |
 | story-026 | The Little Bee Who Never Gave Up | 坚持 | 2026-08-20 | ✅ |
+| story-027 | The Little Hermit Crab Who Shared His Shell | 善良 | 2026-08-27 | ✅ |
 
 ## 最新故事
-- **ID**: story-026
-- **标题**: The Little Bee Who Never Gave Up
-- **主题**: 坚持 (Perseverance)
-- **日期**: 2026-08-20
+- **ID**: story-027
+- **标题**: The Little Hermit Crab Who Shared His Shell
+- **主题**: 善良 (Kindness)
+- **日期**: 2026-08-27
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -58,7 +59,7 @@
 - **数据扩展**：story JSON 新增可选字段 `coverImage` 和 `illustrations`
 - **插图存储**：`assets/images/story-XXX-*.png`
 - **风格轮换**：水彩绘本 → 卡通矢量 → 彩铅手绘，每周轮流
-- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘
+- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩
 - **story-015 已配图**：1 封面 + 3 场景（水彩风格）
 - **story-016 已配图**：1 封面 + 3 场景（卡通矢量风格）
 - **story-017 已配图**：1 封面 + 3 场景（彩铅手绘风格）
@@ -75,6 +76,8 @@
 - **角色**：Chip（花栗鼠）、Grandpa Badger（獾爷爷）、Wren（小蓝鸟）
 - **story-026 已配图**：1 封面 + 3 场景（彩铅手绘风格，ImageGen 顺序生成）
 - **角色**：Buzzy（小蜜蜂）、Lola（姐姐蜂）、Grandma Bee（蜂奶奶）
+- **story-027 已配图**：1 封面 + 3 场景（水彩风格，ImageGen 顺序生成）
+- **角色**：Kai（寄居蟹）、Coral（海葵）、Pip（小虾）、Bloop（蓝蟹）、Grandpa Turtle（海龟爷爷）
 
 ## ImageGen 注意事项（2026-08-06）
 - ImageGen 并行调用时，**同一秒生成的多张图可能共用同一时间戳文件名，导致互相覆盖**。
