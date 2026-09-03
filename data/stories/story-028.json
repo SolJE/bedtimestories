@@ -1,0 +1,259 @@
+{
+  "id": "story-028",
+  "title": "The Little Mole Who Met the Moon",
+  "titleZh": "遇见月亮的小鼹鼠",
+  "theme": "好奇心",
+  "themeEn": "Curiosity",
+  "publishDate": "2026-09-03",
+  "coverEmoji": "🌙",
+  "coverImage": "assets/images/story-028-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-028-scene-1.png",
+      "alt": "Deep underground in a cozy dirt tunnel, a small brown mole with a red scarf peeks out of a tiny hole in the earth, silver moonlight streaming down onto his surprised face, cartoon vector style, flat bright colors, children's book illustration"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-028-scene-2.png",
+      "alt": "A magical moonlit night garden, a small brown mole in a red scarf and a friendly red ladybug with black dots stand among glowing flowers, sparkling fireflies dancing around them, big round moon and stars in a deep blue sky, cartoon vector style, flat bright colors"
+    },
+    {
+      "paragraphId": "p20",
+      "image": "assets/images/story-028-scene-3.png",
+      "alt": "Night meadow, a kind brown owl flying low guiding a small mole in a red scarf and a red ladybug toward a familiar grassy mound with a warm glowing burrow entrance, Mama mole waiting at the door with open arms, moonlight and stars above, cartoon vector style, warm and cozy"
+    }
+  ],
+  "summary": "Mo the little mole has lived his whole life underground and never seen the moon. One night the wind opens a tiny hole in the earth — and silver light pours in. Mo digs his way up into a magical night garden, makes a new friend, and discovers a whole sparkling world. But when he wanders too far and gets lost, he learns that no adventure is complete without finding the way back home.",
+  "moral": "Curiosity is a tiny light inside you that leads you to the most wonderful places. But no matter how far you wander, the bravest thing you can do is remember the way home — because that is where love is waiting for you.",
+  "moralZh": "好奇心是你心里的一盏小灯，会带你去最美好的地方。但无论走得多远，最勇敢的事，是记得回家的路——因为那里有爱你的人在等你。",
+  "vocabulary": [
+    {
+      "word": "mole",
+      "phonetic": "/moʊl/",
+      "meaning": "鼹鼠"
+    },
+    {
+      "word": "burrow",
+      "phonetic": "/ˈbɜːroʊ/",
+      "meaning": "地洞；洞穴"
+    },
+    {
+      "word": "curious",
+      "phonetic": "/ˈkjʊriəs/",
+      "meaning": "好奇的"
+    },
+    {
+      "word": "moon",
+      "phonetic": "/muːn/",
+      "meaning": "月亮"
+    },
+    {
+      "word": "starry",
+      "phonetic": "/ˈstɑːri/",
+      "meaning": "布满星星的"
+    },
+    {
+      "word": "twinkle",
+      "phonetic": "/ˈtwɪŋkl/",
+      "meaning": "闪烁"
+    },
+    {
+      "word": "glow",
+      "phonetic": "/ɡloʊ/",
+      "meaning": "发光；光辉"
+    },
+    {
+      "word": "firefly",
+      "phonetic": "/ˈfaɪərflaɪ/",
+      "meaning": "萤火虫"
+    },
+    {
+      "word": "meadow",
+      "phonetic": "/ˈmedoʊ/",
+      "meaning": "草地；牧场"
+    },
+    {
+      "word": "adventure",
+      "phonetic": "/ədˈventʃər/",
+      "meaning": "冒险；奇遇"
+    },
+    {
+      "word": "explore",
+      "phonetic": "/ɪkˈsplɔːr/",
+      "meaning": "探索"
+    },
+    {
+      "word": "tunnel",
+      "phonetic": "/ˈtʌnl/",
+      "meaning": "隧道；地道"
+    },
+    {
+      "word": "whiskers",
+      "phonetic": "/ˈwɪskərz/",
+      "meaning": "胡须"
+    },
+    {
+      "word": "wander",
+      "phonetic": "/ˈwɒndər/",
+      "meaning": "闲逛；漫步"
+    },
+    {
+      "word": "safe",
+      "phonetic": "/seɪf/",
+      "meaning": "安全的"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Deep under a green meadow, there was a cozy little burrow full of soft grass and warm earth. That was where Mo the mole lived with his mama. Mo had pink paws, whiskers that wiggled when he sniffed, and a red scarf he wore everywhere. He had never, ever seen the sky."
+    },
+    {
+      "id": "p2",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(tilting his head up and wiggling his whiskers) \"Mama, what is up there? I hear things — buzzing and chirping and rustling. What is on top of our burrow?\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama Mole",
+      "speakerZh": "鼹鼠妈妈",
+      "text": "(smiling and patting his head) \"That is the sky, my dear. It is bigger than a thousand burrows. By day the sun shines gold, and by night the moon glows silver — and the stars twinkle like tiny lanterns.\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(his eyes growing round) \"The moon? Stars? Lanterns? Oh, Mama, I want to see them! I want to see everything!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One night, a gust of wind whistled across the meadow and blew a tiny hole right through the roof of Mo's burrow. Something cold and silver spilled inside — light! Mo gasped. He had never seen light like this. Slowly, carefully, he began to dig up, up, up toward the glowing hole."
+    },
+    {
+      "id": "p6",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(poking just his nose out, then his whole head) \"Oh! Oh my! There it is — the moon! It is round and silver and it is looking right at me!\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mo pulled himself out of the hole and stared. The whole night garden sparkled. The grass looked like it was sprinkled with stardust, and little lights blinked and danced between the flowers."
+    },
+    {
+      "id": "p8",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(watching a tiny red dot land on a leaf, whispering) \"Are you... a star that fell out of the sky? Are you lost?\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Dot",
+      "speakerZh": "小瓢虫点点",
+      "text": "(giggling) \"Silly mole! I am Dot the ladybug. I am not lost at all. Those twinkly lights flying around? Those are fireflies — they carry tiny lanterns in their tails!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Dot the ladybug offered to show Mo around the night garden. Together they tiptoed past sleeping flowers that closed their petals like blankets. Dewdrops hung on every leaf, each one holding a tiny picture of the moon."
+    },
+    {
+      "id": "p11",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(looking at the dew on a leaf) \"Why are the flowers sleeping? And why is the grass silver? And how does the moon fit inside a tiny drop of water?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Dot",
+      "speakerZh": "小瓢虫点点",
+      "text": "(laughing) \"Because when the moon comes out, it paints everything with silver light! Even a tiny dewdrop gets to hold a little piece of the moon. That is the night's magic.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Fireflies twirled around them in golden loops. Crickets sang a lullaby. Mo counted stars until he ran out of paws — and then out of numbers. The night garden was the most wonderful place he had ever been. But then, Mo yawned a big mole yawn."
+    },
+    {
+      "id": "p14",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(rubbing his eyes) \"I am sleepy now, Dot. And... I miss my soft burrow. Will you show me the way home?\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Dot",
+      "speakerZh": "小瓢虫点点",
+      "text": "(looking around, confused) \"Oh dear. The flowers all look the same from down here, and the grass is taller than both of us! I do not know which mound is yours.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mo's whiskers drooped. He had wandered so far that every mound looked the same. The moon was still beautiful — but suddenly, it felt very high and very far away, and the burrow felt very, very small."
+    },
+    {
+      "id": "p17",
+      "speaker": "Hoot",
+      "speakerZh": "猫头鹰胡特",
+      "text": "(swooping down softly) \"Whooo goes there? A little mole, out in the night garden? Are you lost, little one?\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(sniffling) \"I came out to see the moon, Mr. Owl. It is the most beautiful thing I have ever seen! But now I cannot find my burrow, and my mama will worry.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Hoot",
+      "speakerZh": "猫头鹰胡特",
+      "text": "(nodding kindly) \"Every explorer needs a way back home. A brave heart sees new worlds — but a wise heart knows the way home. Climb on, little ones. I will fly high and guide you.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Mo and Dot followed the owl's shadow across the moonlit meadow, past the sleeping flowers, past the silver grass — until Mo's nose twitched. He smelled it! His own cozy burrow! And there, standing at the doorway with a worried face and open arms, was Mama Mole."
+    },
+    {
+      "id": "p21",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(running into her paws) \"Mama! Mama! I saw the moon — it is round and silver! And the stars twinkle, and the fireflies carry lanterns, and Dot showed me everything!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Mama Mole",
+      "speakerZh": "鼹鼠妈妈",
+      "text": "(hugging him tight) \"Oh, Mo! I was so worried! But I am so proud of you, my brave little explorer.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Mo",
+      "speakerZh": "小莫",
+      "text": "(snuggling into his mama's fur) \"The moon is beautiful, Mama. But home is beautiful too — because you are here. Can I look at the moon from our doorway every night?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Mama Mole",
+      "speakerZh": "鼹鼠妈妈",
+      "text": "(smiling) \"Every single night, my dear. Your curiosity took you all the way to the moon — and brought you right back to me. That is the best kind of adventure.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that night on, Mo sat at his burrow door and watched the moon rise — with Dot beside him and Mama close behind. And every time the stars twinkled, he remembered: the world is big and wonderful, but love is the light that always guides you home. Good night, little dreamers. Be curious, be brave, and always remember the way back to the people who love you."
+    }
+  ]
+}
