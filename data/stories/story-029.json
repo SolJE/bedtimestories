@@ -1,0 +1,259 @@
+{
+  "id": "story-029",
+  "title": "The Little Beaver Who Shared His River",
+  "titleZh": "分享小河的小河狸",
+  "theme": "分享",
+  "themeEn": "Sharing",
+  "publishDate": "2026-09-10",
+  "coverEmoji": "🦫",
+  "coverImage": "assets/images/story-029-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-029-scene-1.png",
+      "alt": "A proud little brown beaver with a flat tail stands on top of a tall dam he built from sticks, mud and stones, a smooth sparkling blue pond stretching behind him, green forest and sunny sky, colored pencil hand-drawn style, soft pencil strokes and warm paper texture, children's book illustration"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-029-scene-2.png",
+      "alt": "A lonely little brown beaver sitting alone on his huge silent pond while further downstream a dried-up riverbed of grey stones and wilting grass shows a sad duck with ducklings, a grey goose and a small green frog looking for water, colored pencil hand-drawn style, soft strokes, muted lonely colors"
+    },
+    {
+      "paragraphId": "p22",
+      "image": "assets/images/story-029-scene-3.png",
+      "alt": "A little brown beaver, a white duck with ducklings, a grey goose and a small green frog all working together in the pouring rain to mend a broken stick dam, passing mud and branches, rain splashing, warm teamwork feeling, colored pencil hand-drawn style, soft pencil strokes and paper texture"
+    }
+  ],
+  "summary": "Bramble the beaver builds the biggest, finest dam in the whole forest — and the pond behind it is beautiful. 'Mine!' he says, and chases every thirsty friend away. But a pond with no friends in it is a very quiet place. When a storm breaks his dam, Bramble learns who really shows up in the rain — and discovers that sharing does not make your home smaller. It makes your whole world bigger.",
+  "moral": "A gift is only half a gift until you share it. Bramble's dam could hold water, but it could not hold happiness — because happiness only grows when it flows out to others. Sharing never makes your home smaller; it makes your world bigger.",
+  "moralZh": "一份礼物，只有分享出去才算完整。小河狸的水坝能拦住水，却拦不住快乐——因为快乐只有在流出去的时候才会长大。分享不会让你的家变小，只会让你的世界变得更大。",
+  "vocabulary": [
+    {
+      "word": "beaver",
+      "phonetic": "/ˈbiːvər/",
+      "meaning": "河狸；海狸"
+    },
+    {
+      "word": "dam",
+      "phonetic": "/dæm/",
+      "meaning": "水坝；堤坝"
+    },
+    {
+      "word": "stream",
+      "phonetic": "/striːm/",
+      "meaning": "小溪；溪流"
+    },
+    {
+      "word": "pond",
+      "phonetic": "/pɒnd/",
+      "meaning": "池塘"
+    },
+    {
+      "word": "proud",
+      "phonetic": "/praʊd/",
+      "meaning": "自豪的；骄傲的"
+    },
+    {
+      "word": "driftwood",
+      "phonetic": "/ˈdrɪftwʊd/",
+      "meaning": "浮木；漂流木"
+    },
+    {
+      "word": "shallow",
+      "phonetic": "/ˈʃæloʊ/",
+      "meaning": "浅的"
+    },
+    {
+      "word": "thirsty",
+      "phonetic": "/ˈθɜːrsti/",
+      "meaning": "口渴的"
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meaning": "拒绝"
+    },
+    {
+      "word": "lonely",
+      "phonetic": "/ˈloʊnli/",
+      "meaning": "孤独的；寂寞的"
+    },
+    {
+      "word": "thunder",
+      "phonetic": "/ˈθʌndər/",
+      "meaning": "雷；雷声"
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meaning": "轰然撞击；倒塌"
+    },
+    {
+      "word": "mend",
+      "phonetic": "/mend/",
+      "meaning": "修补；修理"
+    },
+    {
+      "word": "generous",
+      "phonetic": "/ˈdʒenərəs/",
+      "meaning": "慷慨的；大方的"
+    },
+    {
+      "word": "share",
+      "phonetic": "/ʃer/",
+      "meaning": "分享；共有"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "A bright little stream ran through the middle of Whispering Woods. It gurgled over smooth stones and tickled the roots of the old oak trees. Beside that stream lived Bramble the beaver, in a cozy lodge made of sticks and mud, with his mama. Bramble had a flat grey tail that went SLAP when he was excited, two strong orange front teeth, and one favourite thing in all the world — building."
+    },
+    {
+      "id": "p2",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(slapping his tail on the water with a happy SPLASH) \"Mama! Mama! Look what I found — a long driftwood stick, and a pile of sticky mud, and a stone as round as the moon! I am going to build the biggest, finest dam in the whole forest. Bigger than a bear's cave! Finer than a bird's nest!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama Beaver",
+      "speakerZh": "河狸妈妈",
+      "text": "(smiling as she combed her whiskers) \"Building is a wonderful gift, my dear. A dam can hold back a whole river if you build it well. Just remember — water is meant to move. And so are friends.\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(not really listening, already dragging the driftwood) \"Yes, yes, Mama! Water moves, friends move, I know! Now — where did I put that sticky mud?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "For seven whole days Bramble worked. He stacked sticks and packed mud and rolled stones until his paws ached and his fur was full of twigs. Then, on the seventh evening, he climbed up to the very top of his dam and looked down. Behind it, the stream had spread out into a wide, smooth pond that shone like a mirror. It was the most beautiful thing Bramble had ever made."
+    },
+    {
+      "id": "p6",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(standing tall on the dam, chest puffed out, tail slapping proudly) \"Mine! All mine! I built it with my own four paws, so the pond is mine, mine, MINE! No one else may splash in it. No one else may drink from it. Not one single drop!\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But a river does not stop when you build a wall across it. Down below the dam, the stream grew thinner and thinner, until it was only a trickle, and then only wet stones. Tilly the duck came waddling up the bank with her three ducklings trailing behind her, peeping softly."
+    },
+    {
+      "id": "p8",
+      "speaker": "Tilly",
+      "speakerZh": "鸭子蒂莉",
+      "text": "(politely, dipping her head) \"Good evening, Bramble. Your dam is very fine indeed! But the river below is too shallow now for my ducklings to swim. May we please paddle in your pond — just for a little while?\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(spreading his paws wide across the top of the dam) \"No! Go and build your own pond! This one is mine. Mine and nobody else's!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Tilly sighed and waddled sadly away. Then Gus the goose came honking up the path, his throat dry and dusty. Then Hopper the frog hopped over, looking for the cool green water where his lily pads used to float. Bramble refused them all. And to make sure nobody could come in, he piled the dam even higher, higher, HIGHER."
+    },
+    {
+      "id": "p11",
+      "speaker": "Hopper",
+      "speakerZh": "青蛙霍珀",
+      "text": "(sitting on a dry stone, his little throat bobbing) \"The water is gone. The stones are hot. My lily pads have folded up like paper. Where will we drink? Where will we swim? Where will we go?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Gus",
+      "speakerZh": "大鹅古斯",
+      "text": "(shaking his feathers and looking back at the tall dam) \"Bramble has the biggest pond in the forest. But he has the smallest heart I have ever seen.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, Bramble sat alone at the edge of his beautiful pond. The water was smooth and wide and shining. It was everything he had wanted. But no ducklings splashed in it. No frogs croaked beside it. No geese landed on it. The forest was so quiet that Bramble could hear his own heart beating — and it did not sound very happy at all."
+    },
+    {
+      "id": "p14",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(whispering to the still water) \"I have the whole pond. Every drop of it. So why... why do I feel so small and so lonely?\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Mama Beaver",
+      "speakerZh": "河狸妈妈",
+      "text": "(sitting down beside him and putting a warm paw on his shoulder) \"A pond with no friends in it is just a big puddle, my dear. You built a home, Bramble. But a home only becomes a home when someone else is welcome inside it.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bramble did not have long to think about it. That very night, thunder rolled across Whispering Woods like a giant drum. Rain crashed down through the leaves. The little stream turned into a roaring brown river, and it slammed against Bramble's dam — harder, and harder, and HARDER. Then, with a terrible CRACK, the middle of the dam broke apart."
+    },
+    {
+      "id": "p17",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(scrambling in the mud, trying to hold the sticks together with his paws) \"No! No, no, no! My dam! My beautiful dam! The water is pushing through — I cannot hold it — I cannot mend it — I cannot do this ALONE!\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But then, through the pouring rain, Bramble heard something. Splash, splash, splash — footsteps! Coming up the bank in the dark were Tilly the duck, Gus the goose, and Hopper the frog, soaked from head to toe and hurrying as fast as they could."
+    },
+    {
+      "id": "p19",
+      "speaker": "Tilly",
+      "speakerZh": "鸭子蒂莉",
+      "text": "(shouting over the thunder) \"Bramble! We heard the crash from the far bank! Hold on — we are coming to help you!\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(staring at them, mud dripping off his nose) \"But... but I refused you. I chased you away. I would not even give you one sip of water. Why would you ever come back to help me?\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Gus",
+      "speakerZh": "大鹅古斯",
+      "text": "(already dragging a heavy branch toward the gap) \"Because you are our friend, Bramble. Friends come in the rain. Now stop talking and start stacking — this branch will not hold itself!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So they all worked together in the storm. Tilly carried twigs in her beak. Gus pushed the biggest branches into place with his strong chest. Hopper pressed wet mud into every crack with his tiny hands. And Bramble — Bramble packed and stacked and mended as fast as his paws could move. By the time the sun rose, the dam was whole again, and the pond behind it was calm and shining."
+    },
+    {
+      "id": "p23",
+      "speaker": "Bramble",
+      "speakerZh": "小河狸布兰博",
+      "text": "(gasping, then smiling as he chewed a small opening in the dam) \"Wait — everyone wait! Look here. I am making a little gate, right at the bottom. The water will flow through it, down the stream, all the way to the shallow part. Then everyone can drink. Everyone can swim. Everyone can splash. The river belongs to all of us.\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Hopper",
+      "speakerZh": "青蛙霍珀",
+      "text": "(leaping into the fresh water with a joyful SPLASH) \"Hooray for Bramble! Come on, everybody — the water is cold and wonderful and it is ours together!\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And from that day on, the pond in Whispering Woods was the happiest place in the whole forest. Ducklings paddled, geese honked, frogs sang, and Bramble the beaver sat at the top of his dam — no longer alone, and no longer lonely. He had learned the secret: a gift is only half a gift until you share it. Good night, little builders. Be generous, be kind, and remember — sharing never makes your home smaller. It makes your whole world bigger."
+    }
+  ]
+}

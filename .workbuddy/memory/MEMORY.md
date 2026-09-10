@@ -30,12 +30,13 @@
 | story-025 | The Little Chipmunk Who Kept a Secret | 诚实 | 2026-08-20 | ✅ |
 | story-026 | The Little Bee Who Never Gave Up | 坚持 | 2026-08-20 | ✅ |
 | story-027 | The Little Hermit Crab Who Shared His Shell | 善良 | 2026-08-27 | ✅ |
+| story-028 | The Little Mole Who Met the Moon | 好奇心 | 2026-09-03 | ✅ |
 
 ## 最新故事
-- **ID**: story-027
-- **标题**: The Little Hermit Crab Who Shared His Shell
-- **主题**: 善良 (Kindness)
-- **日期**: 2026-08-27
+- **ID**: story-028
+- **标题**: The Little Mole Who Met the Moon
+- **主题**: 好奇心 (Curiosity)
+- **日期**: 2026-09-03
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -59,7 +60,7 @@
 - **数据扩展**：story JSON 新增可选字段 `coverImage` 和 `illustrations`
 - **插图存储**：`assets/images/story-XXX-*.png`
 - **风格轮换**：水彩绘本 → 卡通矢量 → 彩铅手绘，每周轮流
-- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩
+- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量
 - **story-015 已配图**：1 封面 + 3 场景（水彩风格）
 - **story-016 已配图**：1 封面 + 3 场景（卡通矢量风格）
 - **story-017 已配图**：1 封面 + 3 场景（彩铅手绘风格）
@@ -78,6 +79,8 @@
 - **角色**：Buzzy（小蜜蜂）、Lola（姐姐蜂）、Grandma Bee（蜂奶奶）
 - **story-027 已配图**：1 封面 + 3 场景（水彩风格，ImageGen 顺序生成）
 - **角色**：Kai（寄居蟹）、Coral（海葵）、Pip（小虾）、Bloop（蓝蟹）、Grandpa Turtle（海龟爷爷）
+- **story-028 已配图**：1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成）
+- **角色**：Mo（小鼹鼠）、Mama Mole（鼹鼠妈妈）、Dot（小瓢虫）、Hoot（猫头鹰）
 
 ## ImageGen 注意事项（2026-08-06）
 - ImageGen 并行调用时，**同一秒生成的多张图可能共用同一时间戳文件名，导致互相覆盖**。
