@@ -5,27 +5,43 @@
 
 ## 执行记录
 
+### 2026-09-10（第二次执行 · story-029）
+- **新故事**: story-029「The Little Beaver Who Shared His River / 分享小河的小河狸」
+- **主题**: 分享 Sharing
+- **风格**: 彩铅手绘 colored pencil（轮换：027 水彩 → 028 卡通矢量 → 029 彩铅手绘）
+- **发布日**: 2026-09-10（周四）
+- **文件**: data/stories/story-029.json（25 段、15 生词、3 插图锚点 p5/p13/p22）
+- **角色**: Bramble 小河狸 / Mama Beaver 河狸妈妈 / Tilly 鸭子 / Gus 大鹅 / Hopper 青蛙
+- **插图**: 1 封面 + 3 场景
+- **scene-3 重做**: 首次生成出现篝火、泰迪熊、刺猬、松鼠等故事外元素；用「ONLY four animals / NO campfire / NO other animals」否定式 prompt 重做后成功
+- **Git**: commit c4ac40a, push e9f45b1 → c4ac40a main，9 files changed
+- **提交信息**: "Add Week 29 story: The Little Beaver Who Shared His River"
+- **结果**: 推送成功，远程已更新
+
 ### 2026-09-03（首次执行 · story-028）
 - **新故事**: story-028「The Little Mole Who Met the Moon / 遇见月亮的小鼹鼠」
 - **主题**: 好奇心 Curiosity
-- **风格**: 卡通矢量（cartoon vector，story-027 水彩 → 本周轮换）
+- **风格**: 卡通矢量 cartoon vector（story-027 水彩 → 本周轮换）
 - **发布日**: 2026-09-03（周四）
 - **文件**: data/stories/story-028.json（25 段、15 生词、3 插图锚点 p5/p13/p20）
 - **角色**: Narrator / Mo 小莫 / Mama Mole 鼹鼠妈妈 / Dot 小瓢虫 / Hoot 猫头鹰
 - **插图**: 1 封面 + 3 场景（顺序 ImageGen 生成，无时间戳碰撞）
 - **Git**: commit e9f45b1, push 5ae32d4 → e9f45b1 main，6 files changed
 - **提交信息**: "Add Week 28 story: The Little Mole Who Met the Moon"
-- **结果**: 推送成功，远程已更新，GitHub Pages 将于约 1 分钟内自动刷新
+- **结果**: 推送成功，远程已更新
 
 ## 工作流要点（已验证）
 
 1. **JSON 生成**: Python 脚本在系统临时目录构建 story dict + 索引（确保引号转义安全），运行后立即删除
 2. **ImageGen 顺序生成**: 一次一张 + 立即 `mv` 重命名为 `story-XXX-*.png`，彻底避免时间戳碰撞（再验证一次通过）
-3. **风格轮换**: 024 水彩 → 025 卡通矢量 → 026 彩铅手绘 → 027 水彩 → 028 卡通矢量
-4. **主题轮换**: 022 勇气 → 023 同理心 → 024 友谊 → 025 诚实 → 026 坚持 → 027 善良 → 028 好奇心
+3. **风格轮换**: 024 水彩 → 025 卡通矢量 → 026 彩铅手绘 → 027 水彩 → 028 卡通矢量 → 029 彩铅手绘
+4. **主题轮换**: 022 勇气 → 023 同理心 → 024 友谊 → 025 诚实 → 026 坚持 → 027 善良 → 028 好奇心 → 029 分享
+5. **角色去重**: 已用 28 个主角，新故事主角不能重复（story-029 首次用河狸）
 
 ## 注意事项
 - 不使用 AskUserQuestion（自动化无人值守）
 - 临时脚本存于 `C:/Users/hexiaohua/AppData/Local/Temp/`，运行后清理
 - automation-2 记忆目录若不存在需先创建
 - ImageGen 每次生成约消耗 5-10 积分（工具提示）
+- **多角色插图务必使用否定式 prompt**：「ONLY [动物列表] / NO [常见噪声如 campfire、extra animals]」（story-029 scene-3 教训）
+- 生成复杂场景时，**生成后必须 Read 图片核对**，发现不匹配立即重做

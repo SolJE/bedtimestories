@@ -1,0 +1,259 @@
+{
+  "id": "story-030",
+  "title": "The Little Goat Who Crossed the High Bridge",
+  "titleZh": "走过高桥的小山羊",
+  "theme": "勇气",
+  "themeEn": "Courage",
+  "publishDate": "2026-09-17",
+  "coverEmoji": "🐐",
+  "coverImage": "assets/images/story-030-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-030-scene-1.png",
+      "alt": "A tiny white and brown baby goat with small horns standing at the foot of a long narrow rope-and-plank suspension bridge that stretches across a deep green gorge, the far side hazy with morning mist, watercolor children's book illustration, soft pastel washes, gentle bleeding edges, warm cream paper texture"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-030-scene-2.png",
+      "alt": "A small baby goat frozen in the middle of a swaying rope bridge high above a misty gorge, eyes squeezed shut and legs trembling, a tiny brown sparrow perched on the rope beside her, planks tilting, soft grey mist below, watercolor children's book illustration, soft washes and gentle bleeding edges, cool blue-grey palette"
+    },
+    {
+      "paragraphId": "p22",
+      "image": "assets/images/story-030-scene-3.png",
+      "alt": "A small baby goat with wet fur being hugged warmly by a grey grandmother goat in a cosy wooden cottage doorway on the far side of the gorge, a tiny brown sparrow flying happily above them, a soft rainbow arcing over the green hills behind, watercolor children's book illustration, warm golden washes, soft bleeding edges, paper texture"
+    }
+  ],
+  "summary": "Gilly the little goat is scared of the High Bridge — a narrow, swaying rope bridge that hangs over a deep gorge. But Granny Goat lives on the other side, and today Gilly promised to bring her a basket of sweet herbs. When the wind starts to blow and the planks tilt under her hooves, Gilly must decide: turn back, or take one more step. With a tiny sparrow cheering her on, she learns that courage is not about not being afraid. It is about being afraid — and going one step anyway.",
+  "moral": "Courage is not the absence of fear; it is taking one small step while you are still afraid. Gilly did not stop being scared of the High Bridge — she simply put one hoof in front of the other, again and again, until the far side was behind her. Being brave does not mean you are never afraid. It means you go anyway, one step at a time.",
+  "moralZh": "勇气不是不害怕，而是明明害怕，还愿意往前迈出一步。小山羊并没有不再害怕那座高桥——她只是把一只蹄子放到另一只前面，一步一步，直到对岸被她留在了身后。勇敢并不意味着从不害怕，而是害怕着，也依然往前走，一步，再一步。",
+  "vocabulary": [
+    {
+      "word": "goat",
+      "phonetic": "/ɡoʊt/",
+      "meaning": "山羊"
+    },
+    {
+      "word": "valley",
+      "phonetic": "/ˈvæli/",
+      "meaning": "山谷；河谷"
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "桥"
+    },
+    {
+      "word": "gorge",
+      "phonetic": "/ɡɔːrdʒ/",
+      "meaning": "峡谷；深谷"
+    },
+    {
+      "word": "plank",
+      "phonetic": "/plæŋk/",
+      "meaning": "木板；厚板"
+    },
+    {
+      "word": "sway",
+      "phonetic": "/sweɪ/",
+      "meaning": "摇摆；摇晃"
+    },
+    {
+      "word": "tremble",
+      "phonetic": "/ˈtrembl/",
+      "meaning": "发抖；颤抖"
+    },
+    {
+      "word": "hoof",
+      "phonetic": "/huːf/",
+      "meaning": "蹄子"
+    },
+    {
+      "word": "mist",
+      "phonetic": "/mɪst/",
+      "meaning": "薄雾；雾气"
+    },
+    {
+      "word": "courage",
+      "phonetic": "/ˈkɜːrɪdʒ/",
+      "meaning": "勇气；胆量"
+    },
+    {
+      "word": "steady",
+      "phonetic": "/ˈstedi/",
+      "meaning": "平稳的；稳当的"
+    },
+    {
+      "word": "whisper",
+      "phonetic": "/ˈwɪspər/",
+      "meaning": "低语；轻声说"
+    },
+    {
+      "word": "promise",
+      "phonetic": "/ˈprɑːmɪs/",
+      "meaning": "承诺；答应"
+    },
+    {
+      "word": "brave",
+      "phonetic": "/breɪv/",
+      "meaning": "勇敢的"
+    },
+    {
+      "word": "echo",
+      "phonetic": "/ˈekoʊ/",
+      "meaning": "回声；回响"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In a soft green valley called Sunny Hollow lived a little goat named Gilly. She had a snowy white coat, two tiny horns that had only just begun to grow, and a pair of quick little hooves that could climb any hill in the valley. Any hill — but not the bridge. At the end of the valley, a long rope bridge stretched across a deep, dark gorge. Everyone called it the High Bridge, and Gilly had never once crossed it."
+    },
+    {
+      "id": "p2",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(peeping out from behind a bush at the far end of the valley) \"Mama, look at it. It swings. I can see it swinging from here. And underneath — Mama, underneath there is nothing at all. Just mist and a very, very long way down.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama Goat",
+      "speakerZh": "山羊妈妈",
+      "text": "(gently nuzzling her daughter) \"Granny Goat lives on the other side of that gorge, Gilly. Every morning she wakes up and looks across at us. Every evening she looks across again. Today is her birthday, and you promised to carry her basket of sweet herbs over yourself. Do you remember?\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(looking down at the little woven basket of rosemary and wild mint tied to her back) \"I remember. I promised. But Mama... what if I get to the middle and my legs stop? What if they just stop and will not move at all?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Gilly walked to the end of the valley, all the way to the foot of the High Bridge. Up close it was even taller than she had imagined. Two long ropes hung from post to post like the strings of a giant harp, and between them, one narrow plank after another, each one no wider than a goat's hoof. Far below, white mist rolled slowly through the gorge, and far above, the wind was already pulling at the ropes."
+    },
+    {
+      "id": "p6",
+      "speaker": "Bartholomew",
+      "speakerZh": "老公山羊巴索罗缪",
+      "text": "(an old grey mountain goat with long curved horns, sitting calmly on a rock) \"Good morning, little one. Are you going across today? I have crossed that bridge four hundred and twelve times. Would you like to know my secret?\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(her ears standing straight up) \"Four hundred and twelve times? Weren't you scared, sir? Weren't you scared even once?\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Bartholomew",
+      "speakerZh": "老公山羊巴索罗缪",
+      "text": "(chuckling softly) \"Scared? Little one, I was scared all four hundred and twelve times. But I never once tried to cross the whole bridge. Nobody can cross a whole bridge. You can only ever take one step. So that is what I did — I put down one hoof. And then I put down the other one. That is the entire secret. One hoof. Then the next.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gilly took a deep breath, stepped onto the first plank, and began to walk. The planks creaked. The ropes hummed. Step by step the bank behind her grew smaller, and smaller, until she was right in the very middle of the High Bridge — and that was when the wind came. WHOOSH. The bridge swung sideways, and Gilly's hooves slipped on the smooth wood."
+    },
+    {
+      "id": "p10",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(frozen, eyes squeezed shut, legs trembling) \"No. No, no, no. I cannot move. My legs have stopped. I told Mama they would stop and they have stopped and now I am stuck here forever in the middle of the sky!\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then something small landed on the rope right beside her ear. It was Pico, a tiny brown sparrow who lived in the hawthorn tree by the bridge, and who had watched a great many animals cross it — and a great many animals turn back."
+    },
+    {
+      "id": "p12",
+      "speaker": "Pico",
+      "speakerZh": "小麻雀皮可",
+      "text": "(cheerfully, as if nothing at all were wrong) \"Hello, Gilly! Lovely morning for standing perfectly still in the middle of a bridge. I do that myself sometimes. Now — can you do one thing for me? Not the whole bridge. Just one thing. Can you open your eyes?\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gilly was standing right in the middle of the swaying bridge, her legs stiff, her eyes shut tight, the mist far below her and the far bank still a long way off. Pico perched on the rope beside her and waited, and the bridge rocked gently, like a cradle, like a breath."
+    },
+    {
+      "id": "p14",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(opening one eye, then the other, in a very small voice) \"I opened them. But Pico — I am still scared. I am still just as scared as before. Opening my eyes did not make the scared go away.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Pico",
+      "speakerZh": "小麻雀皮可",
+      "text": "(tilting his little head) \"Of course it did not. Being brave does not mean the scared goes away, Gilly. It means you go anyway. Now look down at your front hoof. Just that one. Not the gorge, not the far bank — only your hoof. Can you lift it?\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gilly looked at her front hoof. She lifted it, and put it down on the next plank. The plank held. The bridge swayed, and she swayed with it, and she did not fall. So she did it again. And again."
+    },
+    {
+      "id": "p17",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(counting out loud, one step at a time) \"One... two... three... four... Granny is having rosemary soup today... five... six... Granny is having wild mint tea... seven... eight... she is waiting for me, and I promised... nine... ten...\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Pico",
+      "speakerZh": "小麻雀皮可",
+      "text": "(flying from rope to rope just ahead of her, cheering) \"That's it, Gilly! Eleven! Twelve! You are not standing still anymore — look at you go! The middle is behind you now. You did that. All by yourself.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(breathless, but laughing a little) \"Twenty! Twenty-one! Pico, the planks are wider here — no, they are not. I am just standing on them differently. My hooves know what to do now. My hooves remember.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then, all at once, there was no plank in front of her — there was grass. Real, solid, wonderful grass. Gilly had crossed the High Bridge. She stood on the far bank for a long moment with her heart thumping, listening to the wind in the ropes behind her, and she did not feel like a goat who was not afraid. She felt like a goat who had been afraid, and had come across anyway."
+    },
+    {
+      "id": "p21",
+      "speaker": "Granny Goat",
+      "speakerZh": "山羊奶奶",
+      "text": "(hurrying out of her little wooden cottage, her spectacles crooked) \"Gilly? Gilly, is that really you? Oh my goodness — you came over the High Bridge? By yourself? Come here, come here this instant, you wonderful little thing!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Granny Goat wrapped her warm grey arms around Gilly and held her tight, and Pico the sparrow looped happy circles above them. The rain that had been hiding all morning finally came, gentle and soft, and when it stopped, a wide, quiet rainbow leaned over the gorge — one end on Granny's side, the other end on Mama's side, like a bridge made of light."
+    },
+    {
+      "id": "p23",
+      "speaker": "Granny Goat",
+      "speakerZh": "山羊奶奶",
+      "text": "(drying Gilly's ears with a corner of her shawl) \"You were frightened, weren't you? I can tell. Your little heart is still going like a drum. And still you came. Do you know what that makes you, my dear?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Gilly",
+      "speakerZh": "小山羊吉莉",
+      "text": "(snuggling in, thinking about it for a while) \"It makes me... a goat who was scared and walked anyway. That is what Pico said. Being brave is not about not being scared, Granny. It is about being scared, and taking one more step. And then the next one.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That evening, Gilly walked back across the High Bridge with a jar of Granny's honey in her basket. The wind blew again. The ropes hummed again. And Gilly counted her steps all the way home — one, two, three — and not one of them was easy, and she took every single one. Good night, little goats. Be brave, be gentle, and remember: you never have to cross the whole bridge at once. You only ever have to take the next step."
+    }
+  ]
+}
