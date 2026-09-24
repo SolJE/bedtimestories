@@ -1,0 +1,259 @@
+{
+  "id": "story-031",
+  "title": "The Little Panda Who Learned to Wait",
+  "titleZh": "学会等待的小熊猫",
+  "theme": "耐心",
+  "themeEn": "Patience",
+  "publishDate": "2026-09-24",
+  "coverEmoji": "🐼",
+  "coverImage": "assets/images/story-031-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-031-scene-1.png",
+      "alt": "A little panda cub in a misty green bamboo forest kneeling over a tiny bamboo shoot in soft brown soil, having just dug it up, an old grey-green tortoise with moss growing on his shell watching calmly from a warm flat stone nearby, cartoon vector children's book illustration, flat bright colors, bold clean outlines"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-031-scene-2.png",
+      "alt": "A sad little panda cub sitting on the ground holding a tiny wilted bamboo shoot in both paws, soft brown soil around him, an old tortoise with moss on his shell sitting gently beside him, warm orange sunset light through a bamboo grove, cartoon vector children's book illustration, flat bright colors, bold clean outlines"
+    },
+    {
+      "paragraphId": "p22",
+      "image": "assets/images/story-031-scene-3.png",
+      "alt": "A joyful little panda cub standing in awe beside a tall green bamboo shoot that has grown taller than he is, fresh new leaves unfolding, an old mossy tortoise smiling on a stone nearby, morning sunlight and soft white mist in a green bamboo forest, cartoon vector children's book illustration, flat bright colors, warm and joyful"
+    }
+  ],
+  "summary": "Bao the panda cub wants everything right now — his breakfast, the moon, and most of all his bamboo shoot, which he planted only yesterday. He digs it up eleven times before lunch just to check on it. But when he finally pulls the little shoot out to see its roots, the sun dries them and the shoot dies in his paws. With help from Grandpa Moss, a tortoise who has been waiting a hundred and twenty years, Bao plants a new shoot and learns the real secret: patience is not doing nothing. It is doing your small part every day — and then trusting time to do the rest.",
+  "moral": "Patience is not doing nothing. It is doing your small part with care, and then trusting time to do its part. Bao could not make his bamboo grow by pulling at it, and nobody can hurry a growing thing — or a growing heart. Water it, weed it, walk away, and let the days do their quiet work. The waiting is not the boring part. The waiting is where the growing happens.",
+  "moralZh": "耐心不是什么都不做，而是认真地做好自己那一份，然后相信时间去做它那一份。小熊猫没办法靠拉扯让竹子长大，也没有人能催熟一株正在生长的事物，或是催促一颗正在成长的心。浇水、除草，然后走开，把剩下的交给日子。等待并不无聊——等待，正是生长发生的地方。",
+  "vocabulary": [
+    {
+      "word": "patience",
+      "phonetic": "/ˈpeɪʃns/",
+      "meaning": "耐心；耐性"
+    },
+    {
+      "word": "patient",
+      "phonetic": "/ˈpeɪʃnt/",
+      "meaning": "有耐心的"
+    },
+    {
+      "word": "bamboo",
+      "phonetic": "/ˌbæmˈbuː/",
+      "meaning": "竹子"
+    },
+    {
+      "word": "shoot",
+      "phonetic": "/ʃuːt/",
+      "meaning": "嫩芽；新芽"
+    },
+    {
+      "word": "sprout",
+      "phonetic": "/spraʊt/",
+      "meaning": "发芽；抽芽"
+    },
+    {
+      "word": "root",
+      "phonetic": "/ruːt/",
+      "meaning": "根；根部"
+    },
+    {
+      "word": "soil",
+      "phonetic": "/sɔɪl/",
+      "meaning": "土壤；泥土"
+    },
+    {
+      "word": "water",
+      "phonetic": "/ˈwɔːtər/",
+      "meaning": "浇水；给……浇水"
+    },
+    {
+      "word": "hurry",
+      "phonetic": "/ˈhɜːri/",
+      "meaning": "匆忙；赶快"
+    },
+    {
+      "word": "wait",
+      "phonetic": "/weɪt/",
+      "meaning": "等待"
+    },
+    {
+      "word": "grow",
+      "phonetic": "/ɡroʊ/",
+      "meaning": "生长；长大"
+    },
+    {
+      "word": "season",
+      "phonetic": "/ˈsiːzn/",
+      "meaning": "季节"
+    },
+    {
+      "word": "seed",
+      "phonetic": "/siːd/",
+      "meaning": "种子"
+    },
+    {
+      "word": "trust",
+      "phonetic": "/trʌst/",
+      "meaning": "信任；相信"
+    },
+    {
+      "word": "tortoise",
+      "phonetic": "/ˈtɔːrtəs/",
+      "meaning": "乌龟；陆龟"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "High up in the Cloud Bamboo Forest, where the mist curls between the green stems like slow white rivers, there lived a little panda cub named Bao. Bao had round black ears, a very soft tummy, and one big problem. Bao could not wait for anything. Not for breakfast. Not for rain. Not for the moon to rise. \"Now,\" said Bao. \"I want it now.\""
+    },
+    {
+      "id": "p2",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(tugging at Mama's paw before the sun was even up) \"Mama! Mama! Is breakfast ready? Is it ready now? Now? Mama, I am so hungry I could eat the whole forest — and Mama, I planted a bamboo shoot yesterday and it has not grown yet. Why has it not grown? I want it to be tall today. Right now. Can I make it be tall today?\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Mama Panda",
+      "speakerZh": "熊猫妈妈",
+      "text": "(laughing softly, stirring a pot of warm bamboo soup) \"Bao, my little dumpling, you planted that shoot yesterday afternoon. Yesterday! A bamboo shoot does not grow in one night. It needs rain, and sun, and — this is the hard part — it needs time. A lot of time. You cannot hurry a growing thing, Bao. Not bamboo. Not anything.\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(flopping onto his back with a great big sigh) \"But waiting is so boring! Waiting is the boringest thing in the whole world. I do not want to wait. I want the bamboo to be tall and green and swishy, and I want it to be that way NOW.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Bao marched out into the misty forest, found his little shoot in the soft brown soil, and did the worst thing a gardener can do. He dug it up to see if it had grown. Then he planted it again. Then he dug it up again. He did this eleven times before lunch. An old tortoise named Grandpa Moss was watching from a warm flat stone — and Grandpa Moss had moss growing on his shell, and Grandpa Moss had been watching things grow for a very, very long time."
+    },
+    {
+      "id": "p6",
+      "speaker": "Grandpa Moss",
+      "speakerZh": "苔藓爷爷（老乌龟）",
+      "text": "(opening one slow eye) \"Good morning, little one. That is the eleventh time you have pulled that poor shoot out of the ground. I counted. I count slowly, but I count very well.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(startled) \"Grandpa Moss! How old are you?\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Grandpa Moss",
+      "speakerZh": "苔藓爷爷（老乌龟）",
+      "text": "(thinking about it for a while) \"One hundred and twenty years old, give or take a spring. The great bamboo grove behind you? My grandfather planted it. He planted it, and he watered it, and then he walked away. He never saw it grow tall. Not one single stem. And yet — look at it now.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bao looked. Behind him the bamboo rose up and up, hundreds of green stems whispering together, so tall they tickled the clouds. Bao wanted to feel proud and patient and wise. But Bao had never been patient in his life, not even for one morning. So instead he tried to hurry everything else in the forest that day."
+    },
+    {
+      "id": "p10",
+      "speaker": "Momo",
+      "speakerZh": "小猴子莫莫",
+      "text": "(a small grey monkey hanging upside down from a branch) \"Bao! Bao! Race you to the big rock! Loser picks berries for a week!\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bao ran. He ran so fast and so hard that he forgot to look at the ground, and a fat tree root caught his foot — WHUMP — and down he went, rolling over and over in the fallen leaves, with his breakfast soup still warm on his breath."
+    },
+    {
+      "id": "p12",
+      "speaker": "Momo",
+      "speakerZh": "小猴子莫莫",
+      "text": "(swinging down beside him, giggling) \"You rush so much you forget to look where you are going. Where is the fire, little panda? There is no fire. There is only a rock, and a root, and a nice slow afternoon.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That evening Bao went back to his shoot — and this time he truly meant to help it. He pulled it gently out of the soil to see whether it had grown any roots. And it had. Tiny white threads, thin as spider silk, curled in the dark earth. But the moment the sun touched them they shrivelled, and the little shoot drooped in Bao's paw, and by morning it was gone."
+    },
+    {
+      "id": "p14",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(holding the wilted shoot in both paws, his voice very small) \"I killed it. I only wanted it to grow faster. I only wanted to help. I did everything I could think of — I checked it, and checked it, and checked it — and I killed it.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Grandpa Moss",
+      "speakerZh": "苔藓爷爷（老乌龟）",
+      "text": "(sitting down beside him, slowly, the way old tortoises sit) \"You did not kill it because you were careless, Bao. You killed it because you were in a hurry. Those little white roots were doing their most important work in the dark, where nobody could see. Roots always grow first. Then the stem. Then the leaves. Every growing thing keeps that same secret.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(wiping his eyes) \"So... being patient means doing nothing at all? Just sitting here and being bored for a hundred years like you?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Grandpa Moss",
+      "speakerZh": "苔藓爷爷（老乌龟）",
+      "text": "(chuckling, a low rumbly sound) \"Oh no. No, no. Patience is not doing nothing. Patience is doing your small part — and then letting time do its part. You water the shoot. You pull out the weeds. And then you walk away, and you trust the rain, and you trust the sun, and you trust the days. That is all. That is the whole trick.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Bao planted a new shoot, right in the middle of the grove, in the softest soil he could find. And every single morning he did his small part. He carried water in a folded leaf. He pulled up the little weeds. And then — this was the hardest part — he walked away, and let the shoot be."
+    },
+    {
+      "id": "p19",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(lying on his back in the grass, watching the clouds, talking to his shoot) \"Good morning, little shoot. Today I am not going to dig you up. Today I brought you water, and I am going to lie here and count clouds instead. One cloud. Two clouds. Three. You know what? The clouds are quite good today. I never noticed before. I was always too busy hurrying.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Momo",
+      "speakerZh": "小猴子莫莫",
+      "text": "(dropping down beside him with a pawful of berries) \"Bao? You did not race me today. You did not dig anything up. You did not even shout at the bees. Are you ill?\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The days passed, and the days passed, and the days passed. Rain came and drummed on the leaves. Sun came and warmed the soil. The mist curled up and down the green stems, and Bao grew a little taller too, and learned to count seasons instead of seconds. Then one morning, very early, something was different."
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Bao woke up, blinked, and sat up straight. There, in the middle of the grove, stood his bamboo — his very own bamboo — tall and green and swishing in the wind, taller than Bao's head, with new leaves unfolding one by one like tiny green flags. He had not pulled it. He had not hurried it. He had only watered it, and waited, and let the days do their quiet work. And now the whole grove seemed to be whispering his name."
+    },
+    {
+      "id": "p23",
+      "speaker": "Mama Panda",
+      "speakerZh": "熊猫妈妈",
+      "text": "(coming up behind him with her paws over her mouth) \"Bao. Bao, look at it. Look at what you grew. Oh, my little dumpling — do you know how long that took?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Bao",
+      "speakerZh": "小熊猫宝儿",
+      "text": "(standing very still, watching his bamboo sway) \"A whole season, Mama. And I did not mind one single day of it. Because Grandpa Moss was right. I did my small part every morning — and then I let time do the rest. And Mama... the waiting was not boring at all. The waiting was where the growing happened.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night Bao fell asleep under his very own bamboo, listening to the leaves whisper in the dark. And if you ever go to the Cloud Bamboo Forest, look for a small panda sleeping beneath the tallest shoot in the grove, with an old mossy tortoise snoring slowly beside him. Good night, little gardeners. Be patient, be gentle, and remember: you do not have to make things grow. You only have to water them, and wait, and trust the days."
+    }
+  ]
+}

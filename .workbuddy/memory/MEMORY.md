@@ -32,12 +32,13 @@
 | story-027 | The Little Hermit Crab Who Shared His Shell | 善良 | 2026-08-27 | ✅ |
 | story-028 | The Little Mole Who Met the Moon | 好奇心 | 2026-09-03 | ✅ |
 | story-029 | The Little Beaver Who Shared His River | 分享 | 2026-09-10 | ✅ |
+| story-030 | The Little Goat Who Crossed the High Bridge | 勇气 | 2026-09-17 | ✅ |
 
 ## 最新故事
-- **ID**: story-028
-- **标题**: The Little Mole Who Met the Moon
-- **主题**: 好奇心 (Curiosity)
-- **日期**: 2026-09-03
+- **ID**: story-030
+- **标题**: The Little Goat Who Crossed the High Bridge
+- **主题**: 勇气 (Courage)
+- **日期**: 2026-09-17
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -84,6 +85,8 @@
 - **角色**：Mo（小鼹鼠）、Mama Mole（鼹鼠妈妈）、Dot（小瓢虫）、Hoot（猫头鹰）
 - **story-029 已配图**：1 封面 + 3 场景（彩铅手绘风格，ImageGen 顺序生成）
 - **角色**：Bramble（小河狸）、Mama Beaver（河狸妈妈）、Tilly（鸭子）、Gus（大鹅）、Hopper（青蛙）
+- **story-030 已配图**：1 封面 + 3 场景（水彩风格，ImageGen 顺序生成）
+- **角色**：Gilly（小山羊）、Mama Goat（山羊妈妈）、Granny Goat（山羊奶奶）、Bartholomew（老公山羊）、Pico（小麻雀）
 - **scene-3 教训**：多角色插图必须用「ONLY [list] / NO [noise]」否定式 prompt，否则模型会加入无关角色（泰迪熊、篝火等）
 
 ## ImageGen 注意事项（2026-08-06）
