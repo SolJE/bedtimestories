@@ -1,0 +1,259 @@
+{
+  "id": "story-032",
+  "title": "The Little Pony Who Learned to Work Together",
+  "titleZh": "学会合作的小马驹",
+  "theme": "合作",
+  "themeEn": "Teamwork",
+  "publishDate": "2026-10-01",
+  "coverEmoji": "🐴",
+  "coverImage": "assets/images/story-032-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-032-scene-1.png",
+      "alt": "A small chestnut-brown pony foal with a creamy white blaze and a short dark mane standing proudly on a muddy creek bank, looking at a wide brown rushing stream where an old broken log bridge has been washed away, a small grey-brown rabbit, a small brown hedgehog and a small red squirrel standing behind him, colored pencil hand-drawn children's book illustration, soft grainy texture, visible pencil strokes, warm gentle colors"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-032-scene-2.png",
+      "alt": "A muddy tired little chestnut-brown pony foal sitting on a creek bank with leaves in his mane, head lowered, a small grey-brown rabbit, a small brown hedgehog and a small red squirrel gathered gently around him, a heavy log floating away downstream in the water, colored pencil hand-drawn children's book illustration, soft grainy texture, visible pencil strokes, warm gentle colors"
+    },
+    {
+      "paragraphId": "p22",
+      "image": "assets/images/story-032-scene-3.png",
+      "alt": "Four happy animal friends crossing a new crooked log bridge over a creek together in golden morning light — a small chestnut-brown pony foal in front, a small grey-brown rabbit hopping, a small brown hedgehog rolling and a small red squirrel behind — green vines tied as rope, a sunny berry field on the far side, colored pencil hand-drawn children's book illustration, soft grainy texture, visible pencil strokes, warm joyful colors"
+    }
+  ],
+  "summary": "Clover the pony is the biggest and strongest animal in Willow Creek Meadow, and he has one favourite sentence: 'I can do it myself.' So when last night's storm washes away the old log bridge, Clover announces that he will build a new one — all alone. But a log is not a cart and a creek bank is not a road, and by lunchtime the log is floating downstream while Clover sits in the mud. It takes the hardest words in the meadow — 'Will you help me?' — before the four friends discover that a squirrel's teeth, a rabbit's paws, a hedgehog's round back and a pony's strong legs can build something not one of them could lift alone.",
+  "moral": "Nobody is strong enough to do everything alone. Clover thought that asking for help would make him look small — but the moment he asked, he did not become smaller. He became part of something bigger. Everybody has a gift: a rabbit's quick paws, a squirrel's sharp teeth, a hedgehog's round, rolling back. Teamwork is not doing less. It is adding your one small piece to everybody else's — until the thing you could never lift alone stands up by itself. Asking for help is not weakness. It is the beginning of everything.",
+  "moralZh": "没有人强大到可以独自做完所有的事。小马驹以为求助会让自己显得渺小——可当他开口的那一刻，他并没有变小，反而成为了一件更大的事情的一部分。每个人都有自己的一份天赋：兔子灵巧的爪子、松鼠锋利的牙齿、刺猬圆滚滚能滚动的背。合作不是少做一点，而是把自己那一小块，加进别人的那一块里，直到那件你一个人永远抬不动的东西，稳稳地立了起来。求助不是软弱，而是一切的开始。",
+  "vocabulary": [
+    {
+      "word": "teamwork",
+      "phonetic": "/ˈtiːmwɜːrk/",
+      "meaning": "团队合作；齐心协力"
+    },
+    {
+      "word": "together",
+      "phonetic": "/təˈɡeðər/",
+      "meaning": "一起；共同"
+    },
+    {
+      "word": "strength",
+      "phonetic": "/streŋθ/",
+      "meaning": "力量；力气"
+    },
+    {
+      "word": "strong",
+      "phonetic": "/strɔːŋ/",
+      "meaning": "强壮的；有力的"
+    },
+    {
+      "word": "proud",
+      "phonetic": "/praʊd/",
+      "meaning": "骄傲的；自豪的"
+    },
+    {
+      "word": "stubborn",
+      "phonetic": "/ˈstʌbərn/",
+      "meaning": "固执的；倔强的"
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "桥；桥梁"
+    },
+    {
+      "word": "creek",
+      "phonetic": "/kriːk/",
+      "meaning": "小溪；小河"
+    },
+    {
+      "word": "plank",
+      "phonetic": "/plæŋk/",
+      "meaning": "木板；板条"
+    },
+    {
+      "word": "rope",
+      "phonetic": "/roʊp/",
+      "meaning": "绳子；绳索"
+    },
+    {
+      "word": "vine",
+      "phonetic": "/vaɪn/",
+      "meaning": "藤蔓；藤"
+    },
+    {
+      "word": "pull",
+      "phonetic": "/pʊl/",
+      "meaning": "拉；拽"
+    },
+    {
+      "word": "roll",
+      "phonetic": "/roʊl/",
+      "meaning": "滚动；翻滚"
+    },
+    {
+      "word": "build",
+      "phonetic": "/bɪld/",
+      "meaning": "建造；搭建"
+    },
+    {
+      "word": "gift",
+      "phonetic": "/ɡɪft/",
+      "meaning": "天赋；礼物"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "At the edge of Willow Creek Meadow, where the grass grows tall and sweet and the wind smells of clover, there lived a little pony named Clover. Clover was not the fastest animal in the meadow, and he was not the cleverest. But he was the biggest, and he had the strongest legs, and he knew it. \"I can do it myself,\" said Clover. About everything. Every single day."
+    },
+    {
+      "id": "p2",
+      "speaker": "Clover",
+      "speakerZh": "小马驹克莱弗",
+      "text": "(tossing his short dark mane, trotting past the other animals with his nose in the air) \"Morning, Tansy! Morning, Prickle! Morning, Nutmeg! No, thank you, I do not need help carrying these apples — I can do it myself. I am the biggest one here. Look at these legs. Have you ever seen such legs?\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And it was true. Clover's legs were very strong. He could pull a heavy cart, he could carry a whole basket of apples, and he could climb the steep hill behind the meadow without stopping once to rest. But there was one thing Clover could not do. He could not say the four small words: \"Will you help me?\" Not once. Not ever. Not even when he really, really needed to."
+    },
+    {
+      "id": "p4",
+      "speaker": "Tansy",
+      "speakerZh": "小兔子坦西",
+      "text": "(hopping up in a flurry, her long ears twitching with worry) \"Clover! Clover, have you seen the creek? Last night's storm was SO big. The old log bridge — it is gone! The whole thing just floated away down the water! How are we ever going to get to the berry field on the other side? Prickle cannot swim, and I do not like getting my ears wet!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Clover trotted to the bank and looked down. It was true. The old log bridge was gone, and Willow Creek ran wide and brown and fast, far too deep for a rabbit, or a hedgehog, or a squirrel to cross. Clover looked at the rushing water. Then he lifted his chin, the way he always did just before he said something brave and silly at the same time. \"Do not worry,\" he said. \"I will build a new bridge. All by myself.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Clover",
+      "speakerZh": "小马驹克莱弗",
+      "text": "(striking a proud pose on the muddy bank) \"All by myself! I am the biggest and the strongest, so I will do it. You three can just sit in the shade and watch. It will be easy. It will be the best bridge this meadow has ever seen — and I will have built every single plank of it with these two legs.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Prickle",
+      "speakerZh": "小刺猬普里克",
+      "text": "(unrolling slowly from a prickly ball, his small black nose twitching) \"Easy? Clover, that fallen log over there is bigger than my whole house. I could help you. I am small, I know, but I am very good at rolling things. Truly — I am round. It is my one talent. Well. It is my one talent and also my one shape.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Clover",
+      "speakerZh": "小马驹克莱弗",
+      "text": "(shaking his head firmly, a little too quickly) \"No, thank you, Prickle. I can do it myself. I always do everything myself. That is how I know I am strong. If I let you help me, then it would not really be mine, would it?\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Clover wrapped his strong front legs around the end of the great fallen log and pulled. And he pulled, and he pulled, and he pulled. His hooves dug little grooves in the soft earth. Sweat rolled down his nose and dripped off his chin. Slowly — very, very slowly — the log began to move. \"There!\" puffed Clover. \"See? Easy.\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But a log is not a cart, and a creek bank is not a road. Halfway to the water the log turned sideways, rolled right out of Clover's grip, and went down the bank with a great crashing SPLASH. The creek caught it, spun it round twice, and carried it away like a twig. Clover stood in the mud with his mane full of leaves and his legs shaking. He had not moved the log at all. The creek had simply taken it."
+    },
+    {
+      "id": "p11",
+      "speaker": "Clover",
+      "speakerZh": "小马驹克莱弗",
+      "text": "(panting, muddy from nose to tail, talking to nobody in particular) \"That... that was only the first try. I can do it. I just need a better grip. And maybe a smaller log. And maybe... maybe one more try. Yes. One more try. That is all. I am fine. I am completely fine.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Nutmeg",
+      "speakerZh": "小松鼠肉豆蔻",
+      "text": "(perched on a low branch above him, cracking a hazelnut between her teeth, watching with bright brown eyes) \"Clover, you have been at this since breakfast. It is nearly lunch. The sun has moved all the way across the sky. And the log is still in the creek, going further away every second. How many more tries are you planning to have?\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Clover sat down on the muddy bank. His legs ached. His pride ached more. He looked at the log floating away downstream, and at the three friends quietly watching him, and something inside him finally went still — the loud, proud something that had been shouting \"I can do it myself\" all morning long. Clover took a deep breath, and said the hardest words in the whole meadow."
+    },
+    {
+      "id": "p14",
+      "speaker": "Clover",
+      "speakerZh": "小马驹克莱弗",
+      "text": "(very quietly, not looking up from the mud) \"Tansy. Prickle. Nutmeg. I... I cannot do it myself. I tried, and I tried, and I cannot. Will you help me? Please?\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Tansy",
+      "speakerZh": "小兔子坦西",
+      "text": "(her ears shooting straight up, then flopping over with joy) \"Clover! You asked! You actually asked! We thought you would never, ever say it. OF COURSE we will help you. We have been standing here all morning waiting for you to say that one little word.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then something wonderful happened. The moment Clover stopped trying to do everything alone, everybody found the one thing they were best at. Nutmeg the squirrel scurried up into the trees and chewed long green vines into soft, strong rope with her sharp little teeth. Tansy the rabbit dug two deep holes, one on each bank, with her quick front paws, so the bridge posts would stand up straight and true. Prickle the hedgehog rolled small stones down the bank, one by one, to pack the earth hard and flat. And Clover — big, strong Clover — pulled the heavy log into place, because that was his gift, and now he was not doing it alone."
+    },
+    {
+      "id": "p17",
+      "speaker": "Prickle",
+      "speakerZh": "小刺猬普里克",
+      "text": "(puffing happily after rolling his twentieth stone into place) \"You see, Clover? You are strong, but you cannot chew a vine. I cannot chew a vine either, if I am honest — I am a hedgehog, I eat beetles. But Nutmeg can. And Tansy can dig, and I can roll, and you can pull. Nobody can do everything. But everybody can do something. That is the whole secret.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So they worked together, and it was not easy, but it was not heavy either. They worked until the sun turned red and the fireflies came out, and then they worked a little bit more. And slowly, plank by plank, rope by rope, the new bridge rose up over Willow Creek — not the straightest bridge ever built, and certainly not the neatest, but a real bridge, standing on its own four feet."
+    },
+    {
+      "id": "p19",
+      "speaker": "Tansy",
+      "speakerZh": "小兔子坦西",
+      "text": "(standing in the middle of the new bridge, bouncing up and down to test it) \"It holds! Clover, look — it holds! And look how wide it is! Even Prickle will not fall off. And Prickle falls off everything. Last Tuesday he fell off a daisy.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Nutmeg",
+      "speakerZh": "小松鼠肉豆蔻",
+      "text": "(tying the very last knot with her teeth, her tail fluffed up with pride) \"Four of us. One bridge. My grandmother always said that many hands make light work, and I never understood her until this morning. Now I do. It is not that the work got smaller. It is that we got bigger.\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night the four friends slept side by side on the bank, with the new bridge creaking gently above them and the creek singing its old brown song. Clover did not dream of being the biggest, or the strongest, or the best. He dreamed of green vines, and small stones, and a rabbit digging in the dark. And it was the best dream he had ever had."
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In the morning the sun came up gold, and Clover walked to the middle of the bridge and stopped. Behind him, Tansy hopped. Behind her, Prickle rolled. Behind him, Nutmeg scurried. Four very different animals, crossing one bridge — a bridge that not one of them could ever have built alone. On the far side, the berry field was shining, heavy with fruit, and the whole meadow smelled of summer."
+    },
+    {
+      "id": "p23",
+      "speaker": "Clover",
+      "speakerZh": "小马驹克莱弗",
+      "text": "(standing very still in the middle of the bridge, looking back at his friends) \"I thought asking for help would make me small. I thought if I let you help me, everyone would see that I was not as strong as I said I was. But look at me. I am standing on a bridge. I could not build a bridge. But we could. And I do not feel smaller at all. I feel like one part of something bigger.\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Tansy",
+      "speakerZh": "小兔子坦西",
+      "text": "(hopping up beside him and nudging his shoulder with her nose) \"That is because you are, silly. You always were. You were just too proud to notice it.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And if you ever walk through Willow Creek Meadow, you will find a crooked little bridge standing over the water, with four sets of footprints worn into the planks — one set big and round, one set small and hoppy, one set prickly and rolling, and one set quick and light. Stop there for a moment. Listen to the creek. And remember: you do not have to be the strongest one in the meadow. You only have to bring your one small piece, and build the rest together. Good night, little builders. Ask for help. It is not weakness. It is the beginning of everything."
+    }
+  ]
+}
