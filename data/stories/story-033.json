@@ -1,0 +1,259 @@
+{
+  "id": "story-033",
+  "title": "The Little Sloth Who Kept His Promise",
+  "titleZh": "信守承诺的小树懒",
+  "theme": "守信",
+  "themeEn": "Keeping Promises",
+  "publishDate": "2026-10-08",
+  "coverEmoji": "🦥",
+  "coverImage": "assets/images/story-033-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-033-scene-1.png",
+      "alt": "The base of an enormous rainforest kapok tree with huge mossy roots, a small grey-brown three-toed sloth on a low branch looking down toward a dark hollow under the roots where a small green iguana with kind tired eyes lies curled up, soft golden morning light through giant leaves, ONLY a sloth and an iguana, NO other animals, NO humans, watercolor children's book illustration, soft washes, gentle bleeding edges, light paper texture, warm tender colors"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-033-scene-2.png",
+      "alt": "A small grey-brown three-toed sloth clinging tightly with both arms around a wet slippery tree trunk in heavy rainforest rain, water streaming down his fur, dark wet branches, the green canopy still very far above, ONLY one sloth, NO other animals, NO humans, watercolor children's book illustration, soft washes, gentle bleeding edges, light paper texture, cool blue-green tones with warm accents"
+    },
+    {
+      "paragraphId": "p23",
+      "image": "assets/images/story-033-scene-3.png",
+      "alt": "At dusk a small grey-brown three-toed sloth holding out a small glowing golden leaf with both arms toward a small green iguana in a dark hollow under the mossy roots of an enormous tree, tiny fireflies glowing around them, deep orange and purple evening sky, ONLY a sloth and an iguana, NO other animals, NO campfire, NO humans, watercolor children's book illustration, soft washes, gentle bleeding edges, light paper texture, warm glowing colors"
+    }
+  ],
+  "summary": "Lento the sloth is the slowest animal in the rainforest, and everybody teases him for it. But when Grandma Iguana falls ill with a fever and needs a glowing Sunleaf from the very top of the Great Kapok Tree before dusk, Lento is the one who says, 'I promise.' Koko laughs, the rain pours, the wind steals the leaf out of his claws - and still Lento climbs, one branch at a time. Because a promise does not need fast arms. It only needs arms that keep going.",
+  "moral": "Being slow is not the same as being late, and a promise is a promise. Lento could not run, or leap, or fly. But he could keep going, one branch at a time, until he had done exactly what he said he would do. Keeping your word is a quiet kind of brave: nobody claps for it, nobody even sees it. But somewhere, someone is waiting for you to be the kind of person whose word means something - and that is worth every single slow step.",
+  "moralZh": "慢，不等于迟到；而承诺，就是承诺。小树懒不会奔跑，不会跳跃，也不会飞翔——但他可以一直往前，一个树枝接一个树枝，直到把他说过的话一字不差地做到。守信是一种安静的勇敢：没有人鼓掌，甚至没有人看见。但在某个地方，有一个人正等着你成为那种「说到就一定会做到」的人——而为此走的每一步慢路，都值得。",
+  "vocabulary": [
+    {
+      "word": "sloth",
+      "phonetic": "/sloʊθ/",
+      "meaning": "树懒"
+    },
+    {
+      "word": "promise",
+      "phonetic": "/ˈprɒmɪs/",
+      "meaning": "承诺；答应"
+    },
+    {
+      "word": "rainforest",
+      "phonetic": "/ˈreɪnfɒrɪst/",
+      "meaning": "热带雨林"
+    },
+    {
+      "word": "canopy",
+      "phonetic": "/ˈkænəpi/",
+      "meaning": "树冠层；林冠"
+    },
+    {
+      "word": "fever",
+      "phonetic": "/ˈfiːvər/",
+      "meaning": "发烧；发热"
+    },
+    {
+      "word": "medicine",
+      "phonetic": "/ˈmedɪsn/",
+      "meaning": "药；药物"
+    },
+    {
+      "word": "slippery",
+      "phonetic": "/ˈslɪpəri/",
+      "meaning": "湿滑的；滑溜溜的"
+    },
+    {
+      "word": "cling",
+      "phonetic": "/klɪŋ/",
+      "meaning": "紧紧抓住；抱紧"
+    },
+    {
+      "word": "dusk",
+      "phonetic": "/dʌsk/",
+      "meaning": "黄昏；傍晚"
+    },
+    {
+      "word": "weary",
+      "phonetic": "/ˈwɪəri/",
+      "meaning": "疲惫的；累坏的"
+    },
+    {
+      "word": "steady",
+      "phonetic": "/ˈstedi/",
+      "meaning": "平稳的；稳健的"
+    },
+    {
+      "word": "whisper",
+      "phonetic": "/ˈwɪspər/",
+      "meaning": "低语；悄悄地说"
+    },
+    {
+      "word": "blossom",
+      "phonetic": "/ˈblɒsəm/",
+      "meaning": "花朵；开花"
+    },
+    {
+      "word": "tempt",
+      "phonetic": "/tempt/",
+      "meaning": "诱惑；引诱"
+    },
+    {
+      "word": "grateful",
+      "phonetic": "/ˈɡreɪtfl/",
+      "meaning": "感激的；感谢的"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "High in the warm green heart of the rainforest, where the rain falls soft and the leaves are as big as umbrellas, there grew one enormous tree. The animals called it the Great Kapok Tree, and it was so tall that its highest branches touched the clouds. Near the bottom of the tree, on a broad branch that swayed like a slow, kind hammock, lived a little sloth named Lento."
+    },
+    {
+      "id": "p2",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(hanging upside down with his long arms wrapped around the branch, blinking one eye open very, very slowly) \"Good morning, rainforest. Good morning, leaves. Good morning, you beautiful, sleepy, greeny morning. Mmm. I will be properly awake in a minute. Or in an hour. Whichever one comes first.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Now, Lento was the slowest animal in the whole rainforest. Koko the monkey could leap from branch to branch in the time it took Lento to turn his head. Everyone teased him about it - 'Slow-coach Lento! Sleepy Lento!' - but Lento never minded. 'Slow is not the same as late,' he always said. And it was true. In his whole long life, Lento had never once dropped a single thing."
+    },
+    {
+      "id": "p4",
+      "speaker": "Koko",
+      "speakerZh": "小猴子科科",
+      "text": "(swinging down on a vine, upside down, talking very fast) \"Lento! Lento! Wake up, sleepy-head! The mangoes are falling - the big golden ones, the sweet ones! Tessa and I are racing to the top of the tree. Come on! I bet you cannot even reach the second branch by lunchtime!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lento was just about to say yes - slowly - when a small, thin voice came up from the bottom of the tree. It was Grandma Iguana. She lived in the hollow beneath the great roots, and she was the oldest and wisest animal in the rainforest. Today her voice sounded tired and strange."
+    },
+    {
+      "id": "p6",
+      "speaker": "Grandma Iguana",
+      "speakerZh": "鬣蜥奶奶",
+      "text": "(in a small, shaky voice) \"Lento, dear. I am sorry to call you so early. I have a fever. My old bones are burning and my eyes cannot see straight. There is only one thing that helps me - a Sunleaf. It grows at the very top of the Great Kapok Tree, high up in the canopy, where the light is. Would you bring me one? Before dusk, if you can. After dark, the leaves close up and sleep, and their light goes out.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(uncurling slowly, his voice soft and serious) \"A Sunleaf. Before dusk. I will bring it to you, Grandma Iguana. I promise.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Koko",
+      "speakerZh": "小猴子科科",
+      "text": "(groaning and flopping down onto a branch) \"Lento! That is the WHOLE tree! That is a hundred branches! You cannot even reach the second branch, and now you are going to the very top - before dusk? It will take you a week! Come and play. Somebody faster can go.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But Lento was already climbing. He did not rush, because he could not rush - sloths are not built for rushing. He reached up with one long arm, took hold of the branch above, and pulled himself up. Then he reached for the next one. That was all. One branch. Then one more. 'A promise is a promise,' he said quietly. 'And the top of the tree is only a great many little branches, one after another.'"
+    },
+    {
+      "id": "p10",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(puffing gently as he climbs) \"One branch. Good. Well done, arm. Now the other arm. One branch. Hmm. This is going to be a very long morning. But a very long morning is only a lot of very short mornings, standing one behind the other. Hello, morning. Here I come.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Tessa",
+      "speakerZh": "巨嘴鸟苔莎",
+      "text": "(swooping down beside him, her bright beak shining) \"Lento! Koko told me where you are going. I can fly you up to the canopy in ten seconds - you just hold on to my feet! Why are you doing it the slow way?\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(shaking his head gently) \"Thank you, Tessa. Truly. But flying makes my head spin, and I must choose the leaf very carefully - there are three leaves up there that look almost the same. Would you fly ahead and find me the exact branch where the Sunleaves grow? Then I will know just where to go. That would help me more than wings.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Tessa flew up into the light, and Lento climbed on alone. Then the rain came. In the rainforest, rain does not knock politely - it simply arrives, all at once, like a waterfall turned upside down. The branches turned slippery and dark. Lento wrapped both arms tight around a wet trunk and held on. Water ran down his nose. His long arms ached. And high above him, the canopy was still very, very far away."
+    },
+    {
+      "id": "p14",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(his voice small in the noise of the rain) \"All right, Lento. Listen to me. You cannot go fast. So do not try to go fast. Just go. One branch. Then one more. A promise does not need fast arms. It only needs arms that keep going.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The rain stopped as suddenly as it had started, and the rainforest began to steam and shine. Lento climbed through the middle branches, and then the high branches, and then at last he pushed his head out into a whole ocean of green. This was the canopy - a wide, bright, leafy world where the sunlight lay on every leaf like warm honey. And there, in a little clearing of light, were the Sunleaves, glowing softly, as if they had swallowed pieces of the morning."
+    },
+    {
+      "id": "p16",
+      "speaker": "Tessa",
+      "speakerZh": "巨嘴鸟苔莎",
+      "text": "(landing beside him, fluffing out her wet feathers) \"There! That one - the one with the gold line down the middle and the little curl at the tip. Do not take the pretty one next to it. That is a Blossom Leaf. It looks the same and it smells lovely, but it does not help a fever at all. Grandma Iguana told me that when I was a chick.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(reaching out very, very carefully with two long claws) \"Gold line. Little curl at the tip. Yes. There you are, little leaf. Do not worry, I will not crush you. I am going to wrap you in this big soft leaf, and then you and I are going home.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But the canopy is a windy place, and the wind in the rainforest does not ask permission. Just as Lento turned to begin the climb down, a great gust came rushing through the leaves. It lifted the soft wrapping right out of his claws and sent the Sunleaf spinning away - down, down, down, past branch after branch, until it caught at last on a thin twig far below him, hanging there and swinging in the wind."
+    },
+    {
+      "id": "p19",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(looking down the long green drop, then setting his jaw) \"Oh no. No, no, no. I said I would bring it before dusk, and I will. I promised. Down we go, Lento. One branch. Then one more.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Lento climbed down. Down is harder than up, because going down you must go slowly on purpose. He went down past the bright leaves, and down past the dark ones. The light began to change colour - green, then gold, then orange. And at last, on a thin twig that shook in the wind, he found it: one small Sunleaf, still glowing, holding on the way he had been holding on all day. He picked it up, wrapped it twice, and tucked it safe against his chest."
+    },
+    {
+      "id": "p21",
+      "speaker": "Koko",
+      "speakerZh": "小猴子科科",
+      "text": "(swinging up beside him, breathless and muddy from playing) \"Lento! Where have you BEEN? You missed everything! The mangoes are all gone, Tessa won the race, and I found a new vine that goes WHOOSH all the way down to the river! You missed all the fun!\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Lento",
+      "speakerZh": "小树懒伦托",
+      "text": "(still climbing down, one slow arm after the other, not even looking up) \"I did not miss anything, Koko. I was busy. There is a kind of fun you can only have when somebody is waiting for you, and you do not let them down. It is quiet fun. It does not go whoosh. But I would not trade it for a hundred mangoes.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The last light was going when Lento reached the bottom of the Great Kapok Tree. The fireflies were just waking up and switching on their little lamps. He crossed the mossy roots, came to the dark hollow under the tree, and held out the small glowing leaf with both arms, very gently, the way you hold something that matters."
+    },
+    {
+      "id": "p24",
+      "speaker": "Grandma Iguana",
+      "speakerZh": "鬣蜥奶奶",
+      "text": "(sitting up slowly, her tired old eyes going wide) \"You did it. You really did it. Before dusk, just as you said. Oh, Lento. I have lived a very long time in this tree, and I have known a great many fast animals. But I have never once been saved by fast. I have only ever been saved by someone who keeps their word. Thank you, dear. Thank you.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Grandma Iguana drank her Sunleaf tea, and by morning her fever was gone. And if you ever wander through that part of the rainforest - past the Great Kapok Tree, down where the fireflies live - you may still hear the animals tell the story of the slowest animal in the forest and the promise he kept. So here is the secret, little one, before you close your eyes: being slow is not the same as being late, and a promise is a promise. You do not need to be the fastest, or the strongest, or the cleverest. You only need to be the kind of person whose word means something. That is a quiet kind of brave. Nobody claps for it. Nobody even sees it. But somebody, somewhere, is waiting for you to be exactly that. Good night, little promise-keeper. Sleep slowly. Sleep well."
+    }
+  ]
+}

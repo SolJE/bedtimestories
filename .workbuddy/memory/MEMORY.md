@@ -34,12 +34,13 @@
 | story-029 | The Little Beaver Who Shared His River | 分享 | 2026-09-10 | ✅ |
 | story-030 | The Little Goat Who Crossed the High Bridge | 勇气 | 2026-09-17 | ✅ |
 | story-031 | The Little Panda Who Learned to Wait | 耐心 | 2026-09-24 | ✅ |
+| story-032 | The Little Pony Who Learned to Work Together | 合作 | 2026-10-01 | ✅ |
 
 ## 最新故事
-- **ID**: story-031
-- **标题**: The Little Panda Who Learned to Wait
-- **主题**: 耐心 (Patience)
-- **日期**: 2026-09-24
+- **ID**: story-032
+- **标题**: The Little Pony Who Learned to Work Together
+- **主题**: 合作 (Teamwork)
+- **日期**: 2026-10-01
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -63,7 +64,7 @@
 - **数据扩展**：story JSON 新增可选字段 `coverImage` 和 `illustrations`
 - **插图存储**：`assets/images/story-XXX-*.png`
 - **风格轮换**：水彩绘本 → 卡通矢量 → 彩铅手绘，每周轮流
-- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量 → story-029 彩铅手绘 → story-030 水彩 → story-031 卡通矢量
+- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量 → story-029 彩铅手绘 → story-030 水彩 → story-031 卡通矢量 → story-032 彩铅手绘
 - **story-015 已配图**：1 封面 + 3 场景（水彩风格）
 - **story-016 已配图**：1 封面 + 3 场景（卡通矢量风格）
 - **story-017 已配图**：1 封面 + 3 场景（彩铅手绘风格）
@@ -90,6 +91,8 @@
 - **角色**：Gilly（小山羊）、Mama Goat（山羊妈妈）、Granny Goat（山羊奶奶）、Bartholomew（老公山羊）、Pico（小麻雀）
 - **story-031 已配图**：1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
 - **角色**：Bao（小熊猫）、Mama Panda（熊猫妈妈）、Grandpa Moss（苔藓爷爷/老乌龟）、Momo（小猴子）
+- **story-032 已配图**：1 封面 + 3 场景（彩铅手绘风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
+- **角色**：Clover（小马驹）、Tansy（小兔子）、Prickle（小刺猬）、Nutmeg（小松鼠）
 - **scene-3 教训**：多角色插图必须用「ONLY [list] / NO [noise]」否定式 prompt，否则模型会加入无关角色（泰迪熊、篝火等）
 
 ## ImageGen 注意事项（2026-08-06）
