@@ -1,0 +1,199 @@
+{
+  "id": "story-034",
+  "title": "The Little Peacock Who Learned to Be Humble",
+  "titleZh": "学会谦虚的小孔雀",
+  "theme": "谦虚",
+  "themeEn": "Humility",
+  "publishDate": "2026-10-15",
+  "coverEmoji": "🦚",
+  "coverImage": "assets/images/story-034-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-034-scene-1.png",
+      "alt": "A beautiful little cartoon peacock with her huge blue-green-gold tail spread wide, turning her head away proudly with a dismissive look, while a tiny plain brown robin with a sad face stands in the grass looking down, sunny green meadow with simple flowers, cartoon vector children's book illustration, flat clean shapes, bold outlines, bright saturated colors, ONLY a peacock and one small brown robin, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-034-scene-2.png",
+      "alt": "A beautiful little cartoon peacock sitting all alone in a big muddy puddle during heavy rain, her long trailing tail feathers soaked, muddy and tangled in knots, a sad worried expression on her face, dark grey stormy sky with rain streaks, wet bare grass, cartoon vector children's book illustration, flat clean shapes, bold outlines, muted rainy blue and grey colors, ONLY one peacock, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p22",
+      "image": "assets/images/story-034-scene-3.png",
+      "alt": "At night under a big silver moon, a beautiful little cartoon peacock with her magnificent tail gently fanned open like a protective rainbow arch, and a tiny plain brown robin standing close beside her underneath the tail, both looking at each other warmly and smiling, starry dark blue sky, soft glowing moonlight on the grass, cartoon vector children's book illustration, flat clean shapes, bold outlines, deep blue and gold colors, ONLY a peacock and one small brown robin, NO other animals, NO campfire, NO humans, NO text"
+    }
+  ],
+  "summary": "Pearl the peacock is the most beautiful bird in the meadow, and she knows it. She wins the Feather Festival every year, and when shy little Rosy the robin asks to sing with her at the Grand Parade, Pearl laughs and tells her she does not sparkle. But the night before the parade, Pearl slips into the muddiest puddle in the meadow and her glorious tail becomes a tangled, muddy mess. When she cries for help, everyone remembers her sharp words and turns away. Everyone, that is, except the one small brown bird she hurt the most.",
+  "moral": "Pearl's feathers were beautiful, but beauty only becomes a gift when you share it kindly. Being the best at something does not make you better than anyone else - it only gives you more to be humble about. When Pearl finally opened her tail not to show off, but to make room for a friend, that was the moment she became truly beautiful. Humility is not thinking less of yourself. It is thinking of yourself a little less, and of others a little more.",
+  "moralZh": "珀尔的羽毛很美，但美只有在被善意分享时，才是一份礼物。在某件事上做到最好，并不会让你比别人更高贵——它只会给你更多需要保持谦虚的理由。当珀尔终于不再为了炫耀而开屏，而是为朋友让出位置时，她才真正变得美丽。谦虚，不是看轻自己，而是少想一点自己，多想一点别人。",
+  "vocabulary": [
+    { "word": "peacock", "phonetic": "/ˈpiːkɒk/", "meaning": "孔雀" },
+    { "word": "feather", "phonetic": "/ˈfeðər/", "meaning": "羽毛" },
+    { "word": "humble", "phonetic": "/ˈhʌmbl/", "meaning": "谦虚的；谦逊的" },
+    { "word": "proud", "phonetic": "/praʊd/", "meaning": "骄傲的；自豪的" },
+    { "word": "boast", "phonetic": "/bəʊst/", "meaning": "自夸；吹嘘" },
+    { "word": "admire", "phonetic": "/ədˈmaɪər/", "meaning": "钦佩；欣赏" },
+    { "word": "plain", "phonetic": "/pleɪn/", "meaning": "朴素的；不起眼的" },
+    { "word": "parade", "phonetic": "/pəˈreɪd/", "meaning": "游行；巡游" },
+    { "word": "ashamed", "phonetic": "/əˈʃeɪmd/", "meaning": "羞愧的；惭愧的" },
+    { "word": "forgive", "phonetic": "/fəˈɡɪv/", "meaning": "原谅；宽恕" },
+    { "word": "tangle", "phonetic": "/ˈtæŋɡl/", "meaning": "缠结；纠结" },
+    { "word": "shimmer", "phonetic": "/ˈʃɪmər/", "meaning": "闪烁；微微发光" },
+    { "word": "applause", "phonetic": "/əˈplɔːz/", "meaning": "掌声；喝彩" },
+    { "word": "kindness", "phonetic": "/ˈkaɪndnəs/", "meaning": "善意；善良" },
+    { "word": "puddle", "phonetic": "/ˈpʌdl/", "meaning": "水坑；泥坑" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In a wide green meadow where the sun came up soft and golden, there lived a peacock named Pearl. And Pearl was, everyone agreed, the most beautiful bird in the whole meadow. Her tail held a hundred feathers, and every single one of them was painted like a piece of the evening sky - blue and green and gold, with a shining eye in the middle."
+    },
+    {
+      "id": "p2",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(spreading her tail wide in the morning light and turning slowly, so that every feather caught the sun) \"Ohhh, look at that. Look at that shine! Honestly, I do not think there is a more beautiful bird anywhere in the world. Not in the meadow, not in the forest, not even in the sky. The sun itself came up this morning just to look at me.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pearl won the Meadow Feather Festival every single year. Three times she had stood on the little wooden stage while all the animals clapped and cheered. And the more they clapped, the more Pearl began to believe that being beautiful meant being best - and being best meant being better than everyone else."
+    },
+    {
+      "id": "p4",
+      "speaker": "Rosy",
+      "speakerZh": "小知更鸟罗西",
+      "text": "(hopping up shyly, her small brown feathers dusty from the road) \"Um... Pearl? Excuse me? I am Rosy. I am new here. Everyone says you sing as beautifully as you look. There is a Grand Parade next week, and I wondered... would you maybe sing a song with me? Just one little song? I know all the words already. I have been practising.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(looking Rosy up and down, then laughing a bright, sharp laugh) \"Sing with YOU? Oh, little bird. Have you seen yourself? Your feathers are the colour of old leaves. You are small, and you are plain, and nobody in the meadow has ever heard of you. If you stand next to me on that stage, everyone will just... wonder what happened. No. I am sorry. I need a partner who sparkles. And you, my dear, do not sparkle.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Rosy did not say anything at all. She only blinked, once, twice - and then flew up to a low branch and sat there very still, the way a bird sits when its heart is hurting. Pearl did not notice. She was already busy looking at her own reflection in the pond."
+    },
+    {
+      "id": "p7",
+      "speaker": "Mama Peacock",
+      "speakerZh": "孔雀妈妈",
+      "text": "(smoothing Pearl's feathers that evening with her beak, her voice quiet) \"Pearl, my love. You are beautiful. That is true, and I will never tell you otherwise. But listen to me. A tail is a gift you were given. It is not a crown you won. If you use it to make other birds feel small, then one day, when you need them, you will find that you are standing all alone - and no amount of shine will keep you warm.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(tossing her head and laughing) \"Mama, you worry too much! Everyone loves me. Look at my tail! When the parade comes, the whole meadow will be watching me. And if a few little brown birds feel a bit small - well, that is not my problem, is it?\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so the week went by. Every morning Pearl practised her song and fanned her tail in front of the pond. Every evening she counted her feathers, one by one, to be sure that not a single one was missing. She was ready. She was more than ready. She was perfect."
+    },
+    {
+      "id": "p10",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(fanning her tail slowly and singing a single, shimmering note) \"Mmmmm... beautiful. Yes. Tomorrow the Grand Parade, and tomorrow everyone will see Pearl at her very best. I shall stand in the middle of the stage, and I shall open my tail like a sunrise, and they will all forget how to breathe.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But that night, the sky turned dark and heavy, and a storm came rushing over the meadow. Pearl ran for home as fast as her long legs could carry her. She was almost there - almost - when her foot slipped on the wet grass, and she tumbled, tail and all, straight into the biggest, muddiest puddle in the meadow."
+    },
+    {
+      "id": "p12",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(sitting up, gasping, staring at the muddy mess behind her) \"No. No, no, no, NO! My tail! My beautiful tail! It is all mud - it is all tangles - oh, what am I going to do? The parade is TOMORROW!\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pearl stood in the rain and called out for help. But the meadow had not forgotten her sharp words. The sparrows looked away. The rabbits hurried past. And the little brown birds, most of all, remembered exactly how it felt to be told that they did not sparkle. One by one, they turned their backs and went home to their warm nests, leaving Pearl standing all alone in the mud and the rain."
+    },
+    {
+      "id": "p14",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(her voice cracking, calling out into the dark) \"Please! Somebody! Anyone! I cannot fix this by myself - I need help! Won't somebody please help me?\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Grandpa Cedar",
+      "speakerZh": "老雪松爷爷",
+      "text": "(his old branches creaking softly in the wind) \"Little Pearl. I have stood in this meadow for two hundred years, and I have seen a great many beautiful things. But here is what I have learned. Beauty that shines only for itself is not really beauty at all - it is just a mirror. And a mirror, in the end, is a very cold and lonely thing to stand next to.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(sitting down in the wet grass, suddenly very tired) \"...You are right. I was awful to Rosy. I told her she did not sparkle, when all she wanted was to sing a song with me. And now there is nobody left to help me. I did this to myself, did I not?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then, out of the rain, came a small, soft flutter of wings. It was Rosy. She was carrying a little bucket of clean water in her beak and a soft cloth in her claws, and she landed right there in the mud beside Pearl - the plain little brown bird, next to the muddy, tangled peacock."
+    },
+    {
+      "id": "p18",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(staring at her, hardly able to speak) \"Rosy? But... after what I said to you? Why would you come back? Why would you help me, after I was so unkind?\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Rosy",
+      "speakerZh": "小知更鸟罗西",
+      "text": "(setting down the bucket and tilting her small head to one side) \"Because you were in trouble, and I was nearby. That is all it takes, Pearl. I did not help you because you were beautiful. I helped you because you needed help. And anyway... everybody says something silly sometimes. I have decided not to keep it.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So they worked together. Rosy washed the mud out of a hundred feathers, one at a time, while Pearl held them still and steady. It took hours. The rain stopped, the stars came out, and still they worked - two birds, side by side in the dark, saying almost nothing at all."
+    },
+    {
+      "id": "p21",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "By the time the moon was high, Pearl's tail was clean again. It was not perfect - two feathers were bent, and one had lost its shine - but when Pearl looked at it in the moonlight, it shimmered softly, and it was the loveliest it had ever looked to her. Because now she knew exactly what it had cost a friend to make it shine."
+    },
+    {
+      "id": "p22",
+      "speaker": "Pearl",
+      "speakerZh": "小孔雀珀尔",
+      "text": "(turning to Rosy, and then - for the very first time - opening her tail not to show off, but to make room) \"Rosy. Come with me tomorrow. Stand with me on the stage. Not behind me, and not beside me - WITH me. I cannot think of anyone I would rather sparkle next to. And I still want to hear that song you have been practising. All of it. From the very beginning.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so, at the Grand Parade, the whole meadow saw something new. Pearl opened her great tail like a sunrise - and there, right in the middle of all that blue and green and gold, stood a small brown bird, singing her heart out. The applause was the loudest the meadow had ever heard. And when it was over, Pearl did not bow alone. She stepped to one side, and bowed to Rosy."
+    },
+    {
+      "id": "p24",
+      "speaker": "Rosy",
+      "speakerZh": "小知更鸟罗西",
+      "text": "(her eyes shining, her small voice full of wonder) \"I have never heard a crowd like that before in my life. Pearl... thank you. Thank you for making room for me.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pearl did not win the Feather Festival that year - one feather was bent, and one had lost its shine. And she did not mind one bit. Because she had learned something better than winning. So here is the secret, little one, before you close your eyes: being the best at something does not make you better than anyone else. It only gives you more to be humble about. Humility is not thinking less of yourself. It is thinking of yourself a little less, and of others a little more. Shine, little one - but shine the way a window shines, so that the light can pass through you and fall on somebody else. Good night, and sleep well."
+    }
+  ]
+}

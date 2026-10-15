@@ -5,6 +5,19 @@
 
 ## 执行记录
 
+### 2026-10-08（第六次执行 · story-033）
+- **新故事**: story-033「The Little Sloth Who Kept His Promise / 信守承诺的小树懒」
+- **主题**: 守信 Keeping Promises（全新主题，此前 33 期未用过）
+- **风格**: 水彩 watercolor（轮换：031 卡通矢量 → 032 彩铅手绘 → 033 水彩）
+- **发布日**: 2026-10-08（周四）
+- **文件**: data/stories/story-033.json（25 段、15 生词、3 插图锚点 p5/p13/p23）
+- **角色**: Lento 小树懒 / Koko 小猴子 / Tessa 巨嘴鸟 / Grandma Iguana 鬣蜥奶奶
+- **插图**: 1 封面 + 3 场景（顺序 ImageGen 生成 + 立即 mv + Read 核对，4 张全部一次通过）
+- **Git**: commit 9a031b1, push 1398923..9a031b1 main，9 files changed
+- **提交信息**: "Add Week 33 story: The Little Sloth Who Kept His Promise"
+- **结果**: 推送成功，远程已更新
+- **小坑**: Python 临时脚本中中文引号「“”」被保存为 ASCII 双引号导致 SyntaxError，改用「」后通过
+
 ### 2026-10-01（第五次执行 · story-032）
 - **新故事**: story-032「The Little Pony Who Learned to Work Together / 学会合作的小马驹」
 - **主题**: 合作 Teamwork（全新主题，此前 32 期未用过）
