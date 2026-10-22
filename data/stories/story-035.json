@@ -1,0 +1,211 @@
+{
+  "id": "story-035",
+  "title": "The Little Kangaroo Who Carried Her Promise",
+  "titleZh": "背起承诺的小袋鼠",
+  "theme": "责任心",
+  "themeEn": "Responsibility",
+  "publishDate": "2026-10-22",
+  "coverEmoji": "🦘",
+  "coverImage": "assets/images/story-035-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-035-scene-1.png",
+      "alt": "A young kangaroo with warm reddish-brown fur, long ears and bright confident eyes, flopping comfortably in the shade of a big old gum tree, one paw raised as she waves goodbye, while a very small grey-brown baby joey sits quietly in the dust beside her chewing a dry leaf, hot red outback earth, dappled shade, tall pale gum trees, children's book illustration, colored pencil drawing, soft hand-drawn pencil texture, visible paper grain, warm muted pastel colors, gentle cross-hatching, ONLY a big kangaroo and one small joey, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-035-scene-2.png",
+      "alt": "A young kangaroo with warm reddish-brown fur standing all alone on a wide empty red dirt plain under a huge hot sky, ears standing straight up, head lifted as she searches, a worried frightened expression, many small animal tracks in the dust around her, dry cracked earth, a dry creek bed and a bare fallen log far away, long harsh midday shadows, children's book illustration, colored pencil drawing, soft hand-drawn pencil texture, visible paper grain, warm dusty orange and ochre colors, gentle cross-hatching, ONLY one kangaroo, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p23",
+      "image": "assets/images/story-035-scene-3.png",
+      "alt": "In soft golden evening light, a young reddish-brown kangaroo bent down low and gently touching noses with a very small grey-brown baby joey, the little joey's tiny paw holding the end of her tail, a stout grey wombat and a brown and cream kookaburra bird standing quietly a little way behind them, tall gum trees and warm amber sky, children's book illustration, colored pencil drawing, soft hand-drawn pencil texture, visible paper grain, warm golden pastel colors, gentle cross-hatching, ONLY two kangaroos, one wombat and one kookaburra, NO other animals, NO humans, NO text"
+    }
+  ],
+  "summary": "Poppy the kangaroo joey is nearly grown, and she is sure she can do anything. So when Mama goes to the far billabong and gives her one simple job - mind little Bindi, stay in the shade, do not leave him - Poppy says, 'Easy!' Then the morning gets long, the jumping gets fun, and one small grey joey gets lost on the wide red plain. With help from a grumpy wombat and a laughing kookaburra, Poppy discovers that a promise is not a word you say and put down. It is a stone you carry all the way to the end of the road.",
+  "moral": "Poppy learned that being trusted is not the same as being grown up - and that a job is not something you finish and forget, but something you carry until it is done. Everyone drops their stone sometimes. That is not the end of the world. The end of the world is walking away and pretending you never had one. When Poppy went back, said sorry, and finished what she had started, she became someone her mother could truly trust. Responsibility does not mean never making a mistake. It means picking your mistake up and carrying it home.",
+  "moralZh": "波比明白了：被信任，并不等于已经长大；而一件事不是做完就忘，而是一块石头，要一路背到终点。每个人都会有把石头掉在地上的时候，那并不是世界末日。真正的末日，是转身走开，假装自己从来没有过那块石头。当波比回头、道歉、把没做完的事做完时，她才成了妈妈真正可以托付的人。责任心不是从不犯错，而是把犯下的错捡起来，一路背回家。",
+  "vocabulary": [
+    { "word": "kangaroo", "phonetic": "/ˌkæŋɡəˈruː/", "meaning": "袋鼠" },
+    { "word": "joey", "phonetic": "/ˈdʒəʊi/", "meaning": "幼袋鼠；小袋鼠" },
+    { "word": "billabong", "phonetic": "/ˈbɪləbɒŋ/", "meaning": "（澳洲）死水潭；水塘" },
+    { "word": "shade", "phonetic": "/ʃeɪd/", "meaning": "阴凉处；树荫" },
+    { "word": "responsibility", "phonetic": "/rɪˌspɒnsəˈbɪləti/", "meaning": "责任；职责" },
+    { "word": "wander", "phonetic": "/ˈwɒndər/", "meaning": "漫游；乱走" },
+    { "word": "practise", "phonetic": "/ˈpræktɪs/", "meaning": "练习" },
+    { "word": "dust", "phonetic": "/dʌst/", "meaning": "尘土；灰尘" },
+    { "word": "track", "phonetic": "/træk/", "meaning": "足迹；踪迹" },
+    { "word": "thump", "phonetic": "/θʌmp/", "meaning": "重击声；咚咚的跳声" },
+    { "word": "search", "phonetic": "/sɜːtʃ/", "meaning": "搜寻；寻找" },
+    { "word": "afraid", "phonetic": "/əˈfreɪd/", "meaning": "害怕的；担心的" },
+    { "word": "promise", "phonetic": "/ˈprɒmɪs/", "meaning": "承诺；诺言" },
+    { "word": "mistake", "phonetic": "/mɪˈsteɪk/", "meaning": "错误；过失" },
+    { "word": "honest", "phonetic": "/ˈɒnɪst/", "meaning": "诚实的；坦白的" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In the wide red country where the gum trees stand tall and the earth is the colour of warm bread, there lived a young kangaroo named Poppy. Poppy was nearly grown. Her legs were long, her tail was strong, and there was nothing in the whole world she loved more than hopping fast - so fast that the dust jumped up behind her like a little brown cloud."
+    },
+    {
+      "id": "p2",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(bounding in a wide circle and skidding to a stop in a puff of dust) \"Did you see that? That was my best jump yet! I bet I can jump all the way to the billabong before the sun is high. I bet there is nobody in this whole country who can hop like Poppy!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Her mother came out from the shade of the old gum tree with a serious face. It was a hot day, and the far billabong was the only water left anywhere near. Mama had to go and fetch water for the little ones, and the trip would take the whole morning."
+    },
+    {
+      "id": "p4",
+      "speaker": "Mama Kangaroo",
+      "speakerZh": "袋鼠妈妈",
+      "text": "(tying a small water bag around her neck) \"Poppy, listen to me carefully. I need you to stay here, in the shade of this tree, and mind your little brother. His name is Bindi, he is small, and he wanders. Do not leave him. Do you understand me?\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(flopping down in the shade and waving one paw) \"Of course I understand! Mind Bindi. Stay in the shade. Do not leave him. Easy! Mama, I am nearly grown up. You can trust me. Nothing at all will happen while you are gone.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Mama looked at her for a long, quiet moment. Then she nodded, and hopped away down the red track until she was only a small shape in the heat. Poppy watched her go. Then she looked at Bindi, who was sitting in the dust chewing a dry leaf and saying nothing at all."
+    },
+    {
+      "id": "p7",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(after a whole minute of sitting still) \"Bindi. Bindi, look. I am going to practise my jumping. Just over there. Just a little way. You sit right here and count, all right? Count to one hundred. I will be back before you get to fifty.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And Poppy began to hop. First she hopped to the next gum tree. Then to the next one. Each jump was higher and longer than the one before, and each one carried her a little further from the shade - and from the small grey joey chewing his leaf. She was not counting. She had forgotten all about counting."
+    },
+    {
+      "id": "p9",
+      "speaker": "Bindi",
+      "speakerZh": "小袋鼠宾迪",
+      "text": "(his small voice floating across the hot, still air) \"Poppy? Poppy, where are you? I am thirsty. I cannot see you anymore. Poppy?\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(landing with a thump, breathless and grinning) \"One more! Just one more jump, Bindi, and then I will come back! This one will be the biggest jump ever!\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She jumped. It was a beautiful jump - high, and long, and perfectly straight. But when she landed and turned around, there was nobody under the old gum tree. Only red dust, and one dry leaf, and the wind moving slowly through the dry grass."
+    },
+    {
+      "id": "p12",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(her heart going cold inside her chest) \"Bindi? Bindi! BINDI! Where are you? Answer me! Oh no. Oh no, no, no. Mama told me. She told me exactly what to do, and I did not do it. I left him alone.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The sun climbed higher, and the whole country turned hot and quiet. Poppy hopped in circles, calling until her voice went thin. But the red earth was covered in tracks - big tracks and small tracks and tracks that went in every direction - and she could not tell which ones were his."
+    },
+    {
+      "id": "p14",
+      "speaker": "Myrtle",
+      "speakerZh": "袋熊玛特尔",
+      "text": "(a stout grey wombat poking her head out of a burrow, blinking in the light) \"Well! What is all this thumping and shouting? A body cannot get a morning nap with a young kangaroo crashing about over her head.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(the words tumbling out all at once) \"I lost my brother! Mama told me to mind him, and I did not, and now he is gone, and it is all my fault! Please - please, can you help me search for him?\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Myrtle",
+      "speakerZh": "袋熊玛特尔",
+      "text": "(climbing out and dusting off her paws) \"Hm. So you were given a job, and you put it down to go and play. It happens. But listen to me, little one, because this is the important part. A job is not a thing you finish and forget. It is a thing you carry - like a stone in your pouch - until it is done. Now. Stop crying and start looking. Small feet make small tracks, and small tracks keep close to the ground. Which way did the wind blow this morning?\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Poppy lifted her nose. The wind had come from the east, soft and steady all morning, and it would have pushed a small joey gently along in front of it. Then she remembered the tall dead tree where Kip the kookaburra sat every day, laughing at the sky."
+    },
+    {
+      "id": "p18",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(shouting up at the branch) \"Kip! Kip, please! I need your eyes! You can see the whole plain from up there. I am looking for a very small joey - grey-brown, with a little grey tip on his tail. He is afraid of the dark, and he is afraid of being alone.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Kip",
+      "speakerZh": "笑翠鸟基普",
+      "text": "(tilting his head, suddenly serious) \"A small grey joey, you say? Hold on.\" (He flew up in a whirr of brown wings, hung in the hot air, and turned one slow circle.) \"There! East of the dry creek, by the fallen log. Something small, and grey, and very still.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Poppy did not wait to say thank you. She hopped - and this time it was not for fun, and it was not to show anybody anything. This time every single jump had a purpose. And she had never in all her life hopped so fast."
+    },
+    {
+      "id": "p21",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(skidding to a stop beside the fallen log and dropping down low) \"Bindi! Bindi, I am here. I am right here. Look at me. I came. I came for you.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Bindi",
+      "speakerZh": "小袋鼠宾迪",
+      "text": "(curled up as small as he could make himself, his voice wobbling) \"I called you and called you. You did not come. I thought you forgot me. I thought you did not want me anymore.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(pressing her nose very gently against his) \"I did not forget you. I was being silly, and I am so sorry. Come on now. Hold my tail and do not let go, not once, all the way home. I will not leave you again.\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So the small grey joey held his sister's tail, and they hopped home slowly - one small hop, one big hop, one small hop - side by side the whole way. Myrtle walked behind them, and Kip flew above them, and not one of them said a single word about how long it had taken."
+    },
+    {
+      "id": "p25",
+      "speaker": "Mama Kangaroo",
+      "speakerZh": "袋鼠妈妈",
+      "text": "(home at last, dropping her water bag and folding Poppy into her arms) \"I was so frightened. And I can see that you were frightened too. Poppy - you made a mistake today. A real one. But when it happened, you did not hide it, and you did not run away from it. You went back and you fixed it. That is what growing up looks like.\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Poppy",
+      "speakerZh": "小袋鼠波比",
+      "text": "(very quietly, her cheek against her mother's warm fur) \"Mama... the next time you give me a job, I will carry it properly. I promise. And this time I mean it.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And she did. So here is the secret, little one, before you close your eyes: a promise is not a word you say and then put down. It is a small stone you carry with you, all the way to the end of the road. Everyone drops their stone sometimes - that is not the end of the world. The end of the world is walking away and pretending you never had one. Pick it up. Carry it. Say sorry, and finish the job. That is what responsibility means. Good night, little one. Sleep well."
+    }
+  ]
+}
