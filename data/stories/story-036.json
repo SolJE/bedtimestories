@@ -1,0 +1,229 @@
+{
+  "id": "story-036",
+  "title": "The Little Porcupine Who Put Down the Hot Acorn",
+  "titleZh": "放下烫橡果的小豪猪",
+  "theme": "原谅",
+  "themeEn": "Forgiveness",
+  "publishDate": "2026-10-29",
+  "coverEmoji": "🦔",
+  "coverImage": "assets/images/story-036-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p5",
+      "image": "assets/images/story-036-scene-1.png",
+      "alt": "A small round porcupine with warm brown quills tipped in cream, standing proudly beside a big soft nest of green moss and dry autumn leaves on the forest floor, one front paw sweeping toward the nest in a show-off gesture, his face bright and pleased, while a little red squirrel with a huge fluffy tail sits on a mossy log nearby, eyes wide with excitement, golden autumn oak leaves falling around them, warm afternoon light, children's book illustration, soft watercolor painting, gentle translucent watercolor washes, visible paper texture, soft edges, warm amber and moss green palette, delicate ink outlines, ONLY one porcupine and one red squirrel, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p19",
+      "image": "assets/images/story-036-scene-2.png",
+      "alt": "A small round porcupine with brown and cream quills sitting all alone in the blue-grey dark of a frosty night, his quills pressed flat against his back, hugging himself with both front paws, shivering, a thin half-collapsed nest of scattered moss and leaves beside him with cold gaps showing through it, white frost glittering on the ground and on every leaf, a bare oak tree with a few last leaves, cold pale moonlight, children's book illustration, soft watercolor painting, gentle translucent watercolor washes, visible paper texture, soft edges, cold blue and silver palette with a small warm patch of brown fur, delicate ink outlines, ONLY one porcupine, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p29",
+      "image": "assets/images/story-036-scene-3.png",
+      "alt": "In soft pink and gold winter sunrise light, a small round porcupine with brown and cream quills and a little red squirrel with a huge fluffy tail building a big round nest together on the forest floor, the squirrel pulling a tuft of green moss loose with her tiny claws while the porcupine carries a stack of dry leaves on his quills, both of them smiling at each other, the new nest already large and round and soft, frost melting on the ground, bare oak branches above, children's book illustration, soft watercolor painting, gentle translucent watercolor washes, visible paper texture, soft edges, warm rose gold and moss green palette, delicate ink outlines, ONLY one porcupine and one red squirrel, NO other animals, NO humans, NO text"
+    }
+  ],
+  "summary": "Pippin the porcupine spends the whole autumn building the softest winter nest in the forest, and he cannot wait to show it off. So when Saffron the squirrel jumps in with all four paws, rips it apart, and then laughs, Pippin says words he can never take back. All through the first frost he carries his anger like a hot acorn, never noticing the bundle of moss that appears at the edge of his clearing every single morning. It takes an old owl's question - which is heavier, the laugh or the eleven bundles? - before Pippin learns that forgiving someone does not mean it did not hurt. It means you finally put the hot acorn down.",
+  "moral": "Pippin learned that anger is like holding a hot acorn in your paw: you think you are keeping it away from the one who hurt you, but you are the only one getting burned. Forgiving does not mean pretending that what happened did not hurt, and it does not mean the other person was right. It means you stop carrying the heat around. Say the sorry you owe, and take the sorry you are given. A nest is always warmer when there is room in it for two.",
+  "moralZh": "皮平明白了：生气就像爪子里攥着一颗滚烫的橡果——你以为自己是在把它挡在伤害你的人之外，可被烫伤的只有你自己。原谅并不是假装那件事没有伤到你，也不是说对方做得对，而是你终于不再把那团烫人的火带着到处走。该说的对不起要说出口，别人递来的对不起也要接住。一个窝里能容下两个，总是更暖和。",
+  "vocabulary": [
+    { "word": "porcupine", "phonetic": "/ˈpɔːkjupaɪn/", "meaning": "豪猪；箭猪" },
+    { "word": "quill", "phonetic": "/kwɪl/", "meaning": "（豪猪的）刺；羽茎" },
+    { "word": "moss", "phonetic": "/mɒs/", "meaning": "苔藓；青苔" },
+    { "word": "nest", "phonetic": "/nest/", "meaning": "巢；窝" },
+    { "word": "gather", "phonetic": "/ˈɡæðə(r)/", "meaning": "收集；采集" },
+    { "word": "armful", "phonetic": "/ˈɑːmfʊl/", "meaning": "一抱；一抱之量" },
+    { "word": "ruin", "phonetic": "/ˈruːɪn/", "meaning": "毁坏；弄糟" },
+    { "word": "claw", "phonetic": "/klɔː/", "meaning": "爪子；爪" },
+    { "word": "embarrassed", "phonetic": "/ɪmˈbærəst/", "meaning": "尴尬的；不好意思的" },
+    { "word": "wreck", "phonetic": "/rek/", "meaning": "残骸；被毁坏的东西" },
+    { "word": "droop", "phonetic": "/druːp/", "meaning": "下垂；耷拉" },
+    { "word": "frost", "phonetic": "/frɒst/", "meaning": "霜；霜冻" },
+    { "word": "shiver", "phonetic": "/ˈʃɪvə(r)/", "meaning": "发抖；哆嗦" },
+    { "word": "bundle", "phonetic": "/ˈbʌndl/", "meaning": "一捆；一包" },
+    { "word": "forgive", "phonetic": "/fəˈɡɪv/", "meaning": "原谅；宽恕" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "At the edge of the forest, where the oak trees let go of their leaves one by one, there lived a small porcupine named Pippin. Pippin had a thousand sharp quills on his back and one very soft wish in his heart: to build the warmest, softest winter nest in the whole forest."
+    },
+    {
+      "id": "p2",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(patting a heap of moss with both front paws) \"Almost done! A little more moss here, a little more there - and it will be the softest bed in the whole wide forest. Softer than a cloud. Softer than a dandelion.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "All autumn long, Pippin had gathered. He had carried moss in his mouth, dry leaves on his head, and soft grass in his paws, one small armful at a time. And now, at last, his nest was perfect."
+    },
+    {
+      "id": "p4",
+      "speaker": "Saffron",
+      "speakerZh": "小松鼠莎芙兰",
+      "text": "(bounding down the oak trunk, her tail bouncing behind her like a red flag) \"Pippin! Pippin! Mama said you finished your nest. Can I see it? Please? I promise I will only look!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(stepping proudly aside and sweeping one paw toward the nest) \"Only look? Saffron, you can do better than look. Come and feel it! Go on - put your paw right in the middle. Have you ever felt anything so soft in your whole life?\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Saffron did not put one paw in. Saffron was so excited that she jumped in with all four. Her sharp little claws went through the moss like four small knives. There was a soft ripping sound. The beautiful nest sighed, sank, and slid apart into a flat, sad heap."
+    },
+    {
+      "id": "p7",
+      "speaker": "Saffron",
+      "speakerZh": "小松鼠莎芙兰",
+      "text": "(standing in the middle of the wreck, her ears going red) \"Oh! Oh no. I - it - well, it looks like a pile of salad now, doesn't it? Ha! Ha ha!\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She had not meant to laugh. She laughed because she was embarrassed, the way squirrels sometimes do. But Pippin did not know that. All Pippin heard was the laugh."
+    },
+    {
+      "id": "p9",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(his quills rising all at once, his voice going small and hard) \"Get out. Get out of my nest! You ruined it. You ruined the whole thing. Go away, Saffron, and never come back!\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Saffron",
+      "speakerZh": "小松鼠莎芙兰",
+      "text": "(climbing backwards up the trunk, her voice wobbling) \"Pippin, I am sorry. I truly am. I did not mean to - please, let me help you fix it -\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(turning his back, every quill pointed at her) \"You are not sorry. You laughed. If you were sorry, you would not have laughed.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Saffron's tail drooped all the way down to the ground. She went away without another word. And Pippin turned to his ruined nest and tried to build it again. But his own quills caught in the moss every time he pushed it, and every time he pushed it, it fell apart again."
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Three days passed. Then five. The wind grew colder and the leaves turned brown. Pippin did not go to the oak tree any more, and Saffron did not come down it. Pippin told himself he was fine. He told himself he did not miss her at all. But he carried his anger everywhere he went, and it was heavier than any armful of moss."
+    },
+    {
+      "id": "p14",
+      "speaker": "Mama Porcupine",
+      "speakerZh": "豪猪妈妈",
+      "text": "(finding him sitting alone beside a half-built nest) \"Little one, you have not eaten your roots. You have not laughed in a week. Something is sitting on your heart. Tell me what it is.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(poking at the moss and not looking up) \"Nothing is wrong. I am not angry. I am fine. She is the one who laughed.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Mama Porcupine",
+      "speakerZh": "豪猪妈妈",
+      "text": "(sitting down slowly beside him) \"Ah. So it is Saffron. Pippin, listen to me. Anger is like holding a hot acorn in your paw. You think you are keeping it away from the one who hurt you. But you are the only one getting burned.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pippin said nothing. But the next morning, when he went to the edge of the clearing, he found something new: a bundle of the softest green moss he had ever seen, tied with a grass string. The next morning there was another one. And the morning after that, another."
+    },
+    {
+      "id": "p18",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(holding the bundle up to his nose and whispering) \"Who keeps leaving these? There is no name. There are no footprints. Just moss, every single morning, before the sun is even up.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then came the first frost. It came early that year, white and sharp, and it lay on everything like a cold hand. Pippin's nest was still too thin, and the wind found every gap in it. He sat in the dark, shivering, with his quills pressed flat against his back and his anger pressed flat against his heart."
+    },
+    {
+      "id": "p20",
+      "speaker": "Grandpa Rowan",
+      "speakerZh": "老猫头鹰罗文爷爷",
+      "text": "(landing on a low branch, his great round eyes blinking slowly) \"Your nest is thin, little porcupine. And your face is thin too. That is a strange thing. A well-fed animal does not usually look so hungry.\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Grandpa Rowan",
+      "speakerZh": "老猫头鹰罗文爷爷",
+      "text": "(after a long silence) \"I will tell you something, and then I will go. For eleven mornings now, a small squirrel has climbed down before sunrise and left a bundle of moss at the edge of this clearing. She does not knock. She is too afraid to knock. Then she climbs back up, sits alone in her cold little nest, and waits to see whether you will take it in.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(very quietly) \"She laughed at me.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Grandpa Rowan",
+      "speakerZh": "老猫头鹰罗文爷爷",
+      "text": "(tilting his head to one side) \"Yes. She did. And she has been sorry for eleven days. So tell me, little one - which one is heavier? The laugh, or the eleven bundles of moss?\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pippin looked at the moss beside him. Then he looked at his own paws, and for the first time he understood what his mother had meant. They were burned. He had been holding that hot acorn for eleven whole days, and it had never once touched Saffron."
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "He got up. He walked out into the frost, past the oak tree, all the way to the thin little nest on top of the old stone wall, where a small red squirrel sat shivering with her tail wrapped around her nose."
+    },
+    {
+      "id": "p26",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(calling up, his voice shaking a little) \"Saffron. I have been carrying a hot acorn for eleven days, and my paws are burned right through. I am sorry for the things I said. Will you come down and help me build a new nest? A big one. Big enough for two.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Saffron",
+      "speakerZh": "小松鼠莎芙兰",
+      "text": "(climbing down so fast she nearly falls, tears freezing on her cheeks) \"I am sorry, Pippin. I am so sorry. I laughed because I was embarrassed, and then I could not stop thinking about your face. I did not know how to say it, so I just kept carrying moss.\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Pippin",
+      "speakerZh": "小豪猪皮平",
+      "text": "(pressing his soft nose against her cold ear) \"I know. And I said words I cannot take back. So let us put them both down here in the frost, and leave them here. Come on. You carry the moss. I will carry the leaves. My quills are good for something after all - I can hold six bundles at once.\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And so, on the coldest morning of the year, a porcupine and a squirrel built a nest together. Her claws pulled the moss loose. His quills carried it home. Her paws patted it flat. His round warm body pressed it into shape. When it was finished, it was twice as big as the old one and three times as soft, and there was room in it for two."
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So here is the secret, little one, before you close your eyes. Forgiving someone does not mean that what they did did not hurt. It means you stop carrying the hot acorn. Put it down. Say the sorry you owe, and take the sorry you are given. Anger is a heavy thing to hold all winter - and a nest is always warmer when there is room in it for two. Good night, little one. Sleep well."
+    }
+  ]
+}
