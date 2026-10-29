@@ -5,6 +5,32 @@
 
 ## 执行记录
 
+### 2026-10-29（第九次执行 · story-036）
+- **新故事**: story-036「The Little Porcupine Who Put Down the Hot Acorn / 放下烫橡果的小豪猪」
+- **主题**: 原谅 Forgiveness（全新主题，此前 36 期未用过）
+- **风格**: 水彩 watercolor（轮换：034 卡通矢量 → 035 彩铅手绘 → 036 水彩）
+- **发布日**: 2026-10-29（周四）
+- **文件**: data/stories/story-036.json（30 段、15 生词、3 插图锚点 p5/p19/p29）
+- **角色**: Pippin 小豪猪 / Saffron 小松鼠 / Mama Porcupine 豪猪妈妈 / Grandpa Rowan 老猫头鹰
+- **插图**: 1 封面 + 3 场景（顺序 ImageGen 生成 + 立即 mv + Read 核对，4 张全部一次通过）
+- **Git**: commit e230057, push e485929..e230057 main，6 files changed（本轮只提交故事文件，.workbuddy 记忆文件未入库）
+- **提交信息**: "Add Week 36 story: The Little Porcupine Who Put Down the Hot Acorn"
+- **结果**: 推送成功，远程已更新
+- **备注**: 直接 Write 写 JSON 一次通过；封面与 story-035 同样自带右下角「AI生成」水印，与历史图片一致，未做处理
+
+### 2026-10-22（第八次执行 · story-035）
+- **新故事**: story-035「The Little Kangaroo Who Carried Her Promise / 背起承诺的小袋鼠」
+- **主题**: 责任心 Responsibility（全新主题，此前 35 期未用过）
+- **风格**: 彩铅手绘 colored pencil（轮换：033 水彩 → 034 卡通矢量 → 035 彩铅手绘）
+- **发布日**: 2026-10-22（周四）
+- **文件**: data/stories/story-035.json（27 段、15 生词、3 插图锚点 p5/p13/p23）
+- **角色**: Poppy 小袋鼠 / Bindi 小袋鼠弟弟 / Mama Kangaroo 袋鼠妈妈 / Myrtle 袋熊 / Kip 笑翠鸟
+- **插图**: 1 封面 + 3 场景（顺序 ImageGen 生成 + 立即 mv + Read 核对，4 张全部一次通过）
+- **Git**: commit e485929, push 4bcf987..e485929 main，9 files changed
+- **提交信息**: "Add Week 35 story: The Little Kangaroo Who Carried Her Promise"
+- **结果**: 推送成功，远程已更新
+- **备注**: 直接用 Write 工具写 JSON（含转义对话引号）+ Edit 更新索引，一次校验通过
+
 ### 2026-10-15（第七次执行 · story-034）
 - **新故事**: story-034「The Little Peacock Who Learned to Be Humble / 学会谦虚的小孔雀」
 - **主题**: 谦虚 Humility（全新主题，此前 34 期未用过）

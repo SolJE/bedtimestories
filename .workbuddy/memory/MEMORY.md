@@ -37,12 +37,14 @@
 | story-032 | The Little Pony Who Learned to Work Together | 合作 | 2026-10-01 | ✅ |
 | story-033 | The Little Sloth Who Kept His Promise | 守信 | 2026-10-08 | ✅ |
 | story-034 | The Little Peacock Who Learned to Be Humble | 谦虚 | 2026-10-15 | ✅ |
+| story-035 | The Little Kangaroo Who Carried Her Promise | 责任心 | 2026-10-22 | ✅ |
+| story-036 | The Little Porcupine Who Put Down the Hot Acorn | 原谅 | 2026-10-29 | ✅ |
 
 ## 最新故事
-- **ID**: story-034
-- **标题**: The Little Peacock Who Learned to Be Humble
-- **主题**: 谦虚 (Humility)
-- **日期**: 2026-10-15
+- **ID**: story-036
+- **标题**: The Little Porcupine Who Put Down the Hot Acorn
+- **主题**: 原谅 (Forgiveness)
+- **日期**: 2026-10-29
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -66,8 +68,12 @@
 - **数据扩展**：story JSON 新增可选字段 `coverImage` 和 `illustrations`
 - **插图存储**：`assets/images/story-XXX-*.png`
 - **风格轮换**：水彩绘本 → 卡通矢量 → 彩铅手绘，每周轮流
-- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量 → story-029 彩铅手绘 → story-030 水彩 → story-031 卡通矢量 → story-032 彩铅手绘 → story-033 水彩 → story-034 卡通矢量
+- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量 → story-029 彩铅手绘 → story-030 水彩 → story-031 卡通矢量 → story-032 彩铅手绘 → story-033 水彩 → story-034 卡通矢量 → story-035 彩铅手绘 → story-036 水彩
 - **story-034 已配图**：1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
+- **story-035 已配图**：1 封面 + 3 场景（彩铅手绘风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
+- **story-036 已配图**：1 封面 + 3 场景（水彩风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
+- **角色**：Pippin（小豪猪）、Saffron（小松鼠）、Mama Porcupine（豪猪妈妈）、Grandpa Rowan（老猫头鹰罗文爷爷）
+- **角色**：Poppy（小袋鼠）、Bindi（小袋鼠弟弟）、Mama Kangaroo（袋鼠妈妈）、Myrtle（袋熊）、Kip（笑翠鸟）
 - **角色**：Pearl（小孔雀）、Rosy（小知更鸟）、Mama Peacock（孔雀妈妈）、Grandpa Cedar（老雪松爷爷）
 - **story-015 已配图**：1 封面 + 3 场景（水彩风格）
 - **story-016 已配图**：1 封面 + 3 场景（卡通矢量风格）
