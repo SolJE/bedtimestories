@@ -1,0 +1,247 @@
+{
+  "id": "story-037",
+  "title": "The Little Giraffe Who Forgot to Look Down",
+  "titleZh": "忘了低头看的小长颈鹿",
+  "theme": "尊重",
+  "themeEn": "Respect",
+  "publishDate": "2026-11-05",
+  "coverEmoji": "🦒",
+  "coverImage": "assets/images/story-037-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p4",
+      "image": "assets/images/story-037-scene-1.png",
+      "alt": "A tall young giraffe calf with a golden coat and warm brown patches standing on a dry golden savanna plain, her long neck stretched up and her head turned far away toward distant purple hills, her big front hooves stepping over a tiny grey field mouse carrying a seed and an old brown tortoise with a domed shell who are both looking up at her, thin golden acacia trees and a pale blue sky, late afternoon light, children's book illustration, flat vector cartoon style, bold clean outlines, smooth solid colour fills, simple shapes, cheerful bright palette of gold, sky blue and warm brown, ONLY one giraffe, one mouse and one tortoise, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p13",
+      "image": "assets/images/story-037-scene-2.png",
+      "alt": "A tall young giraffe calf with a golden coat and brown patches stuck in the dry savanna, her front hoof wedged in a narrow crack between two flat grey rocks, her long neck bent all the way down so her face is close to the dusty ground, looking down with wide surprised eyes, a tiny grey field mouse with round ears and an old brown tortoise beside the rock looking up at her, dry cracked earth, hot hazy yellow sky, children's book illustration, flat vector cartoon style, bold clean outlines, smooth solid colour fills, simple shapes, warm dry palette of ochre, dust yellow and grey stone, ONLY one giraffe, one mouse and one tortoise, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p29",
+      "image": "assets/images/story-037-scene-3.png",
+      "alt": "A tall young giraffe calf with a golden coat and brown patches standing on the savanna at golden sunset with her long neck lifted high, a tiny grey field mouse sitting proudly between her two small horns on top of her head, both of them looking out at a wide golden plain with a distant blue river and far purple hills, an old brown tortoise smiling up at them from the grass below, the first grey curtain of rain far away on the horizon, children's book illustration, flat vector cartoon style, bold clean outlines, smooth solid colour fills, simple shapes, glowing orange and pink sunset palette, ONLY one giraffe, one mouse and one tortoise, NO other animals, NO humans, NO text"
+    }
+  ],
+  "summary": "Gemma the giraffe calf has the longest neck in the herd, and she uses it to look at everything far away - the river two hills off, the first cloud of the rainy season. She never looks down, so she never sees Nim the field mouse or Tuck the old tortoise, whose path she steps over every single morning. Then a storm comes, and Gemma's hoof drops into a crack between two rocks and will not come out. With nobody tall enough to pull her free, she finally looks down - and finds a whole world at her feet, and two small friends who can do what no tall animal can.",
+  "moral": "Gemma learned that a long neck can show you the whole horizon, but it is looking down that shows you the ones standing beside you. Being big, or fast, or clever, or tall is never a reason to stop noticing the small things and small people around you. Respect does not begin with the animals who are as big as you are. It begins with the ones whose eyes are lower than yours - and it starts with a simple, kind look.",
+  "moralZh": "吉玛明白了：长长的脖子能让你望见整条地平线，可只有低下头，你才看得见站在你身边的那一个个。长得高、跑得快、聪明、力气大，从来都不是不去留意那些小小的东西、小小的人的理由。尊重不是从和你一样高大的伙伴开始的，而是从那些眼睛比你还低的小生命开始的——而它只始于一次简单的、温柔的低头。",
+  "vocabulary": [
+    { "word": "giraffe", "phonetic": "/dʒəˈrɑːf/", "meaning": "长颈鹿" },
+    { "word": "acacia", "phonetic": "/əˈkeɪʃə/", "meaning": "金合欢树（非洲稀树草原上的伞形树）" },
+    { "word": "herd", "phonetic": "/hɜːd/", "meaning": "兽群；（长颈鹿、大象等的）一群" },
+    { "word": "horizon", "phonetic": "/həˈraɪzn/", "meaning": "地平线" },
+    { "word": "ostrich", "phonetic": "/ˈɒstrɪtʃ/", "meaning": "鸵鸟" },
+    { "word": "tortoise", "phonetic": "/ˈtɔːtəs/", "meaning": "陆龟；乌龟" },
+    { "word": "hoof", "phonetic": "/huːf/", "meaning": "蹄" },
+    { "word": "crack", "phonetic": "/kræk/", "meaning": "裂缝；裂口" },
+    { "word": "whisker", "phonetic": "/ˈwɪskə(r)/", "meaning": "（动物的）胡须" },
+    { "word": "pawful", "phonetic": "/ˈpɔːfʊl/", "meaning": "一爪之量；一把" },
+    { "word": "hollow", "phonetic": "/ˈhɒləʊ/", "meaning": "凹陷处；小坑" },
+    { "word": "brace", "phonetic": "/breɪs/", "meaning": "撑住；抵住" },
+    { "word": "smooth", "phonetic": "/smuːð/", "meaning": "光滑的；平滑的" },
+    { "word": "notice", "phonetic": "/ˈnəʊtɪs/", "meaning": "注意到；留意" },
+    { "word": "respect", "phonetic": "/rɪˈspekt/", "meaning": "尊重；敬意" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "On the wide Acacia Plain, where the grass turns gold in November and the wind smells of dust and warm stone, there lived a young giraffe named Gemma. Gemma had the longest neck of any calf in the herd. And because her neck was so long, she could see the river two hills away, the smoke of a distant fire, and the very first cloud of the rainy season. She could see everything. Everything, that is, that was far away."
+    },
+    {
+      "id": "p2",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(stretching her neck as high as it would go) \"Otis! Otis, look! I can see the river from here. Two whole hills away! Can you see it? No. Of course you cannot. You are an ostrich. I am a giraffe.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Otis",
+      "speakerZh": "鸵鸟奥蒂斯",
+      "text": "(flapping his big useless wings) \"I can see it perfectly well, thank you very much. I simply choose not to look.\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Down on the ground, where the grass was short and the shadows were cool, small things were happening. A field mouse named Nim was carrying a seed home. An old tortoise named Tuck was crossing the path very, very slowly. Gemma's long legs stepped over them both - and she did not see either of them. Not once."
+    },
+    {
+      "id": "p5",
+      "speaker": "Nim",
+      "speakerZh": "小田鼠妮姆",
+      "text": "(dropping her seed and jumping back) \"Whoa! Watch it! That hoof was as big as my whole house!\" (peering up, whiskers twitching) \"She did not even stop. She did not even see me.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Tuck",
+      "speakerZh": "老陆龟塔克",
+      "text": "(not hurrying, because tortoises never do) \"Ah. When you live that high up, the ground is a very long way away. But being tall is no excuse for not looking down, little mouse. A head in the clouds still has feet in the grass.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gemma and Otis laughed all the way across the plain. \"Did you hear something down there?\" Gemma asked. \"Something squeaky?\" \"Only grass,\" said Otis. And they laughed again."
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Now, that November was a dry one. Day after day the sun came up like a hot coin, the river shrank to a thin silver thread, and the grass cracked into little dry puzzles under everyone's feet. Then one afternoon the sky turned purple, and the wind began to push."
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "\"Storm!\" called the herd, and everyone ran. Gemma ran too - long legs, fast legs, her eyes fixed on the far hills where the rain was already falling. She was so busy looking far away that she never looked down. And that is how her front hoof came down into the narrow crack between two flat rocks, and stuck."
+    },
+    {
+      "id": "p10",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(pulling hard, her voice going high) \"It will not come out! Otis! OTIS! My hoof is caught!\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Otis",
+      "speakerZh": "鸵鸟奥蒂斯",
+      "text": "(running up, then stopping short) \"I see it. I see it. But I cannot pull you, Gemma. My legs are for running, not for pulling, and my wings are no use at all.\" (a pause) \"I will run and fetch your mother. Hold on. Do not go anywhere.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "\"Do not go anywhere,\" said the ostrich - and then he ran away as fast as an ostrich can, which is very fast indeed. And Gemma was left alone in the hot, still afternoon, with her hoof in a rock and the storm coming."
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "For the first time in her life, Gemma had nowhere to look but down. And down, she discovered, was full of things she had never seen: a beetle in armour the colour of a plum, a line of ants carrying a white petal home, a seed pod curled like a sleeping ear. And two small faces, looking up at her from the shadow of the rock."
+    },
+    {
+      "id": "p14",
+      "speaker": "Nim",
+      "speakerZh": "小田鼠妮姆",
+      "text": "(paws on her hips, whiskers trembling) \"You are stuck.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(bending her long neck all the way down, until her nose was almost in the dust) \"I am stuck. Please - can you help me?\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Nim",
+      "speakerZh": "小田鼠妮姆",
+      "text": "\"Why should I? For a whole month you stepped over me every single morning. You never once said good morning. You never once looked.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gemma was silent. The wind blew, the dry grass bent, and she thought about all the mornings she had looked at the far hills and never at her own feet."
+    },
+    {
+      "id": "p18",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(very quietly) \"You are right. I did not look. I thought the small things were not important, because they were small. I was wrong, Nim. I am sorry.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Tuck",
+      "speakerZh": "老陆龟塔克",
+      "text": "(arriving at last, one slow step at a time) \"Little mouse, being small is not a reason to be small-hearted. Come. Let us show the tall one what small things can do.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Nim did what mice do best. She dug. Her tiny paws flew, throwing out the loose red soil from around the hoof, one small pawful at a time, until there was a hollow where there had only been rock."
+    },
+    {
+      "id": "p21",
+      "speaker": "Tuck",
+      "speakerZh": "老陆龟塔克",
+      "text": "(bracing his hard round shell against the stone) \"Now, giraffe. Do not pull against the rock. Pull against me. My shell is smooth, and it has carried a hundred years of weather. It will not mind one small hoof.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gemma pulled. Her long leg slid along the smooth curve of the old shell - and with a soft, dusty pop, her hoof came free."
+    },
+    {
+      "id": "p23",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(stumbling forward, then turning round and round) \"It is out! It is out! Oh - thank you. Thank you both.\" (a pause) \"I do not even know your names.\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Just then Mama Giraffe came thundering across the plain with Otis behind her. She stopped. She stared. Her daughter was standing in the middle of the path with her head bowed all the way to the ground, talking to a mouse and a tortoise as if they were the most important animals on the whole wide plain. Which, that afternoon, they were."
+    },
+    {
+      "id": "p25",
+      "speaker": "Mama Giraffe",
+      "speakerZh": "长颈鹿妈妈",
+      "text": "(softly, to Otis) \"Who freed her?\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Otis",
+      "speakerZh": "鸵鸟奥蒂斯",
+      "text": "(looking down at his own feet for the very first time) \"The two she never saw.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(lowering her neck until it lay almost flat, nose to nose with Nim) \"Nim. May I ask you something? What does the world look like, down there?\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Nim",
+      "speakerZh": "小田鼠妮姆",
+      "text": "(grinning so wide her whiskers touched her ears) \"Small. And very close. Would you like to see?\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Gemma lowered her head, and Nim climbed up the long warm slope of her neck and sat between her ears. Then Gemma lifted her - up, up, up, higher than any mouse has ever been - and the whole golden plain opened out in front of them: the river, the hills, the first grey curtain of rain walking slowly across the grass."
+    },
+    {
+      "id": "p30",
+      "speaker": "Nim",
+      "speakerZh": "小田鼠妮姆",
+      "text": "(very quietly, holding on with all four paws) \"Oh. It is beautiful.\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Gemma",
+      "speakerZh": "小长颈鹿吉玛",
+      "text": "(smiling up at her) \"Yes. And I would never have seen it properly if I had not looked down first.\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "From that day on, Gemma looked down every morning before she looked far. She learned the names of the ants, and the plum-coloured beetle, and the tree with the curled seed pods. And when the other young giraffes asked her why she was always staring at her own feet, she only smiled and said: \"I am not looking at my feet. I am looking at my friends.\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So here is the secret, little one, before you close your eyes. A long neck can show you the whole horizon, but it is looking down that shows you the ones standing beside you. Being big, or fast, or clever, or tall is never a reason to stop noticing the small things and the small people around you. Respect does not begin with the ones who are as big as you are. It begins with the ones whose eyes are lower than yours - and it starts with one simple, kind look. Good night, little one. Sleep well."
+    }
+  ]
+}
