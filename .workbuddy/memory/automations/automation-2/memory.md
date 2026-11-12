@@ -5,6 +5,18 @@
 
 ## 执行记录
 
+### 2026-11-05（第十次执行 · story-037）
+- **新故事**: story-037「The Little Giraffe Who Forgot to Look Down / 忘了低头看的小长颈鹿」
+- **主题**: 尊重 Respect（全新主题，此前 37 期未用过）
+- **风格**: 卡通矢量 cartoon vector（轮换：035 彩铅手绘 → 036 水彩 → 037 卡通矢量）
+- **发布日**: 2026-11-05（周四）
+- **文件**: data/stories/story-037.json（33 段、15 生词、3 插图锚点 p4/p13/p29）
+- **角色**: Gemma 小长颈鹿 / Mama Giraffe 长颈鹿妈妈 / Otis 鸵鸟 / Nim 小田鼠 / Tuck 老陆龟
+- **插图**: 1 封面 + 3 场景（顺序 ImageGen + 立即 mv + Read 核对；scene-2 首版蹄子未卡进石缝，改「close-up on the ground + hoof pinched inside a narrow crack」重做一次通过，其余一次通过）
+- **Git**: commit 94de2ae, push d87384a..94de2ae main，6 files changed / 256 insertions
+- **提交信息**: "Add Week 37 story: The Little Giraffe Who Forgot to Look Down"
+- **结果**: 推送成功，本地与 origin/main 同步
+
 ### 2026-10-29（第九次执行 · story-036）
 - **新故事**: story-036「The Little Porcupine Who Put Down the Hot Acorn / 放下烫橡果的小豪猪」
 - **主题**: 原谅 Forgiveness（全新主题，此前 36 期未用过）
@@ -133,3 +145,4 @@
 - ImageGen 每次生成约消耗 5-10 积分（工具提示）
 - **多角色插图务必使用否定式 prompt**：「ONLY [动物列表] / NO [常见噪声如 campfire、extra animals]」（story-029 scene-3 教训）
 - 生成复杂场景时，**生成后必须 Read 图片核对**，发现不匹配立即重做
+- **「被困/卡住」类动作易退化**：模型会画成「站在旁边」。prompt 要写局部视角（close-up on the ground）+ 明确物理关系（hoof pinched inside a narrow crack between two flat stones）

@@ -1,0 +1,259 @@
+{
+  "id": "story-038",
+  "title": "The Little Chameleon Who Could Not Hide",
+  "titleZh": "藏不起来的小变色龙",
+  "theme": "自信",
+  "themeEn": "Self-Confidence",
+  "publishDate": "2026-11-12",
+  "coverEmoji": "🦎",
+  "coverImage": "assets/images/story-038-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p4",
+      "image": "assets/images/story-038-scene-1.png",
+      "alt": "A small cheerful chameleon with a curly tail sitting in the middle of one large bright green rainforest leaf, her whole body glowing tangerine orange with three yellow spots along her tail, her big round eyes wide and her mouth in a tiny surprised O shape, a small bright green tree frog with big round toe pads sitting on the twig beside her laughing with his mouth wide open and one hand on his belly, soft green rainforest leaves and hanging vines in the background with warm dappled sunlight, children's book illustration, coloured pencil drawing style, visible soft pencil strokes, textured paper grain, gentle cross-hatching, warm hand-drawn look, rich green and orange palette, ONLY one chameleon and one frog, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p14",
+      "image": "assets/images/story-038-scene-2.png",
+      "alt": "A small chameleon sitting perfectly still on a bare brown branch, her entire body a flat dull grey with no spots and no shine, her head lowered and her eyes half closed, her curly tail hanging limply, a small bright green tree frog sitting a little way along the same branch looking at her with a worried sad expression, the green rainforest behind them soft and slightly blurred, cool muted grey-green light, children's book illustration, coloured pencil drawing style, visible soft pencil strokes, textured paper grain, gentle cross-hatching, quiet melancholy mood, muted grey and olive palette, ONLY one chameleon and one frog, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p26",
+      "image": "assets/images/story-038-scene-3.png",
+      "alt": "A small chameleon glowing brilliantly on a dark branch in the middle of a night-time rainforest storm, her body shimmering scarlet and orange and gold with three yellow spots shining like tiny windows, casting a warm circle of light on the wet leaves around her, a tiny wet baby hummingbird with blurred wings tumbling down out of the dark sky toward her, heavy slanted rain streaks and dark blue-black storm clouds and bending leaves, children's book illustration, coloured pencil drawing style, visible soft pencil strokes, textured paper grain, gentle cross-hatching, dramatic dark background with warm glowing highlights, ONLY one chameleon and one hummingbird, NO other animals, NO humans, NO text"
+    }
+  ],
+  "summary": "In the Rainforest of Ten Thousand Leaves, every chameleon can turn the exact colour of whatever it sits on - everyone except Cleo, who turns orange on a green leaf and turquoise on brown bark. Her colours do not come from what she thinks; they come from what she feels. So when the Great Blending Contest is announced, Cleo decides the only way to hide is to stop feeling anything at all. Day by day she fades to a perfect, careful grey - and becomes the best hider in the forest, and the saddest little chameleon anyone has ever seen. Then a storm turns the canopy black, a baby hummingbird is lost and crying, and thirty perfectly hidden chameleons cannot be found. Cleo must choose: stay invisible and win, or let her heart glow and be seen.",
+  "moral": "Cleo learned that her colours were never broken - they were honest. She had tried to hide by feeling nothing, and all it made her was grey. Being able to hide is a clever thing, but being findable when somebody needs you is a braver thing. You do not have to become invisible to be safe, and you do not have to change your colours to be loved. The light that comes from your own heart is not a mistake to be fixed. It is the very thing that lets the people who need you find you in the dark.",
+  "moralZh": "克莱奥明白了：她的颜色从来没有坏掉——它们只是诚实。她曾想用「什么都不感受」来把自己藏起来，结果只是变成了一片灰。会躲藏是一种聪明，可在有人需要你的时候能被找到，是一种更大的勇敢。你不需要变得隐形才能安全，也不需要改变自己的颜色才能被爱。从你心里透出来的那道光，不是需要被修好的毛病，而恰恰是让需要你的人，在黑暗里找到你的那样东西。",
+  "vocabulary": [
+    { "word": "chameleon", "phonetic": "/kəˈmiːliən/", "meaning": "变色龙" },
+    { "word": "blend", "phonetic": "/blend/", "meaning": "融入；与……混成一片" },
+    { "word": "canopy", "phonetic": "/ˈkænəpi/", "meaning": "树冠层；树顶的枝叶" },
+    { "word": "twig", "phonetic": "/twɪɡ/", "meaning": "细枝；小树枝" },
+    { "word": "shimmer", "phonetic": "/ˈʃɪmə(r)/", "meaning": "微微闪烁；泛起柔光" },
+    { "word": "turquoise", "phonetic": "/ˈtɜːkwɔɪz/", "meaning": "青绿色；绿松石色" },
+    { "word": "scarlet", "phonetic": "/ˈskɑːlət/", "meaning": "猩红色；鲜红色" },
+    { "word": "dull", "phonetic": "/dʌl/", "meaning": "暗淡的；无生气的" },
+    { "word": "squeeze", "phonetic": "/skwiːz/", "meaning": "挤；紧紧闭上（眼睛）" },
+    { "word": "contest", "phonetic": "/ˈkɒntest/", "meaning": "比赛；竞赛" },
+    { "word": "hummingbird", "phonetic": "/ˈhʌmɪŋbɜːd/", "meaning": "蜂鸟" },
+    { "word": "lantern", "phonetic": "/ˈlæntən/", "meaning": "灯笼" },
+    { "word": "honest", "phonetic": "/ˈɒnɪst/", "meaning": "诚实的；真实的" },
+    { "word": "glow", "phonetic": "/ɡləʊ/", "meaning": "发光；泛出暖光" },
+    { "word": "disappear", "phonetic": "/ˌdɪsəˈpɪə(r)/", "meaning": "消失；不见了" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In the Rainforest of Ten Thousand Leaves, where the rain comes every afternoon like a curtain being drawn across the sky, there lived a small chameleon named Cleo. In Cleo's family, everyone could do the same wonderful thing. Sit on a green leaf and turn green. Sit on brown bark and turn brown. Sit on a yellow flower, and - poof - you were yellow, and nobody could see you at all. Everyone could do it. Everyone except Cleo."
+    },
+    {
+      "id": "p2",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(sitting very still on a big green leaf, her eyes squeezed shut) \"Green. Green. I am thinking green. I am thinking about green things - grass, and frogs, and Tavi's knees. Green, green, green...\" (opening one eye) \"Oh no.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Cleo was not green. Cleo was orange. Bright, glowing, tangerine orange, with three yellow spots along her tail, sitting in the middle of a green leaf like a tiny sunset."
+    },
+    {
+      "id": "p4",
+      "speaker": "Tavi",
+      "speakerZh": "小树蛙塔维",
+      "text": "(a small green tree frog, laughing so hard he nearly falls off the twig) \"Orange! Cleo, you are ORANGE! On a green leaf! You are the loudest quiet animal in the whole forest!\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(sighing) \"I know. I know. Yesterday I sat on brown bark and turned turquoise. Turquoise, Tavi. The day before that I sat on a red flower and went the colour of a wet stone.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "\"Try harder,\" said everybody. So Cleo tried harder. She tried holding her breath until her cheeks went purple - and then, unfortunately, all of her went purple. She tried counting to a hundred. She tried counting backwards. Nothing worked. Because Cleo's colours did not come from what she was thinking. They came from what she was feeling. When she was happy she went gold. When she was frightened she went bright blue. And when she was embarrassed, which was most of the time, she went orange with three yellow spots."
+    },
+    {
+      "id": "p7",
+      "speaker": "Nana Peri",
+      "speakerZh": "老变色龙佩里奶奶",
+      "text": "(an old chameleon with kind, slow eyes) \"Little one, the Great Blending Contest is in six days. Every young chameleon must hide in the leaves. The one nobody can find wins the leaf crown.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "\"I will never win, Nana. I will be the only one left standing there like a lamp somebody forgot to blow out.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So Cleo practised. All day, every day. She sat on moss. She sat on twigs. She sat on the grey stone by the stream, which is the easiest thing in the world to be - and she turned scarlet."
+    },
+    {
+      "id": "p10",
+      "speaker": "Tavi",
+      "speakerZh": "小树蛙塔维",
+      "text": "(gently, for once not laughing) \"Cleo. You are scarlet now.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(very quietly) \"I know what is wrong with me. The others think with their skin. I feel with mine. So I am going to stop feeling.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Tavi",
+      "speakerZh": "小树蛙塔维",
+      "text": "(blinking) \"Stop... feeling?\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "\"If I feel nothing, nothing can show. No gold. No blue. No spots. Just quiet, dull grey - and grey can hide anywhere.\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And that is exactly what Cleo did. She stopped laughing at Tavi's jokes. She stopped gasping at the rain. She stopped asking questions, and singing, and being surprised by anything at all. Slowly, day by day, her bright colours faded, like a painting left out in the sun. By the morning of the contest, Cleo was a soft, careful, perfect grey. She could sit on a stone and disappear. She could sit on a leaf and disappear. She was the best hider in the whole forest - and the stillest, and the quietest, and the saddest little chameleon anybody had ever seen."
+    },
+    {
+      "id": "p15",
+      "speaker": "Tavi",
+      "speakerZh": "小树蛙塔维",
+      "text": "(hopping up beside her on the branch) \"Cleo. Cleo, look - the rain is coming sideways today. Look at it! It is coming in sheets, like washing on a line!\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(not turning her head) \"Yes. It is raining.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Tavi",
+      "speakerZh": "小树蛙塔维",
+      "text": "(his voice going very small) \"You used to say the rain sounded like a hundred tiny drums. You used to say that.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "\"I do not say things like that any more. Things like that make me gold - and gold cannot hide.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The contest began at noon. One by one the young chameleons climbed into the great leafy canopy and vanished - green into green, brown into brown, a spotty one into a spotty branch. The judges walked underneath, squinting up. \"Nothing here.\" \"Nothing here.\" Then they came to Cleo's branch. Cleo sat perfectly grey and perfectly still, and the judges looked straight through her. \"Nothing here either,\" they said, and moved on."
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then the sky went black. Not evening black - storm black. The wind hit the canopy like a giant hand, and the rain came down so hard that the whole forest turned into one grey roaring sound."
+    },
+    {
+      "id": "p21",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Somewhere above the noise, a very small voice began to cry. It was Mimi, the baby hummingbird, who had learned to fly only nine days ago and did not yet know how to fly in wind. She was blown from leaf to leaf, and every leaf was dark, and every dark place was full of chameleons who were hiding perfectly and could not be seen."
+    },
+    {
+      "id": "p22",
+      "speaker": "Mimi",
+      "speakerZh": "小蜂鸟米米",
+      "text": "(crying into the rain) \"Hello? Hello! I cannot see anybody! Is anybody there? Please - is anybody there?\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And that was the trouble, of course. Everybody was there. That was the whole point of the contest. In the dark, on the darkest afternoon of the year, thirty chameleons were hidden so well that not one of them could be found - and one lost little bird needed only one of them to be seen."
+    },
+    {
+      "id": "p24",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(very still, very grey, thinking to herself) \"If I move, I lose. If I glow, I lose everything. Six days I practised being nothing. Six days.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then Mimi cried again, and something inside Cleo's chest turned over, warm and quick, the way it always did. And Cleo stopped holding it back. She let herself be frightened for the little bird. She let herself want - more than she had ever wanted any leaf crown - to be found."
+    },
+    {
+      "id": "p26",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Gold came first, up from the tip of her tail. Then orange. Then a warm, shimmering scarlet, with three yellow spots burning like tiny windows. Cleo lit up on the black branch like a lantern somebody had forgotten to put out."
+    },
+    {
+      "id": "p27",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(shouting into the storm) \"Mimi! Here! Down here! Follow the light - I am right here!\""
+    },
+    {
+      "id": "p28",
+      "speaker": "Mimi",
+      "speakerZh": "小蜂鸟米米",
+      "text": "(a tiny wet blur tumbling out of the dark and landing on Cleo's back) \"I see you! I see you! Oh, you are so bright - I could see you from the whole sky away!\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The storm passed. The judges came back. And when they reached Cleo's branch they found, sitting in the middle of it, the only chameleon in the whole forest who had not hidden at all - a small glowing scarlet-and-gold chameleon with a baby hummingbird asleep on her back. Cleo did not win the leaf crown. She came last. Every single judge could see her from ten paces away."
+    },
+    {
+      "id": "p30",
+      "speaker": "Nana Peri",
+      "speakerZh": "老变色龙佩里奶奶",
+      "text": "(climbing up beside her, smiling) \"Well. You came last, little one. Last of thirty.\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Cleo",
+      "speakerZh": "小变色龙克莱奥",
+      "text": "(looking at the sleeping hummingbird on her back) \"I know.\" (a pause) \"But Mimi found me.\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Nana Peri",
+      "speakerZh": "老变色龙佩里奶奶",
+      "text": "\"Yes. She did. Now listen, because this is the only thing I know that is worth knowing. Your colours were never broken, little one. They were honest. A chameleon who can hide is clever. But a chameleon who can be seen when somebody needs her - that is something better than clever.\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Tavi",
+      "speakerZh": "小树蛙塔维",
+      "text": "(grinning so wide his eyes nearly shut) \"So... can you teach us the lantern trick?\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Cleo laughed - really laughed, the kind that starts in your tail and ends in your toes - and every scale on her body went gold at once, bright enough to make the wet leaves shine. All the young chameleons on all the branches turned to look at her. Not because she was hiding. Because she was not."
+    },
+    {
+      "id": "p35",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So here is the secret, little one, before you close your eyes. Your colours were never broken either. They were honest. You do not have to become invisible to be safe, and you do not have to change your colours to be loved. The light that comes out of your own heart is not a mistake to be fixed - it is the very thing that lets the people who need you find you in the dark. Good night, little one. Sleep well, and shine."
+    }
+  ]
+}
