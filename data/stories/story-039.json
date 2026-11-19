@@ -1,0 +1,271 @@
+{
+  "id": "story-039",
+  "title": "The Little Puffin Who Found the Silver Lining",
+  "titleZh": "找到一线银光的小海鹦",
+  "theme": "乐观",
+  "themeEn": "Optimism",
+  "publishDate": "2026-11-19",
+  "coverEmoji": "🐧",
+  "coverImage": "assets/images/story-039-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p4",
+      "image": "assets/images/story-039-scene-1.png",
+      "alt": "A thick white sea fog rolling in over a tall grassy cliff by the cold northern ocean, a small round puffin with a bright orange-and-black striped beak, white face and black back standing at the very edge of the cliff looking out into the grey-white nothing, his little orange feet planted on the wet green grass, behind him a few low grassy burrows and round stones, soft grey fog swallowing the sea and the sky so there is no horizon at all, cool pale grey and soft green palette, gentle misty light, children's book illustration, soft watercolour painting, wet-on-wet washes, delicate paper texture, soft bleeding edges, ONLY one puffin, NO other birds, NO humans, NO boats, NO text"
+    },
+    {
+      "paragraphId": "p14",
+      "image": "assets/images/story-039-scene-2.png",
+      "alt": "A small round puffin sitting alone on wet dark rock at night, hunched over with his head lowered and his bright striped beak pointing down, his feathers damp and ruffled, a single tiny round puddle beside him reflecting pale grey moonlight, thick fog pressing close all around him so nothing else is visible, a few wet blades of grass bent over, quiet lonely mood, deep blue-grey and muted teal palette with one small warm glow from his orange beak, children's book illustration, soft watercolour painting, wet-on-wet washes, delicate paper texture, soft bleeding edges, ONLY one puffin, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p27",
+      "image": "assets/images/story-039-scene-3.png",
+      "alt": "A wide calm sea turned to a sheet of shining silver by thick fog, four small round puffins standing in a row on a flat wet rock at the water's edge, all facing the silver water with their bright orange-and-black striped beaks and orange feet glowing against the grey, their soft reflections stretching down into the silver sea, faint silver light glowing from above through the fog, cool silver-grey palette with vivid orange accents, quiet wonder, children's book illustration, soft watercolour painting, wet-on-wet washes, delicate paper texture, soft bleeding edges, ONLY four puffins, NO seals, NO gulls, NO other birds, NO humans, NO boats, NO text"
+    }
+  ],
+  "summary": "On Puffin Cliff, far up in the cold northern sea, all the puffins wait a whole year for the Great Sun Festival - the one autumn morning when the sun rises exactly between the two far islands and turns the water to gold. Pim has been counting down for months. But the night before the festival, a thick white sea fog rolls in and does not leave. For three days there is no sun, no sea, and no horizon at all. Old Grumble the seal says the whole year is ruined, and one by one the puffins believe him. Pim keeps finding small good things in the grey - until even Pim's cheer runs thin, and he has to admit, in the dark, that he is disappointed too. Then on the grey festival morning, standing at the edge of the cliff, Pim sees something nobody else has noticed: fog does not only hide things. It also makes them shine.",
+  "moral": "Pim learned that being cheerful is not the same as pretending nothing is wrong. He was sad about the missing sun, and he said so - and the fog did not go away just because he looked on the bright side. But looking for what was still good did not make the grey day a lie. It just meant he was not alone in it, and that he was still awake when the silver came. You are allowed to be disappointed and still look. Optimism is not saying the rain is not wet. It is saying: the rain is wet, and look how it shines on everything.",
+  "moralZh": "皮姆明白了：开心，不等于假装什么事都没发生。太阳没来，他确实难过，他也把这份难过说了出来——而且雾并没有因为「往好处想」就散掉。可在灰色里寻找还剩下的好东西，并不等于自欺欺人；它只是让他没有一个人待在灰里，也让他在银光出现的那一刻还醒着。你可以失望，同时仍然愿意去看。乐观不是硬说雨不湿，而是说：雨是湿的——你看，它把每样东西都擦亮了。",
+  "vocabulary": [
+    { "word": "puffin", "phonetic": "/ˈpʌfɪn/", "meaning": "海鹦；角嘴海雀" },
+    { "word": "cliff", "phonetic": "/klɪf/", "meaning": "悬崖；峭壁" },
+    { "word": "burrow", "phonetic": "/ˈbʌrəʊ/", "meaning": "洞穴；（动物挖的）地洞" },
+    { "word": "fog", "phonetic": "/fɒɡ/", "meaning": "雾" },
+    { "word": "drizzle", "phonetic": "/ˈdrɪzl/", "meaning": "毛毛雨；下细雨" },
+    { "word": "grumble", "phonetic": "/ˈɡrʌmbl/", "meaning": "抱怨；嘟囔" },
+    { "word": "horizon", "phonetic": "/həˈraɪzn/", "meaning": "地平线；海天相接处" },
+    { "word": "festival", "phonetic": "/ˈfestɪvl/", "meaning": "节日；庆典" },
+    { "word": "damp", "phonetic": "/dæmp/", "meaning": "潮湿的；微湿的" },
+    { "word": "drift", "phonetic": "/drɪft/", "meaning": "飘荡；缓缓移动" },
+    { "word": "gloom", "phonetic": "/ɡluːm/", "meaning": "阴沉；忧郁的气氛" },
+    { "word": "peek", "phonetic": "/piːk/", "meaning": "偷看；探出头来" },
+    { "word": "glisten", "phonetic": "/ˈɡlɪsn/", "meaning": "闪闪发亮（因为湿或光）" },
+    { "word": "stubborn", "phonetic": "/ˈstʌbən/", "meaning": "固执的；不肯让步的" },
+    { "word": "tide", "phonetic": "/taɪd/", "meaning": "潮水；潮汐" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Far up in the cold northern sea, where the wind smells of salt and the water is the colour of old blue glass, there is a tall green cliff called Puffin Cliff. All summer long the puffins live there in soft grassy burrows, and all summer long they talk about one single morning: the Great Sun Festival. Once every autumn, on one particular morning, the sun rises exactly between the two far islands and the whole sea turns to gold. There is no other morning like it in the entire year."
+    },
+    {
+      "id": "p2",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "(standing at the very edge of the cliff, flapping his little wings) \"Three hundred and sixty-four sleeps! I have counted every single one! Tomorrow is the Great Sun Festival!\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "(a small sandpiper with long quick legs, hopping from stone to stone) \"Pim, you count sleeps the way other birds count fish. Do you think the sun will really come right between the islands?\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night, while every puffin on the cliff was dreaming of gold, something quiet came in off the sea. It was not a storm. It was not rain. It was fog - thick, white, patient sea fog, rolling up the cliff like a hundred thousand soft grey blankets, until it swallowed the rocks, and the grass, and the water, and the sky, and the place where the sky and the water meet. In the morning there was no horizon at all."
+    },
+    {
+      "id": "p5",
+      "speaker": "Grumble",
+      "speakerZh": "老灰海豹格伦博",
+      "text": "(a big grey seal hauled up on the flat rocks below, his voice like a door creaking) \"Well. There it is. There is the whole year, gone. Three hundred and sixty-four sleeps, and the sun cannot be bothered to get up.\""
+    },
+    {
+      "id": "p6",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "(peering into the white) \"It is only fog, Grumble. Fog is just a cloud that came down to visit. It will float off again by lunchtime, you will see.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Grumble",
+      "speakerZh": "老灰海豹格伦博",
+      "text": "(snorting) \"It will not. I have been sitting on this rock for thirty-one years, little bird, and I know a stubborn fog when I smell one. This one has come to stay.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lunchtime came. The fog did not float off. Evening came, and the fog was still there, soft and white and absolutely everywhere. The next morning it was thicker. A thin cold drizzle began to fall through it, so that everything - feathers, rocks, grass, whiskers - was damp within a minute of waking."
+    },
+    {
+      "id": "p9",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "(sitting on a wet stone, head tilted, listening) \"Tilly. Tilly, come here. Stand still and listen.\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "(standing very still, one leg up) \"I cannot hear anything at all.\""
+    },
+    {
+      "id": "p11",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "\"Exactly! No wind, no waves crashing, no gulls shouting. The fog has made the whole world quiet. It is like being inside a shell.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Grumble",
+      "speakerZh": "老灰海豹格伦博",
+      "text": "(from the rocks below) \"Quiet is just noise that gave up. And you, little bird, are being silly. Every puffin on this cliff is inside their burrow being miserable, and you are out here being cheerful at a cloud.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "(quietly, when Grumble had gone back to sleep) \"Pim. Why are you always like this? Even when everything is grey, you find something. How do you do it?\""
+    },
+    {
+      "id": "p14",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "(a long pause; his wings go still) \"I am not always like this, Tilly. I wanted the sun too. I have wanted it for three hundred and sixty-four sleeps.\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "That night the fog pressed right up against the burrows, and the drizzle turned the grass to soup. Pim sat outside on the wet rock in the dark, all by himself, and did not say anything cheerful at all. His feathers were damp and flat. His bright striped beak, which usually looked like a painted toy, looked grey in the gloom."
+    },
+    {
+      "id": "p16",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "(very quietly, to nobody) \"I wanted to see it turn gold. That is all. I just wanted to see it turn gold.\""
+    },
+    {
+      "id": "p17",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "(sitting down beside him, close, without a word at first) \"You are allowed to be sad, you know. Being the cheerful one does not mean you are not allowed.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "\"I know. I am sad. There. I said it.\" (a small wet laugh) \"It does not make the fog go away, does it?\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "\"No. It does not.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "\"Good. Then I will stop pretending it should. But I am not going to sit in my burrow either, because the sun is not the only thing in the world.\""
+    },
+    {
+      "id": "p21",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Festival morning came, and it was grey. Not stormy, not terrible - just grey, and white, and soft, with the drizzle drifting down and the tide sighing in and out below the cliff. Old Marrow the herring gull stood on the highest stone and looked out at nothing."
+    },
+    {
+      "id": "p22",
+      "speaker": "Old Marrow",
+      "speakerZh": "老海鸥马罗",
+      "text": "(in his slow, cracked voice) \"No sun today. Not one feather of it. The Great Sun Festival will have to wait for next year.\""
+    },
+    {
+      "id": "p23",
+      "speaker": "Grumble",
+      "speakerZh": "老灰海豹格伦博",
+      "text": "\"Told you. Thirty-one years I have sat on this rock, and I have never once been wrong about the weather.\""
+    },
+    {
+      "id": "p24",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One by one the puffins turned to go back down into their burrows. Pim did not turn. He was standing at the edge of the cliff with his head on one side, the way he did when he was listening to something nobody else could hear."
+    },
+    {
+      "id": "p25",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "(suddenly, loudly) \"Wait! Everybody wait! Come and look at the water!\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "(running back) \"Pim, it is just grey water. It is grey water and grey fog and - \" (she stops) \"...oh.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The sea was not grey. With no sun to glare on it and no wind to chop it up, the water had gone perfectly flat, and the fog above it was glowing faintly white, and the whole wide sea had turned into one enormous sheet of silver. It stretched away and away until it simply melted into the sky. And every puffin standing on the flat wet rock at the edge of it was reflected in the silver, upside down, beak and all."
+    },
+    {
+      "id": "p28",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "\"The sun is not here. I know it is not here. But look what the fog did instead. It took the gold away - and it gave us a mirror.\""
+    },
+    {
+      "id": "p29",
+      "speaker": "Grumble",
+      "speakerZh": "老灰海豹格伦博",
+      "text": "(sliding off his rock and peering into the water, very gruff) \"Well.\" (a pause) \"Well. That is... not terrible. That is not terrible at all.\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So instead of a Sun Festival, Puffin Cliff had a Silver Festival. The puffins slid down the wet grass on their bellies and splashed into the shining water. They peeked over the edge of the rocks at their own upside-down faces. They found that in the grey light their orange beaks looked brighter than they ever did in the sun, like little painted lanterns, and they stood in a row on the flat rock just to look at each other."
+    },
+    {
+      "id": "p31",
+      "speaker": "Grumble",
+      "speakerZh": "老灰海豹格伦博",
+      "text": "(floating on his back in the silver water, trying very hard not to look happy) \"This is the worst festival I have ever attended. I am having a horrible time.\" (he rolls over and splashes Tilly with his tail) \"Absolutely horrible.\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then, just before noon, a small warm breeze came up off the sea and the fog began to lift. It went slowly, the way fog does, sliding off the water in long soft strips. And when the sun finally got through, low and gold and late, it did not shine on a plain grey sea. It shone on a sea that was already wet and shining and silver, and the whole world lit up twice at once, as if somebody had turned on every lamp in the sky."
+    },
+    {
+      "id": "p33",
+      "speaker": "Old Marrow",
+      "speakerZh": "老海鸥马罗",
+      "text": "(very softly, watching the light) \"There it is. Late. And better than usual, I think.\" (he turns to Pim) \"Little puffin. Come here. I want to tell you the one thing I know about cheerfulness, because most birds get it wrong.\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Pim",
+      "speakerZh": "小海鹦皮姆",
+      "text": "\"What do they get wrong?\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Old Marrow",
+      "speakerZh": "老海鸥马罗",
+      "text": "\"They think it means saying the rain is not wet. It does not. The rain is wet. The fog is cold. The sun was late today and you were sad about it, and you were right to be. But you did not go and hide in your burrow and shut your eyes. You stayed out in the grey and kept looking - and so you were the one who was awake when the silver came.\""
+    },
+    {
+      "id": "p36",
+      "speaker": "Tilly",
+      "speakerZh": "小矶鹬蒂莉",
+      "text": "(grinning, hopping up beside Pim) \"So next year, can we have both festivals? Gold in the morning, silver in the afternoon?\""
+    },
+    {
+      "id": "p37",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Pim laughed, and all the puffins on Puffin Cliff laughed with him, and even Grumble made a noise like a door creaking that everybody decided to count as a laugh. And here is the secret, little one, before you close your eyes. You are allowed to be disappointed. You are allowed to say the day is grey out loud. But do not go and hide in your burrow and shut your eyes - because the silver does not come to the ones who stopped looking. It comes to the ones who stayed out in the weather, still awake, still watching the water. Good night, little one. Sleep well, and keep looking."
+    }
+  ]
+}
