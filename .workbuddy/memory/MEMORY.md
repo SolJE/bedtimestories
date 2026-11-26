@@ -42,14 +42,18 @@
 | story-037 | The Little Giraffe Who Forgot to Look Down | 尊重 | 2026-11-05 | ✅ |
 | story-038 | The Little Chameleon Who Could Not Hide | 自信 | 2026-11-12 | ✅ |
 | story-039 | The Little Puffin Who Found the Silver Lining | 乐观 | 2026-11-19 | ✅ |
+| story-040 | The Little Lemur Who Chose the Morning | 自律 | 2026-11-26 | ✅ |
 
 ## 最新故事
-- **ID**: story-039
-- **标题**: The Little Puffin Who Found the Silver Lining / 找到一线银光的小海鹦
-- **主题**: 乐观 (Optimism)
-- **日期**: 2026-11-19
-- **角色**: Pim（小海鹦）、Tilly（小矶鹬）、Grumble（老灰海豹）、Old Marrow（老海鸥）
-- **已配图**: 1 封面 + 3 场景（水彩风格，ImageGen 顺序生成 + 逐张 Read 核对，4 张全部一次通过；锚点 p4/p14/p27）
+- **ID**: story-040
+- **标题**: The Little Lemur Who Chose the Morning / 选择清晨的小狐猴
+- **主题**: 自律 (Self-Discipline)
+- **日期**: 2026-11-26
+- **角色**: Lulu（小环尾狐猴）、Bibi（小鼠狐猴）、Grandpa Koto（老狐猴科托）
+- **已配图**: 1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成 + 逐张 Read 核对，4 张全部一次通过；锚点 p3/p16/p37）
+
+## story-039 已配图
+- 1 封面 + 3 场景（水彩风格，ImageGen 顺序生成 + 逐张 Read 核对，4 张全部一次通过；锚点 p4/p14/p27）
 
 ## story-019 已配图
 - 1 封面 + 3 场景（卡通矢量风格）
@@ -73,7 +77,7 @@
 - **数据扩展**：story JSON 新增可选字段 `coverImage` 和 `illustrations`
 - **插图存储**：`assets/images/story-XXX-*.png`
 - **风格轮换**：水彩绘本 → 卡通矢量 → 彩铅手绘，每周轮流
-- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量 → story-029 彩铅手绘 → story-030 水彩 → story-031 卡通矢量 → story-032 彩铅手绘 → story-033 水彩 → story-034 卡通矢量 → story-035 彩铅手绘 → story-036 水彩 → story-037 卡通矢量 → story-038 彩铅手绘 → story-039 水彩
+- **风格轮换记录**：story-015 水彩 → story-016 卡通矢量 → story-017 彩铅手绘 → story-018 水彩 → story-019 卡通矢量 → story-020 彩铅手绘 → story-021 水彩 → story-022 卡通矢量 → story-023 彩铅手绘 → story-024 水彩 → story-025 卡通矢量 → story-026 彩铅手绘 → story-027 水彩 → story-028 卡通矢量 → story-029 彩铅手绘 → story-030 水彩 → story-031 卡通矢量 → story-032 彩铅手绘 → story-033 水彩 → story-034 卡通矢量 → story-035 彩铅手绘 → story-036 水彩 → story-037 卡通矢量 → story-038 彩铅手绘 → story-039 水彩 → story-040 卡通矢量
 - **story-037 已配图**：1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成 + 逐张 Read 核对；scene-2 因「蹄子未卡进石缝」重做一次）
 - **story-034 已配图**：1 封面 + 3 场景（卡通矢量风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
 - **story-035 已配图**：1 封面 + 3 场景（彩铅手绘风格，ImageGen 顺序生成 + 逐张 Read 核对，全部一次通过）
