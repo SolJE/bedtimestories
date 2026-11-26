@@ -1,0 +1,319 @@
+{
+  "id": "story-040",
+  "title": "The Little Lemur Who Chose the Morning",
+  "titleZh": "选择清晨的小狐猴",
+  "theme": "自律",
+  "themeEn": "Self-Discipline",
+  "publishDate": "2026-11-26",
+  "coverEmoji": "🐒",
+  "coverImage": "assets/images/story-040-cover.png",
+  "illustrations": [
+    {
+      "paragraphId": "p3",
+      "image": "assets/images/story-040-scene-1.png",
+      "alt": "A small ring-tailed lemur with a soft grey body, a white face with dark patches around her bright eyes, and a long black-and-white ringed tail held straight up, standing on a thick branch of an enormous fat baobab tree at first light, her chest puffed out and her mouth open in a proud happy shout, beside her an old lemur with tufty white ears and a gnarled wooden staff, both looking out over a strange dry forest of tall spiny trees that look like upside-down brooms, pale pink and gold dawn sky behind them, children's book illustration, flat vector cartoon style, bold clean outlines, smooth solid colour fills, simple shapes, cheerful bright palette of warm gold, dusty green and soft pink, ONLY two lemurs, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p16",
+      "image": "assets/images/story-040-scene-2.png",
+      "alt": "A small ring-tailed lemur sitting alone in the wide fork of a baobab branch in bright high morning sunlight, her shoulders slumped, one paw rubbing her sleepy eye, her long black-and-white ringed tail drooping down over the branch, the branch beside her completely empty, a few fallen leaves and a thin line drawn in the sand below, strong golden sunlight and long shadows, the spiny forest stretching away behind her, children's book illustration, flat vector cartoon style, bold clean outlines, smooth solid colour fills, simple shapes, warm palette of gold, dusty green and pale sky blue with a lonely quiet mood, ONLY one lemur, NO other animals, NO humans, NO text"
+    },
+    {
+      "paragraphId": "p37",
+      "image": "assets/images/story-040-scene-3.png",
+      "alt": "A small ring-tailed lemur standing at the very top of a huge baobab tree in the grey-blue light just before sunrise, her chest lifted and her mouth open singing the first note, her long ringed tail curving behind her, beside her on the same branch a tiny mouse lemur with enormous shining black eyes and small round ears looking up at her, far below on a wide flat rock a great crowd of small lemurs gathered together looking up, a thin pale grey line of light along the distant horizon, deep blue and soft grey sky with a warm golden glow starting at the edge, children's book illustration, flat vector cartoon style, bold clean outlines, smooth solid colour fills, simple shapes, cool blue-grey palette with one warm gold accent, ONLY one ring-tailed lemur and one tiny mouse lemur on the branch, NO other animals near them, NO humans, NO text"
+    }
+  ],
+  "summary": "Every morning before the sun, the ring-tailed lemurs of the Spiny Forest climb the Old Baobab and sing the Sun Song - and the Caller sings the very first note, all alone. This season the Caller is Lulu, and Lulu is sure she will be the best Caller there has ever been. There is only one problem: Lulu's best friend Bibi is a mouse lemur, and Bibi is awake all night long. One game of Star Tag becomes three, three becomes a beetle race, and three mornings in a row the Sun Song rises without Lulu in it. With the great Long Night Dawn only one day away, Lulu has to learn something harder than singing: how to stop playing, go to bed, and get up. And she discovers that keeping a promise to yourself is not a race you have to run alone.",
+  "moral": "Lulu learned that self-discipline is not about being the strongest or the most stubborn. It is about choosing what you want most over what you want right now - and she found out that this is much harder at night than it looks in the morning. She also learned that she did not have to do it with willpower alone. She made a small plan, she drew a line in the sand, and she asked her friend to help her keep it. That is not cheating. That is being clever about your own weak spot. Wanting something is the easy part. Waking up is the work - and you are allowed to ask someone to knock on your door.",
+  "moralZh": "露露明白了：自律不是比谁力气大、谁更倔，而是在「现在想要的」和「最想要的」之间，选后面那个——她也发现，这件事在夜里做起来，比在早上想起来难得多。她还明白了，她不必只靠意志力硬扛：她定了一个小计划，在沙地上划了一条线，还请朋友来帮她守住这条线。这不算作弊，这叫对自己的弱点聪明一点。想要一件事，是最容易的部分；真正要下功夫的，是醒来——而且，你完全可以让别人来敲你的门。",
+  "vocabulary": [
+    { "word": "baobab", "phonetic": "/ˈbeɪəbæb/", "meaning": "猴面包树（树干极粗的非洲大树）" },
+    { "word": "spiny", "phonetic": "/ˈspaɪni/", "meaning": "多刺的；长满尖刺的" },
+    { "word": "troop", "phonetic": "/truːp/", "meaning": "（猴子、狐猴等的）一群" },
+    { "word": "dawn", "phonetic": "/dɔːn/", "meaning": "黎明；天亮" },
+    { "word": "honor", "phonetic": "/ˈɒnə/", "meaning": "荣誉；光荣的事" },
+    { "word": "twitch", "phonetic": "/twɪtʃ/", "meaning": "抽动；抖动" },
+    { "word": "tempt", "phonetic": "/tempt/", "meaning": "引诱；诱惑" },
+    { "word": "resist", "phonetic": "/rɪˈzɪst/", "meaning": "抵抗；忍住" },
+    { "word": "willpower", "phonetic": "/ˈwɪlpaʊə/", "meaning": "意志力" },
+    { "word": "habit", "phonetic": "/ˈhæbɪt/", "meaning": "习惯" },
+    { "word": "drowsy", "phonetic": "/ˈdraʊzi/", "meaning": "昏昏欲睡的；困倦的" },
+    { "word": "rustle", "phonetic": "/ˈrʌsl/", "meaning": "（树叶、干草）沙沙作响" },
+    { "word": "barely", "phonetic": "/ˈbeəli/", "meaning": "几乎不；勉强" },
+    { "word": "dusk", "phonetic": "/dʌsk/", "meaning": "黄昏；傍晚" },
+    { "word": "pledge", "phonetic": "/pledʒ/", "meaning": "誓言；郑重承诺" }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "In the far south of a great island called Madagascar, there is a forest that does not look like a forest at all. The trees are thin and tall and covered in thorns, like upside-down brooms standing on their heads, and between them stand enormous fat baobab trees with bark like an elephant's knee. This is the Spiny Forest. Every single morning, long before the sun, a troop of ring-tailed lemurs climbs the biggest baobab of all - the Old Baobab - and sings the Sun Song. And the Caller sings the very first note. Alone."
+    },
+    {
+      "id": "p2",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "(an old lemur with tufty white ears and a staff of twisted wood, tapping the branch three times) \"Lemurs of the Old Baobab! Listen. It is time to choose this season's Caller. The Caller must be awake before the sun. The Caller sings the first note, and then the whole forest sings with them. This season, the Caller will be - Lulu.\""
+    },
+    {
+      "id": "p3",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(her tail shooting straight up, all eleven black-and-white rings of it, her voice very loud) \"Me? ME? Grandpa Koto, I will be the best Caller there has ever been! I will sing so loud the sun will come up early and be surprised!\""
+    },
+    {
+      "id": "p4",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "(chuckling, very softly) \"The Caller does not have to be the loudest, little one. The Caller only has to be awake.\""
+    },
+    {
+      "id": "p5",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Now, there was one problem with Lulu being the Caller, and the problem had very big eyes and a very small body. Bibi the mouse lemur was Lulu's best friend in the whole forest, and Bibi was awake all night. Every night. While the troop slept with their tails over their noses, Bibi raced through the spiny branches like a little grey wind, because that is simply how mouse lemurs are made."
+    },
+    {
+      "id": "p6",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(hanging upside down from a thorn branch, her eyes two black moons) \"Lulu! Lulu! Are you asleep? Do not be asleep. The moon is out, the beetles are racing, and you are missing absolutely everything.\""
+    },
+    {
+      "id": "p7",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(yawning so wide her ears moved) \"Bibi. It is the middle of the night.\""
+    },
+    {
+      "id": "p8",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "\"It is the best part of the night! Come on. One game of Star Tag. Just one. Then you can sleep for a hundred years.\""
+    },
+    {
+      "id": "p9",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(already climbing down) \"All right. Just one game. And then I sleep, Bibi. I am the Caller now. I have to be awake before the sun.\""
+    },
+    {
+      "id": "p10",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "One game became three. Three became a beetle race. The beetle race became a contest to see who could hang from the highest thorn without laughing, and the contest went on for a very long time, because neither of them stopped laughing. When the sky finally turned grey, Lulu was fast asleep in the soft fork of a branch with her tail wrapped around her nose. The troop sang the Sun Song without her. When she woke up, the sun was high, the branch was empty, and everything was warm and much too late."
+    },
+    {
+      "id": "p11",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "(gently, not crossly at all, which was somehow worse) \"The sun waited for you this morning, Lulu. You did not wait for the sun.\""
+    },
+    {
+      "id": "p12",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "\"I will be there tomorrow! I pledge it! Tonight I will go to sleep when the moon is high, and I will not even look at Bibi, and I will be the first lemur on the branch.\""
+    },
+    {
+      "id": "p13",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "But when dusk came, Bibi came too, and Bibi had invented a brand new game."
+    },
+    {
+      "id": "p14",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(bouncing on the branch, breathless with excitement) \"It is called Falling Leaf! You have to catch a leaf before it touches the ground, and the one who catches the most leaves wins, and there are exactly one hundred leaves, and I have already counted them all!\""
+    },
+    {
+      "id": "p15",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(her feet already moving before her head could say no) \"...Just one leaf. Just one leaf, Bibi, and then I go to sleep.\""
+    },
+    {
+      "id": "p16",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She did not sleep. Not that night, and not the next one either. Three mornings in a row the Sun Song rose up from the Old Baobab without Lulu in it, and three mornings in a row she woke up alone in a warm empty branch, rubbing her eyes while the whole forest was already busy. Her tail had stopped standing up proudly. Now it just drooped, and the eleven rings of it hung down over the branch like a piece of rope."
+    },
+    {
+      "id": "p17",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "(on the fourth evening, very quiet) \"Lulu. Tomorrow is the Long Night Dawn. Once a year, all seven troops of the Spiny Forest come to the Great Flat Rock, and one Caller sings the first note for all of them. Every lemur in the forest will hear it. If you are not awake, Ravi will sing it instead.\""
+    },
+    {
+      "id": "p18",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(her tail curling up very small) \"But I want to sing it. Grandpa, I want it more than anything.\""
+    },
+    {
+      "id": "p19",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "\"I know you do. Wanting is the easy part, little one. Waking is the work.\""
+    },
+    {
+      "id": "p20",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "So that night Lulu did everything right. She found the softest fork in the baobab. She ate her supper early. And she drew a line in the sand with one careful claw, and she said out loud, \"When the moon touches the top of the baobab, I stop.\" Then she lay down, closed her eyes, and discovered the truly unfair thing about being eight years old: her body did not get the message. Her tail twitched. Her ears would not stop listening to the rustle of the thorns."
+    },
+    {
+      "id": "p21",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(to herself, eyes wide open in the dark) \"This is the worst. I am doing everything right, and my own tail is not on my side.\""
+    },
+    {
+      "id": "p22",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Then she heard small feet on the bark. Bibi landed on the branch, out of breath, her eyes shining brighter than the moon."
+    },
+    {
+      "id": "p23",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "\"Lulu! Lulu, wake up! The fireflies are dancing at the river! All of them at once, thousands of them, and it only happens one night in the whole year, and you have never seen anything like it, I promise, I absolutely promise - \""
+    },
+    {
+      "id": "p24",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(a long pause; her tail lifting all by itself) \"...No, Bibi. Not tonight.\""
+    },
+    {
+      "id": "p25",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(staring at her) \"But it is the best night of the whole year. You always come. You are the fun one, Lulu. You are the fun one.\""
+    },
+    {
+      "id": "p26",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(her voice wobbling, because it is very hard to say no to your best friend) \"I know. That is the problem. I want to come. I want to come so much that my feet are already on the branch. But tomorrow I have to be awake before the sun, and if I come tonight, I will not be. And I want to be the Caller more than I want the fireflies.\""
+    },
+    {
+      "id": "p27",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(hurt, backing away into the dark) \"Then you are no fun anymore.\" (and she was gone)"
+    },
+    {
+      "id": "p28",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "Lulu sat alone in the dark, and it felt awful. Her tail twitched. Her ears still listened. She had said no, and the night was still there, and the fireflies were still dancing somewhere without her. But as she sat there, she thought of something. She had been trying to be strong all by herself, as though waking up were a race she had to run alone. And she knew somebody who was awake all night. Every single night. Lulu jumped up so fast she nearly fell off the branch."
+    },
+    {
+      "id": "p29",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(calling into the dark as loud as she could) \"Bibi! Bibi, wait! Come back! I have a deal!\""
+    },
+    {
+      "id": "p30",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(a very small voice from inside a thorn bush) \"...What deal.\""
+    },
+    {
+      "id": "p31",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "\"You are awake all night. I am not. So be my dawn bell. When the sky turns grey, before the sun, come and pull my tail. Pull it hard. Pull it until I stand up.\""
+    },
+    {
+      "id": "p32",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(peeking out of the bush, blinking) \"You want me to wake you up?\" (a pause) \"...That is a job?\""
+    },
+    {
+      "id": "p33",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "\"It is the most important job in the whole forest. Nobody else can do it. Everyone else is asleep.\""
+    },
+    {
+      "id": "p34",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(very slowly, a smile arriving like sunrise) \"I am the Dawn Bell. I am the Dawn Bell of the Spiny Forest.\" (then, quieter) \"Lulu? I have never seen the sun come up. I am always asleep by then. Every single morning of my whole life.\""
+    },
+    {
+      "id": "p35",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "\"Then stay. After you pull my tail, sit on the rock beside me and do not go home. You will see it. I will show you.\""
+    },
+    {
+      "id": "p36",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "The Long Night Dawn came, and this is exactly how it happened. The sky went from black to charcoal, and from charcoal to a soft dim grey. Bibi was there, exactly on time, and she pulled Lulu's tail with both small paws. Lulu's eyes opened. Her body said, very clearly: five more breaths. So she took the five breaths. And then she stood up, because a promise you keep to yourself is still a promise, even when nobody is watching."
+    },
+    {
+      "id": "p37",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "She climbed the Old Baobab in the dark, branch by branch, still drowsy, her tail heavy behind her. Far below, on the Great Flat Rock, seven troops of lemurs waited together, a hundred tails curled up in the grey. Then a thin pale line of light appeared along the edge of the world, and Lulu filled her chest and sang the first note. It was small. It cracked right in the middle. But it was first."
+    },
+    {
+      "id": "p38",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And then the forest answered. Seven troops, a hundred voices, rising up through the thorn trees and the baobabs and the last of the dark, until the whole Spiny Forest was singing, and the sun came up over the edge of the world to hear it."
+    },
+    {
+      "id": "p39",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "(beside her on the branch, watching the light) \"You were awake.\""
+    },
+    {
+      "id": "p40",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(out of breath, her heart still going fast) \"Barely.\""
+    },
+    {
+      "id": "p41",
+      "speaker": "Grandpa Koto",
+      "speakerZh": "老狐猴科托",
+      "text": "(nodding slowly) \"Barely is awake. Barely is the whole thing.\""
+    },
+    {
+      "id": "p42",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "(very quietly, staring at the sky, her huge eyes full of gold) \"It is so loud.\""
+    },
+    {
+      "id": "p43",
+      "speaker": "Lulu",
+      "speakerZh": "小狐猴露露",
+      "text": "(laughing) \"The sun? Bibi, the sun does not make any noise at all.\""
+    },
+    {
+      "id": "p44",
+      "speaker": "Bibi",
+      "speakerZh": "小鼠狐猴比比",
+      "text": "\"It does. It is loud in my eyes.\""
+    },
+    {
+      "id": "p45",
+      "speaker": "Narrator",
+      "speakerZh": "旁白",
+      "text": "And here is the secret, little one, before you close your eyes. Lulu did not become the Caller because she was stronger than the night, or because she never wanted to play. She wanted to play every single time. She became the Caller because she learned to choose what she wanted most over what she wanted right then - and because she was clever enough to ask a friend to knock on her door. So make your small plan. Draw your line in the sand. And if waking up is hard, find yourself a dawn bell. Good night, little one. Sleep well, and be awake for the morning."
+    }
+  ]
+}
